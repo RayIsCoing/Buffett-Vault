@@ -136,15 +136,15 @@ grep -i "Apple\|AAPL" <VAULT>/Notes/Holdings-History.md
 
 ## Critical Rules
 
-### No Default Rejection
+### Honest Analysis, No Predetermined Conclusions
 
-**Anti-rejection rule**: Every analysis must answer BOTH "why to buy" AND "why not to buy," then give a net verdict. One-sided rejection = analysis failure.
+**Core rule**: Every analysis must answer BOTH "why to buy" AND "why not to buy," then give a net verdict based on **actual data**. The conclusion must come from evidence, not from preference.
 
-If you find yourself giving Avoid/Watch to 80%+ of targets, your framework execution is biased:
+**Both directions of laziness are failures:**
+- Saying "avoid" to everything = lazy caution (Buffett missed Google, Amazon, Microsoft this way)
+- Saying "buy" to everything = lazy optimism (Buffett lost money on airlines, Kraft Heinz, ConocoPhillips this way)
 
-- Buffett missed Google, Amazon, Microsoft — his three biggest admitted mistakes
-- Buffett expanded his circle of competence to buy Apple in 2016, proving the framework adapts
-- "Saying No feels safe, but the cost of missing a wonderful business can be tens of billions"
+**Buffett's real record**: In 58 years, only about a dozen truly good decisions. Strong Buy should be **rare**. Watch and Avoid are legitimate, well-reasoned outcomes — not failures of analysis.
 
 ### Margin of Safety Is Quality-Tiered
 
