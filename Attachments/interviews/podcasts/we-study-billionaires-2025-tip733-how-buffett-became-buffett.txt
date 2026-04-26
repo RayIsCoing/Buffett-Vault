@@ -1,0 +1,599 @@
+TITLE: We Study Billionaires TIP733: How Warren Buffett Became Warren Buffett
+SOURCE: https://www.happyscribe.com/public/we-study-billionaires-the-investor-s-podcast-network/tip733-how-warren-buffett-became-warren-buffett
+DATE FETCHED: 2026-04-15
+================================================================================
+
+Request Podcast
+    
+
+    
+      
+
+    
+  
+
+  
+  
+    
+      
+        Surprise me
+      
+        
+          Podcasts
+        
+        
+          Youtube channels
+        
+      
+        About us
+      
+      
+        Request Podcast
+      
+    
+  
+
+    
+
+  
+
+  
+    
+      Home
+    
+      /
+      
+          Podcasts
+      
+      /
+      
+          We Study Billionaires - The Investor’s Podcast Network
+      
+  
+
+  
+    
+      
+    
+
+    
+      We Study Billionaires - The Investor’s Podcast Network
+      
+          
+            Business
+          
+          
+            Education
+          
+      
+      
+          
+            
+
+            66 episodes
+          
+        
+          
+
+          150K views
+        
+      
+
+      
+        
+          
+
+          
+            Copy link to podcast
+          
+        
+          
+            
+
+          
+            
+
+          
+            
+
+          
+            
+
+        
+
+      
+
+    
+
+    
+      Transcribed from audio to text by
+      
+  
+
+  
+    
+      
+          
+              
+  
+    BTC020: Bitcoin & Quantum Computing w/ Andrew Fursman (Bitcoin Podcast)
+      
+        In this episode, you'll learn:What is a quantum computer and why is it important for the futureHow does quantum computer threaten encryptionWhat is a Bloch Sphere and why is it importantWhy is quantum so good at solving specific problemsWhat is the potential timeline for Quantum to achieve the processing required to pose a threat to BitcoinWhat other application are there for Quantum computers beyond cracking encryptionThe differences between cracking elliptical curve key generation versus 2048 bit RSA.What are the energy impacts of quantum computing BOOKS AND RESOURCES MENTIONED IN THIS EPISODEWhat is a Bloch SphereAndrew Fursman's Company 1QbitAndrew Fursman's bioAn interesting paper that addresses Bitcoin and the impact of quantum computingPush your team to do their best work with Monday.com Work OS. Start your free two-week trial todayTake your business to the next level by hiring the right people with ZipRecruiterjoin OurCrowd’s Investment in Shield—an AI-powered platform that helps global financial enterprises meet increasingly complex communications compliance rules Open your account todayFind opportunities to help diversify your portfolio with investments in alternative asset classes with minimums starting at $1,000 with YieldstreetFollow other investors, discover companies to believe in, invest with any amount of money with Public.com. You’ll even get a free slice of stock when you joinHave everything you need to grow online with Squarespace. Use code WSB to save 10% off your first website or domain purchaseInvest in blue-chip art from artists like Monet and Basquiat with Masterworks. Use promo code WSB to skip their 15,000 person waitlistWhether you’re a small office sending out invoices, an online seller shipping out orders, or even a giant warehouse sending thousands of packages a day, handle it all with ease with Stamps.com. Use the promo code WSBBrowse through all our episodes (complete with transcripts) here.Support our free podcast by supporting our sponsors.
+
+01:16:52
+        
+      
+        
+
+        3.1K views
+      
+      
+        
+
+        Published about 5 years ago
+      
+    
+
+  
+
+              
+  
+    BTC019: Bitcoin's Layer 2 Lightning Network w/ Ryan Gentry (Bitcoin Podcast)
+      
+        In this episode, you'll learn:What is Bitcoin's second layer?Where does lightning labs fit into the second layerWhat is Lightning pool?How is liquidity managed on the second layerWhy does a person have an incentive to run a nodeWhy open channel with other nodesWhat are the nodes that will benefit the post from opening many channelsWhat are the incentives for people to use lightningWhat will things like Sphinx chat enable in the futureBOOKS AND RESOURCES MENTIONED IN THIS EPISODEFollow Ryan Gentry on TwitterFollow Lightning Labs on TwitterThe lightning labs websiteSphinx ChatRun an umbrel full nodeGet a FREE book on how to systematically identify and follow market trends with Top Traders Unplugged. Automate your money with M1 Finance. Get $30 when you sign up for free today. Push your team to do their best work with Monday.com Work OS. Start your free two-week trial today.Take your business to the next level by hiring the right people with ZipRecruiter.join OurCrowd’s Investment in Shield—an AI-powered platform that helps global financial enterprises meet increasingly complex communications compliance rules Open your account today.Invest in high-yield, professionally managed real estate, starting with as little as $10K with EquityMultiple.Find opportunities to help diversify your portfolio with investments in alternative asset classes with minimums starting at $1,000 with Yieldstreet.Follow other investors, discover companies to believe in, invest with any amount of money with Public.com. You’ll even get a free slice of stock when you join.Browse through all our episodes (complete with transcripts) here.Support our free podcast by supporting our sponsors.
+
+01:21:37
+        
+      
+        
+
+        2.5K views
+      
+      
+        
+
+        Published about 5 years ago
+      
+    
+
+  
+
+              
+  
+    TIP342: The Future of Food w/ Billionaire Jim Mellon
+      
+        In today’s episode, Trey sits down with billionaire, Jim Mellon. They discuss Jim's new book, “Moo’s Law". The book is about the future of food and how we, as investors, can profit.CNBC has referred to Jim as “Britain’s answer to Warren Buffett” and he brings a wealth of knowledge to this very wide-ranging discussion.IN THIS EPISODE, YOU'LL LEARN:Jim Mellon’s framework for the current market conditionsThe future of foodHuman longevityThe revolution occurring in sustainable energyBOOKS & RESOURCESPreston, Trey & Stig’s tool for picking stock winners and managing our portfolios: TIP Finance Tool Get a FREE book on how to systematically identify and follow market trends with Top Traders UnpluggedAutomate your money with M1 Finance. Get $30 when you sign up for free todayPush your team to do their best work with Monday.com Work OS. Start your free two-week trial todayTake your business to the next level by hiring the right people with ZipRecruiterjoin OurCrowd’s Investment in Shield—an AI-powered platform that helps global financial enterprises meet increasingly complex communications compliance rules Open your account todayInvest in high-yield, professionally managed real estate, starting with as little as $10K with EquityMultipleFind opportunities to help diversify your portfolio with investments in alternative asset classes with minimums starting at $1,000 with YieldstreetFollow other investors, discover companies to believe in, invest with any amount of money with Public.com. You’ll even get a free slice of stock when you joinBrowse through all our episodes (complete with transcripts) hereSupport our free podcast by supporting our sponsors
+
+48:17
+        
+      
+        
+
+        2.9K views
+      
+      
+        
+
+        Published about 5 years ago
+      
+    
+
+  
+
+              
+  
+    BTC017: Bitcoin Onchain Analytics & Timing w/ Charles Edwards (Bitcoin Podcast)
+      
+        In this episode, you'll learn:Charles' thoughts on how to value BitcoinWhat are hash ribbonsWhat are some Macro factors he's paying attention toWhat is the contango tradeBitcoin's price floor and how it relates to energy costsTop 3 investing lessonsBitcoin Tail RisksBOOKS AND RESOURCES MENTIONED IN THIS EPISODEBitcoin's production cost article by Charles EdwardsWhat are Hash Ribbons & Bitcoin by Charles EdwardsCharles Edwards fund at Capriole.ioCharles Edwards on TwitterGet a FREE book on how to systematically identify and follow market trends with Top Traders Unplugged. Elevate your writing with 20% off Grammarly Premium.Take your business to the next level by hiring the right people with ZipRecruiter.Automate your money with M1 Finance. Get $30 when you sign up for free today. Push your team to do their best work with Monday.com Work OS. Start your free two-week trial today.Take your business to the next level by hiring the right people with ZipRecruiter.join OurCrowd’s Investment in ByondXR—a platform that’s enabling the world's leading brands to attract customers with the future of virtual shopping journeys. Open your account today.Invest in high-yield, professionally managed real estate, starting with as little as $10K with EquityMultiple.Browse through all our episodes (complete with transcripts) here.Support our free podcast by supporting our sponsors.
+
+59:15
+        
+      
+        
+
+        3K views
+      
+      
+        
+
+        Published about 5 years ago
+      
+    
+
+  
+
+              
+  
+    TIP340: Hedge Funds, SPACs, and Chocolate w/ Jason Karp
+      
+        In today's show, Trey Lockerbie is joined by Jason Karp. Jason has had an incredible career, starting as a quant at major hedge funds like SAC Capital, under billionaire Steve Cohen, as well as Carlson Capital, where he became the Co-Chief Investment Officer. He then moved on to start his own fund, Tourbillon Capital, which at its peak managed over $4 Billion in AUM.Along the way, he helped his family start a successful company called Hu, most known for its chocolate bars, which was recently sold to Mondelez. For his next act, he has now founded HumanCo, which focuses on providing permanent capital to health and wellness brands, as well the launch of a recent SPAC or Special Purpose Acquisition Company.IN THIS EPISODE, YOU'LL LEARN:The view from the mountain topOpportunities in health and wellnessWhat is a SPAC and why they are so popular at the momentBOOKS AND RESOURCESHumanCO's WebsiteHumanCO/CAVU SPAC's WebsiteSunOpta's WebsitePreston, Trey & Stig’s tool for picking stock winners and managing our portfolios: TIP Finance ToolGet a FREE book on how to systematically identify and follow market trends with Top Traders Unplugged. Elevate your writing with 20% off Grammarly Premium.Take your business to the next level by hiring the right people with ZipRecruiter.Automate your money with M1 Finance. Get $30 when you sign up for free today. Push your team to do their best work with Monday.com Work OS. Start your free two-week trial today.Take your business to the next level by hiring the right people with ZipRecruiter.join OurCrowd’s Investment in ByondXR—a platform that’s enabling the world's leading brands to attract customers with the future of virtual shopping journeys. Open your account today.Invest in high-yield, professionally managed real estate, starting with as little as $10K with EquityMultiple.Support our free podcast by supporting our sponsorsGET IN TOUCH WITH TREY AND STIGTrey: Twitter | LinkedInStig: Twitter | LinkedIn
+
+55:38
+        
+      
+        
+
+        2.8K views
+      
+      
+        
+
+        Published about 5 years ago
+      
+    
+
+  
+
+                
+                  
+                  
+                
+
+              
+  
+    BTC016: Bitcoin Super-Cycle w/ Dan Held (Bitcoin Podcast)
+      
+        In this episode, you'll learn:Dan's Thoughts on the Overall Macro LandscapeBitcoin's potential Super-cycleKraken exchange data and Bank CharterComparing Yield opportunities in lending and Lighting PoolHis opinion on non-financial use cases for blockchainsWhere we are at in the technology adoption curveBitcoin's security model once the block reward diminishesBOOKS AND RESOURCES MENTIONED IN THIS EPISODEFollow Dan Held on TwitterCheckout Dan Held's Articles and websiteCheckout Dan Held's Youtube channelGet a FREE book on how to systematically identify and follow market trends with Top Traders Unplugged. Elevate your writing with 20% off Grammarly Premium.Take your business to the next level by hiring the right people with ZipRecruiter.Automate your money with M1 Finance. Get $30 when you sign up for free today. Push your team to do their best work with Monday.com Work OS. Start your free two-week trial today.Get into a topic quickly, find new topics, and figure out which books you want to spend more time listening to more deeply with Blinkist. Get 25% off and a 7-day free trial today.Bring your WiFi up to speed with Orbi WiFi 6 from NETGEAR.Browse through all our episodes (complete with transcripts) here.Support our free podcast by supporting our sponsors.
+
+01:08:45
+        
+      
+        
+
+        2.7K views
+      
+      
+        
+
+        Published about 5 years ago
+      
+    
+
+  
+
+              
+  
+    BTC015: Bitcoin & Peer to Peer Decentralized Lending w/ Max Keidun from Hodl Hodl (Bitcoin Podcast)
+      
+        In this episode, you'll learn:What are the primary differences between peer to peer lending/borrowing and centralized lendingHow is HodlHodl different than solutions being provided on platforms like EthereumDo lenders even care about what borrowers are doing with the funds?What are some of the risks associated with peer to peer lending/borrowingHow does HodlHodl manage regulator constraintsWhat is the significance of keeping 1 of 3 keys when lending & borrowingBOOKS AND RESOURCES MENTIONED IN THIS EPISODEFollow Max's platform on TwitterCheckout HodlHold.comGet a FREE book on how to systematically identify and follow market trends with Top Traders Unplugged. Trade domestic and international shares all from one stockbroking account with CMC Markets.Get twenty-five percent off your first two orders of Literati, a one-of-a-kind book subscription. Start them on a literary journey like no other today.Automate your money with M1 Finance. Get $30 when you sign up for free today. Take your business to the next level by hiring the right people with ZipRecruiter.Listen to the top stories, the top posts and tweets and conversations about those stories, as well as behind the scenes analysis of ALL the latest tech news every single day with TechMeme Ride Home.Have everything you need to grow online with Squarespace. Use code WSB to save 10% off your first website or domain purchase.Push your team to do their best work with Monday.com Work OS. Start your free two-week trial today.Create automated investment portfolios of diversified, low-cost index funds with Wealthfront. Get your first $5,000 managed for FREE, for life.Browse through all our episodes (complete with transcripts) here.Support our free podcast by supporting our sponsors.
+
+01:02:36
+        
+      
+        
+
+        2.4K views
+      
+      
+        
+
+        Published about 5 years ago
+      
+    
+
+  
+
+              
+  
+    TIP338: Current Market Conditions - 27 February 2021 w/ Stig and Trey
+      
+         On today’s show, Stig and Trey talk about the current state of the stock market. Specifically, they talk about how to interpret the low-interest rate environment, and why they don’t expect the stock market to have topped just yet. IN THIS EPISODE, YOU’LL LEARN:Why billionaire Stanley Druckenmiller says that this market is the most difficult time ever to write a playbook for Why commodities are priced to perform wellWhy there is an opportunity in emerging markets How to estimate the correct discount rate Ask The Investors: How should I position myself given the current market conditions?BOOKS AND RESOURCESCheck out TIP Finance that gives you access to our filter tool identifying the cheapest companies, and another filter ranking the international markets with the most value. Subscribe to our newsletters about the current market conditionsOur last current market condition episode where Stig pitched Bank of America Our interview with Annie Duke about resulting. Stig’s pitch on SpotifyCheck out our 20 Best Finance Podcasts in 2021Support our free podcast by supporting our sponsorsGET IN TOUCH WITH STIG AND TREYStig: Twitter | LinkedInTrey: Twitter | LinkedInHELP US OUT!What do you love about our podcast? Here’s our guide on how you can leave a rating and review for the show. We always enjoy reading your comments and feedback!
+
+59:29
+        
+      
+        
+
+        2.2K views
+      
+      
+        
+
+        Published about 5 years ago
+      
+    
+
+  
+
+              
+  
+    BTC014: Bitcoin Mining and Energy w/ Marty Bent and Harry Sudock (Bitcoin Podcast)
+      
+        In this episode, you'll learn:Does China control all the Bitcoin mining?Bitcoin uses so much energy, isn't that an issue?How Bitcoin is increasing productivity by reducing methane flaringHow Bitcoin is slowly changing the power grid (for the better)Is it better to invest in Bitcoin mining or just buy BitcoinHow likely is it until we start to see homes equipped with energy efficient tools to mine BitcoinBOOKS AND RESOURCES MENTIONED IN THIS EPISODEFollow Marty Bent on twitterCheckout Marty's podcast, Tales of the CryptCheckout Marty's company Great American MiningFollow Harry Sudock on twitterGet a FREE book on how to systematically identify and follow market trends with Top Traders Unplugged. Trade domestic and international shares all from one stockbroking account with CMC Markets.Elevate your writing with 20% off Grammarly Premium.Automate your money with M1 Finance. Get $30 when you sign up for free today. Take your business to the next level by hiring the right people with ZipRecruiter.Push your team to do their best work with Monday.com Work OS. Start your free two-week trial today.Get three months free when you protect yourself with ExpressVPN, the VPN we trust to keep us private online.Get in early on medical technology, breakthroughs in ag tech and food production, solutions in the multi-billion dollar robotic industry, and so much more with a FREE OurCrowd account. Open yours today.Get twenty-five percent off your first two orders of Literati, a one-of-a-kind book subscription. Start them on a literary journey like no other today.Listen to the top stories, the top posts and tweets and conversations about those stories, as well as behind the scenes analysis of ALL the latest tech news every single day with TechMeme Ride Home.Browse through all our episodes (complete with transcripts) here.Support our free podcast by supporting our sponsors.
+
+01:12:34
+        
+      
+        
+
+        6.5K views
+      
+      
+        
+
+        Published about 5 years ago
+      
+    
+
+  
+
+              
+  
+    TIP337: How to Identify Value in Commercial Real Estate w/ Ian Formigle
+      
+        On today’s show, we speak with Mr. Ian Formigle, about the COVID-19 impact and how to identify value in commercial real estate. Ian has over 24 years of experience in the Real Estate market, while his company has over 400 offerings with over $13 billion in commercial real estate.IN THIS EPISODE, YOU'LL LEARN:How to value commercial real estateHow to take advantage of the trends not fully priced into the market The best 5 cities to invest in Which habits we have changed and the impact on commercial real estateBOOKS AND RESOURCESContact Ian Formigle’s directly on LinkedIn Ian Formigle’ company, CrowdStreetIan Formigle’s outlook on 2021 for commercial real estateCrowdStreet’s free Educational MaterialIan Formigle’s book, The Comprehensive Guide to Commercial Real Estate Investing – Read reviews of this book Preston and Stig’s previous interview with Ian Formigle about COVID-19 implicationPreston and Stig’s previous interview with Ian Formigle about Commercial Real Estate Trends.Preston and Stig’s previous interview with Ian Formigle about stock investors including real estate in their portfolio Preston and Stig’s previous interview with Ian Formigle about Commercial Real EstateSupport our free podcast by supporting our sponsors GET IN TOUCH WITH STIG AND TREYStig: Twitter | LinkedInTrey: Twitter | LinkedIn
+
+01:02:02
+        
+      
+        
+
+        2.7K views
+      
+      
+        
+
+        Published about 5 years ago
+      
+    
+
+  
+
+                
+                  
+                  
+                
+
+              
+  
+    BTC013: Bitcoin Lending & Borrowing w/ Blockfi's Zac Prince & Mark Yusko (Bitcoin Podcast)
+      
+        In this episode, you'll learn:What are the basics of how Bitcoin lending worksWhat is over-collateralizationWhat are some of the risks w/ BlockfiHow does Blockfi protect against institutional lending that isn't over-collateralizedHow does Blockfi manage the escrow for depositorsWhat is the future going to bring for BlockfiDoes Zac Prince think lending rates will go higherBOOKS AND RESOURCES MENTIONED IN THIS EPISODELearn more about BlockfiFollow Zac Prince on twitterMark Yusko's firm, Morgan Creek Capital ManagementFollow Mark Yusko on twitterGet a FREE book on how to systematically identify and follow market trends with Top Traders Unplugged. Trade domestic and international shares all from one stockbroking account with CMC Markets.Elevate your writing with 20% off Grammarly Premium.Automate your money with M1 Finance. Get $30 when you sign up for free today. Take your business to the next level by hiring the right people with ZipRecruiter.Have everything you need to grow online with Squarespace. Use code WSB to save 10% off your first website or domain purchase.Get into a topic quickly, find new topics, and figure out which books you want to spend more time listening to more deeply with Blinkist. Get 25% off and a 7-day free trial today.Bring your WiFi up to speed with Orbi WiFi 6 from NETGEAR.Push your team to do their best work with Monday.com Work OS. Start your free two-week trial today.Browse through all our episodes (complete with transcripts) here.Support our free podcast by supporting our sponsors.
+
+01:05:26
+        
+      
+        
+
+        2.6K views
+      
+      
+        
+
+        Published about 5 years ago
+      
+    
+
+  
+
+              
+  
+    TIP336: Mental Models Used by Billionaires w/ Sahil Bloom
+      
+        In today's episode, Trey Lockerbie interviews Sahil Bloom. Sahil is a Vice-President at a Private Equity Firm, as well as a frequent contributor to CNBC. He also holds a degree in economics, and a master's degree in public policy, both from Stanford University.Sahil is a rising star in finance, who recently blew up on Twitter, going from 500 followers to now over 100,000 followers in about 6 months time, primarily due to his thoughtful stories on business and his simple breakdown of complex topics. IN THIS EPISODE, YOU'LL LEARN:Mental models used by billionaires like Howards Marks, Elon Musk and Warren BuffettThinking from First PrinciplesUnderstanding second and third order effectsThe power of compoundingDeveloping financial literacy And much, much more! BOOKS AND RESOURCES:Howard Marks’ Memos: MemosMatthew Ball: Website , Twitter Ben Thompson: Twitter Gavin Baker: Website , Twitter Jeff Booth book: The Price of Tomorrow 10k Diver: Twitter Sahil Bloom: Website , TwitterPreston, Trey & Stig’s tool for picking stock winners and managing our portfolios: TIP Finance Tool Get a FREE book on how to systematically identify and follow market trends with Top Traders Unplugged. Trade domestic and international shares all from one stockbroking account with CMC Markets.Elevate your writing with 20% off Grammarly Premium.Automate your money with M1 Finance. Get $30 when you sign up for free today. Take your business to the next level by hiring the right people with ZipRecruiter.Have everything you need to grow online with Squarespace. Use code WSB to save 10% off your first website or domain purchase.Get into a topic quickly, find new topics, and figure out which books you want to spend more time listening to more deeply with Blinkist. Get 25% off and a 7-day free trial today.Bring your WiFi up to speed with Orbi WiFi 6 from NETGEAR.Push your team to do their best work with Monday.com Work OS. Start your free two-week trial today.Howard Marks’ Memos: MemosMatthew Ball: Website , Twitter Ben Thompson: Twitter Gavin Baker: Website , Twitter Jeff Booth book: The Price of Tomorrow 10k Diver: Twitter Sahil Bloom: Website , TwitterPreston, Trey & Stig’s tool for picking stock winners and managing our portfolios: TIP Finance Tool Browse through all our episodes (complete with transcripts) hereSupport our free podcast by supporting our sponsorsGET IN TOUCH WITH TREY AND STIGTrey: Twitter | LinkedInStig: Twitter | LinkedInHELP US OUT!What do you love about our podcast? Here’s our guide on how you can leave a rating and review for the show. We always enjoy reading your comments and feedback!
+
+58:47
+        
+      
+        
+
+        2.9K views
+      
+      
+        
+
+        Published about 5 years ago
+      
+    
+
+  
+
+              
+  
+    BTC012: Bitcoin On-Chain Analysis w/ Plan B & Willy Woo (Bitcoin Podcast)
+      
+        In this episode, you'll learn:What are some of the most important trends and data Plan B and WIlly Woo are looking at todayWhat are their thoughts on a mature derivatives market having on the priceThoughts on the impact of CBDCThoughts on the India banImpact of TetherWhat is Willy's Go-To chartWilly's pricing model Vs Plan B'sThoughts on the Lightning NetworkBOOKS AND RESOURCES MENTIONED IN THIS EPISODEPlan B's TwitterAll of Plan B's writings at www.PlanBTC.comWilly's TwitterWilly's NewsletterGet a FREE book on how to systematically identify and follow market trends with Top Traders Unplugged. Elevate your writing with 20% off Grammarly Premium.Automate your money with M1 Finance. Get $30 when you sign up for free today. Give yourself an upgrade with Helix Sleep's perfect mattress for you. Get $200 off all mattress orders and 2 free pillows.Have everything you need to grow online with Squarespace. Use code WSB to save 10% off your first website or domain purchase.Create automated investment portfolios of diversified, low-cost index funds with Wealthfront. Get your first $5,000 managed for FREE, for life.Push your team to do their best work with Monday.com Work OS. Start your free two-week trial today.Browse through all our episodes (complete with transcripts) here.Support our free podcast by supporting our sponsors.
+
+01:12:24
+        
+      
+        
+
+        3.2K views
+      
+      
+        
+
+        Published about 5 years ago
+      
+    
+
+  
+
+              
+  
+    TIP335: Mastermind Q1 2021 w/ Tobias Carlisle and Hari Ramachandra
+      
+        In today's episode, Preston and Stig speak to Tobias Carlisle and Hari Ramachandra for the Mastermind Discussion of Q1 2021. Together, they sit down and talk about where they see value in the financial markets.They try and shoot holes in each other's stock picks and help each other as much as possible. It's a fun conversation that shows how they currently think about investing in these extraordinary times. IN THIS EPISODE, YOU'LL LEARN:Whether equities can be a temporary placeholder for cashHow to invest long/short in value stocks Which return can you expect if you invest in Brookfield Asset Management? Why ARK Fintech Innovation is still a buy despite a more year return above 100%BOOKS AND RESOURCESMastermind Discussion Q4 2020.Preston and Stig’s interview with Jeff Booth about his book, The Price of Tomorrow.Our interview with Cathie Wood.Ray Dalio’s argument of why stocks could be trading at 50x earnings.Wes Gray’s research on momentum and value performance.Preston and Stig’s tool for stock selection and determining the correlation of all US stocks and ETFs, TIP Finance.Preston and Stig’s FREE resource, Intrinsic Value Index.Subscribe to Preston and Stig’s FREE Intrinsic Value Assessments.Tobias Carlisle’s podcast, The Acquirers Podcast.Tobias Carlisle’s ETF, ZIG.Tobias Carlisle’s ETF, Deep.Tobias Carlisle’s book, The Acquirer's Multiple – read reviews of this book.Tobias Carlisle’s Acquirer’s Multiple stock screener: AcquirersMultiple.com.Hari’s Blog: BitsBusiness.com.Get a FREE book on how to systematically identify and follow market trends with Top Traders Unplugged. Elevate your writing with 20% off Grammarly Premium.Automate your money with M1 Finance. Get $30 when you sign up for free today. Give yourself an upgrade with Helix Sleep's perfect mattress for you. Get $200 off all mattress orders and 2 free pillows.Have everything you need to grow online with Squarespace. Use code WSB to save 10% off your first website or domain purchase.Create automated investment portfolios of diversified, low-cost index funds with Wealthfront. Get your first $5,000 managed for FREE, for life.Push your team to do their best work with Monday.com Work OS. Start your free two-week trial today.Browse through all our episodes (complete with transcripts) here.Support our free podcast by supporting our sponsors.GET IN TOUCH WITH HARI AND TOBIASHari: TwitterTobias: TwitterGET IN TOUCH WITH STIG AND PRESTONStig: Twitter | LinkedInPreston: Twitter | LinkedInHELP US OUT!What do you love about our podcast? Here’s our guide on how you can leave a rating and review for the show. We always enjoy reading your comments and feedback
+
+01:08:29
+        
+      
+        
+
+        2.7K views
+      
+      
+        
+
+        Published about 5 years ago
+      
+    
+
+  
+
+              
+  
+    BTC011: Bitcoin & Traditional Finance w/ Andy Edstrom (Bitcoin Podcast)
+      
+        In this episode, you'll learn:How typical financial managers deal with clients interested in BitcoinRegulatory Limitations for most fund managersBitcoin ETFsWhat's the right portfolio sizeWhat's Andy's biggest FUD busterBOOKS AND RESOURCES MENTIONED IN THIS EPISODEAndy's book, Why Buy BitcoinAndy's TwitterAndy's Bio at SwanBitcoin.comGet a FREE book on how to systematically identify and follow market trends with Top Traders Unplugged. Make BendHSA a part of your financial well-being today. Automate your money with M1 Finance. Get $30 when you sign up for free today. Elevate your writing with 20% off Grammarly Premium.Take your business to the next level by hiring the right people with ZipRecruiter.Push your team to do their best work with Monday.com Work OS. Start your free two-week trial today.Join OurCrowd's investment in NanoLock today.Mirror the asset allocation strategy of the world’s most successful institutional investors with EquityMultiple.Browse through all our episodes (complete with transcripts) here.Support our free podcast by supporting our sponsors.
+
+01:07:12
+        
+      
+        
+
+        2.5K views
+      
+      
+        
+
+        Published about 5 years ago
+      
+    
+
+  
+
+                
+                  
+                  
+                
+
+              
+  
+    TIP334: Disruptive Innovation w/ Cathie Wood
+      
+        On today's show, we have Cathie Wood from Ark Invest. Ark’s ETFs are fascinating and have been outperforming the market by a wide margin over the last year. For example, Ark’s Innovation ETF returned over 170% in the last year and it is now actively managing over $50 billion dollars.IN THIS EPISODE, YOU'LL LEARN:How innovation is often not priced into the marketHow Wrights Law can help determine future returnsThe 5 main areas of disruption that ARK is focused on and much much moreBOOKS AND RESOURCESArk-Invest ETFs: Ark InvestWright’s Law: Wright’s LawPreston, Trey & Stig’s tool for picking stock winners and managing our portfolios: TIP Finance Tool.Get a FREE book on how to systematically identify and follow market trends with Top Traders Unplugged. Make BendHSA a part of your financial well-being today. Automate your money with M1 Finance. Get $30 when you sign up for free today. Elevate your writing with 20% off Grammarly Premium.Take your business to the next level by hiring the right people with ZipRecruiter.Push your team to do their best work with Monday.com Work OS. Start your free two-week trial today.Join OurCrowd's investment in NanoLock today.Mirror the asset allocation strategy of the world’s most successful institutional investors with EquityMultiple.Browse through all our episodes (complete with transcripts) hereSupport our free podcast by supporting our sponsorsGET IN TOUCH WITH STIG AND TREYStig: Twitter | LinkedInTrey: Twitter | LinkedIn
+
+56:23
+        
+      
+        
+
+        2.7K views
+      
+      
+        
+
+        Published about 5 years ago
+      
+    
+
+  
+
+              
+  
+    BTC010: Bitcoin & Layered Money w/ Nik Bhatia (Bitcoin Podcast)
+      
+        In this episode, you'll learn:The history of Florentine Mint and how it changed European bankingA background on double entry book keepingCounterparty risk and how it impacts marketsThe importance of Disciplinary Constraint in bankingThoughts on the Velocity of MoneyThoughts on the governments' ability to shut down BitcoinWhat would make Nik change his mind about BitcoinNik's thoughts on Bitcoin regulationWhat would a yield curve look like with BitcoinThoughts on the new administrationNik's thoughts on the lightning networkBOOKS AND RESOURCES MENTIONED IN THIS EPISODENik Bhatia's new book, Layered MoneyNik's TwitterGet a FREE book on how to systematically identify and follow market trends with Top Traders Unplugged. Make BendHSA a part of your financial well-being today. Automate your money with M1 Finance. Get $30 when you sign up for free today. Elevate your writing with 20% off Grammarly Premium.ring your WiFi up to speed with Orbi WiFi 6 from NETGEAR.Take your business to the next level by hiring the right people with ZipRecruiter.Push your team to do their best work with Monday.com Work OS. Start your free two-week trial today.Give yourself an upgrade with Helix Sleep's perfect mattress for you. Get $200 off all mattress orders and 2 free pillows.Invest in blue-chip art from artists like Monet and Basquiat with Masterworks. Use promo code WSB to skip their 15,000 person waitlist.Browse through all our episodes (complete with transcripts) here.Support our free podcast by supporting our sponsors.
+
+01:13:29
+        
+      
+        
+
+        2.5K views
+      
+      
+        
+
+        Published about 5 years ago
+      
+    
+
+  
+
+              
+  
+    TIP333: Trend Following w/ Niels Kaastrup-Larsen
+      
+        On today’s show, we have a veteran of the finance industry, Mr. Niels Kaastrup-Larsen. We discuss how simulations of trend following work together with an equities portfolio, and how models built on historical data perform in a year with a pandemic that we have never seen before.Niels has been part of the hedge fund industry for more than 25 years. Throughout that period of time, he's implemented a trend-following approach to investing. IN THIS EPISODE, YOU'LL LEARN:Why trend following has a place in any diversified portfolio? How rule-based strategies work in a market when you don’t have historical data If trend following can give you returns not affected by the low-interest-rate environment How to best measure risk and returnBOOKS AND RESOURCESPreston and Stig’s interview with Niels Kaastrup-Larsen about Trend FollowingNiels Kaastrup-Larsen’s free guide and free book about trend followingListen to Niels Kaastrup-Larsen’s popular podcast, Top Traders UnpluggedNiels Kaastrup-Larsen’s interview episode with Preston about the failure of the dollarHow much Dunn Capital has outperformed the S&P500 since 1974Check out our top picks for the Best Investing Podcasts in 2020Browse through all our episodes (complete with transcripts) hereSupport our free podcast by supporting our sponsorsGET IN TOUCH WITH STIG AND PRESTONStig: Twitter | LinkedInPreston: Twitter | LinkedInHELP US OUT!What do you love about our podcast? Here’s our guide on how you can leave a rating and review for the show. We always enjoy reading your comments and feedback!
+
+57:47
+        
+      
+        
+
+        2.3K views
+      
+      
+        
+
+        Published about 5 years ago
+      
+    
+
+  
+
+              
+  
+    TIP333: Trend Following w/ Niels Kaastrup Larsen
+      
+        On today’s show, we have a veteran of the finance industry, Mr. Niels Kaastrup-Larsen. We discuss how simulations of trend following work together with an equities portfolio, and how models built on historical data perform in a year with a pandemic that we have never seen before.Niels has been part of the hedge fund industry for more than 25 years. Throughout that period of time, he's implemented a trend-following approach to investing. IN THIS EPISODE, YOU'LL LEARN:Why trend following has a place in any diversified portfolio? How rule-based strategies work in a market when you don’t have historical data If trend following can give you returns not affected by the low-interest-rate environment How to best measure risk and returnBOOKS AND RESOURCESPreston and Stig’s interview with Niels Kaastrup-Larsen about Trend FollowingNiels Kaastrup-Larsen’s free guide and free book about trend followingListen to Niels Kaastrup-Larsen’s popular podcast, Top Traders UnpluggedNiels Kaastrup-Larsen’s interview episode with Preston about the failure of the dollarHow much Dunn Capital has outperformed the S&P500 since 1974Check out our top picks for the Best Investing Podcasts in 2020Browse through all our episodes (complete with transcripts) hereSupport our free podcast by supporting our sponsorsGET IN TOUCH WITH STIG AND PRESTONStig: Twitter | LinkedInPreston: Twitter | LinkedInHELP US OUT!What do you love about our podcast? Here’s our guide on how you can leave a rating and review for the show. We always enjoy reading your comments and feedback!
+
+58:58
+        
+      
+        
+
+        2.4K views
+      
+      
+        
+
+        Published about 5 years ago
+      
+    
+
+  
+
+              
+  
+    BTC009: Bitcoin Engineering w/ Core Developer Jimmy Song (Bitcoin Podcast)
+      
+        In this episode, you'll learn:How are Bitcoin updates generated between developersHow are Bitcoin updates released once completeHow are new versions tested and agreed toWhat happens if updates aren't used by full node operatorsWhy full node operators are important versus why miners are important51% attacksQuantum computing and it's potential threat to BitcoinOther engineering threats to BitcoinJimmy's thoughts on interesting software initiatives moving forwardBOOKS AND RESOURCES MENTIONED IN THIS EPISODEJimmy Song's new Book, Thank God For BitcoinJimmy's Book, Programming BitcoinJimmy's Podcast, OffChainGet a FREE book on how to systematically identify and follow market trends with Top Traders Unplugged. Make BendHSA a part of your financial well-being today. Automate your money with M1 Finance. Get $30 when you sign up for free today. Get three months free when you protect yourself with ExpressVPN, the VPN we trust to keep us private online.Elevate your writing with 20% off Grammarly Premium.Create automated investment portfolios of diversified, low-cost index funds with Wealthfront. Get your first $5,000 managed for FREE, for life.ring your WiFi up to speed with Orbi WiFi 6 from NETGEAR.Take your business to the next level by hiring the right people with ZipRecruiter.Push your team to do their best work with Monday.com Work OS. Start your free two-week trial today.Browse through all our episodes (complete with transcripts) here.Support our free podcast by supporting our sponsors.
+
+01:26:24
+        
+      
+        
+
+        2.4K views
+      
+      
+        
+
+        Published about 5 years ago
+      
+    
+
+  
+
+          
+
+          
+  
+
+    
+          1
+          2
+          3
+    
+
+      
+        Next
+        
+          
+        
+      
+  
+
+      
+
+        
+          
+            Description of We Study Billionaires - The Investor’s Podcast Network
+          
+
+          
+            We interview and study famous financial billionaires including Warren Buffett and Howard Marks, and teach you what we learn and how you can apply their investment strategies in the stock market.

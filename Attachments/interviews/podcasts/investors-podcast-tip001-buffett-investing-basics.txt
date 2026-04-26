@@ -1,0 +1,74 @@
+TITLE: TIP001: Warren Buffett Investing Basics Part 1
+SOURCE: https://www.theinvestorspodcast.com/episodes/ep-1-warren-buffett-investing-basics-part-1/
+DATE FETCHED: 2026-04-15
+================================================================================
+
+Stig has studied stock valuation at Harvard University, worked as a power trader (it was as stressful as it sounds!), and now works as a college professor in finance (more fun than it sounds!). Preston graduated from West Point with a degree in aerospace engineering. Together they have studied and written books about Warren Buffett and how he invests in stocks.
+
+Preston and Stig decided to share their passion with the world and stood up the site BuffettsBooks.com a few years ago. The next natural step has been creating this podcast to talk about Warren Buffett and other billionaire’s investing approaches. In later episodes, they will bring in guests to join the lively discussion.
+
+Think about Tom Cruise in Jerry Maguire. He works as a sports agent and is being told to have one purpose: “Show me the money!!!”. Investing is really as simple as that. Warren Buffett wants to know how much profit a company is making. Ultimately there is no reason to buy a stock if it’s not profitable, or soon going to be profitable.
+
+Valuation does not have to be hard. As a rule of thumb, you can multiply the yearly net income of a company by 10. So a coffee shop with a net income of $10,000 could be valued at $100,000. This is the same as having a Price to Earnings ratio (P/E) of 10. In other words, you pay $10 for $1 profit (or a 10% annual return). As you can see Warren Buffett wants to buy stocks with a low P/E. For example, if the P/E was 5, and the profit was still $10,000 for the Coffee Shop, that would offer the potential buyer the same business for $50,000 (or a return of 20%).
+
+Intrinsic value is a fancy word for “what is the company really worth”? Warren Buffett is a smart guy and always knows what the true value of a stock is before he buys it. Just like everybody else, Warren Buffett likes shopping and finding good products at discounted prices… However, when he shops, it is not at the local mall – he shops at the stock market. An important piece of the puzzle to figuring out the intrinsic value for Warren Buffett is asking how much money the company is making, how much will it continue to make, and how much is he willing to pay for that profit or net income.
+
+A share is small ownership of a real business. Think about it like this: A single slice of pizza has the same taste as the whole pizza. Unless you are very rich, you won’t have the option to buy the whole business. Businesses know that, and therefore break-up their companies into small pieces (or shares) so everybody can afford a piece. For just $20-40 you can buy a single share of some of the biggest businesses in the world. The great part is the share is completely proportional to every other share, therefore owning one share is no different than owning all of the shares.
+
+Who said you need to be a genius to become a billionaire? This simple and fantastic quote from Warren Buffett pretty much sums up the most important takeaway for the first episode:
+
+“Rule #1, don’t lose money. Rule #2, don’t forget rule #1.“ – Warren Buffett
+
+One of the most common questions we receive is which broker do you use? We recommend TradeKing.com because they only charge $4.95 per trade and have no annual fees. Additionally, they will give you $1,000 worth of trades for opening an account and $150 if you switch from another broker. Watch the video above if you want to learn how to open an account.
+
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+
+Intro 0:00
+
+Broadcasting from Bel Air Maryland, this is The Investor’s Podcast. They’ll take complex things and make them seem insanely simple. They make your boring drive to work feel exhilarating. They give you actionable investing strategies. Your hosts, Preston Pysh and Stig Brodersen!
+
+Preston Pysh 1:07
+
+All right, how’s everybody doing? This is Preston Pysh, and I’m your host for The Investor’s Podcast. And I’m accompanied by my co-host, Stig Brodersen.
+
+Stig Brodersen 1:16
+
+Hello, everyone! Preston and I are just so pleased that you chose to spend the day with us.
+
+Preston Pysh 1:21
+
+All right, guys! So, let’s go ahead and kick off this first show. And we have two segments for the first show. In segment one, we’re going to give you a brief introduction of who we are and our goals for the podcast. And then, when we move into the second segment we’re gonna be talking about what it is that’s made Warren Buffett the great investor that he is today. And for anyone out there, Warren Buffett is a very famous stock investor who’s amassed about $66 billion. So that’s who we’re going to be talking about first. So Stig, let’s go ahead and start off the intro and the goals here. So go ahead and introduce yourself.
+
+Stig Brodersen 1:54
+
+Okay, guys! So thanks for the introduction, Preston. My name is Stig Brodersen. I have a background in valuation from Harvard University. I had also been a commodities trader on the trading floor, actually. Right now, I’m a college professor. I am teaching accounting. I am teaching economics, but most importantly, stock investing.
+
+Preston Pysh 2:13
+
+All right, Stig! Perfect. So my introduction, my name is Preston Pysh. I graduated from West Point with a degree in aerospace engineering. Later on, I really took up a lot of interest in investing, and particularly investing with the approach that Warren Buffett uses. Through the years I’ve studied every book that Benjamin Graham, who is one of Warren Buffett’s professors that he attributes to all of his success in the stock market. I’ve studied all those books that Benjamin Graham has written, and so has Stig. And between the two of us, we started a website online called buffetsbooks.com. And the aim of the site was to take all these complex books and make them simple and easy for people to understand. And so we created this website; we’ve written a couple of books; and so now, we’re standing up a podcast to give you a different medium to learn this information as you’re driving to work or any other time that you don’t have to sit down at a computer and learn. So in addition to teaching our listeners how to invest like Warren Buffett, we’re also going to conduct many interviews and have discussions about books by billionaires. So Stig and I would like to refer to these episodes as the Billionaire’s Book Club episodes. About every other week, Stig and I will choose a very interesting billionaire, entrepreneur, or highly successful investor, and have a discussion about the books and high points and overall philosophy that has made that particular person such a financial success. So in summary, our goal is to teach you how to think and invest exactly like Warren Buffett. And in addition to that, we want to explore the thought patterns and ideas of other billionaires and highlight their most valued guidance and secrets to their success. So that’s what we’re trying to accomplish here. All right, so let’s go ahead and move into the second segment. So in the second segment, what we’re going to do is we’re going to talk to you about the basics. We’re going to teach you from the ground level up. Give you a really good foundation on how it is that you can invest exactly like Warren Buffett, okay? So the first point that we’ve got in order for you to invest just like this billionaire, is that you have to treat these big, multibillion-dollar companies the same way that you would treat a small business just in like your local town. So that’s the first leap. That’s the first thing that you’ve got to understand. And if you don’t treat it in that respect, you’re going to have a hard time investing like him and some other, you know, billionaires that use this value-based approach that Buffett’s professor, Benjamin Graham, had taught them. So before we go any further, let’s go ahead and talk about that in a little bit more detail. Let’s go ahead and say that…let’s try to figure out what the value of a small business in your local town would be. And then we’ll kind of step it from there into like a larger scale business and then ultimately how you would value stock, okay? So when you look at a small business in your local town. If you were going to go and you were going to buy a small business, what would be one of the first questions that you would ask? So Stig, like let’s say that I, you know, you’re trying to buy a business and a local town here in the US, what would be one of the first questions you would ask the owner of that, of that business if you were trying to buy it?
+
+Stig Brodersen 5:19
+
+Okay, guys! I really need to learn with you here because I am mainly interested in profit. I guess I’m like everybody else here. If I need to buy something; if I need to buy a business, I would always ask the first question, “How much profit is the company making?”
+
+The full transcript is only available to logged-in users.
+
+Log in here or create a new account here.
+
+Help us reach new listeners by leaving us a rating and review on Apple Podcasts! It takes less than 30 seconds and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+
+Check out our latest offer for all TIP listeners!
+
+Get smarter about valuing businesses in just a few minutes each week.
+
+Get the weekly email that makes understanding intrinsic value easy and enjoyable, for free.
+
+We are an exclusive business podcast network which aims to educate people all over the world about how to grow financially and personally.
+
+We are an exclusive business podcast network which aims to educate people all over the world about how to grow financially and personally.
+
+We are an exclusive business podcast network which aims to educate people all over the world about how to grow financially and personally.
+
+The Investor’s Podcast Network © 2026 All Rights Reserved.
+
+The Investor’s Podcast Network © 2026 All Rights Reserved.

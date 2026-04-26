@@ -1,0 +1,1298 @@
+CNBC Interview Transcript
+Date: 2018-02-26
+Source: https://www.cnbc.com/2018/02/26/full-transcript-billionaire-investor-warren-buffett-speaks-with-cnbcs-becky-quick-on-squawk-box-today.html
+================================================================================
+
+WHEN: Today, Monday, February 26th
+
+WHERE: CNBC's "Squawk Box"
+
+Following is the full unofficial transcript of a CNBC interview with Berkshire Hathaway Chairman & CEO Warren Buffett on CNBC's "Squawk Box" (M-F, 6AM-9AM ET) today, Monday, February 26th. Video from the interview is available on CNBC.com.
+
+All references must be sourced the CNBC.
+
+JOE KERNEN: Good morning, and welcome to Squawk Box, here on CNBC, live from the NASDAQ market site in Times Square. I'm Joe Kernen. Becky, you just saw live in Omaha with-- oh, with Warren Buffett, okay. All right. I got it. We'll get back to her-- in just a minute, though. I didn't-- I misunderstood. So-- that's why-- that's why you're out there, three hours with the--
+
+BECKY QUICK: That's why I'm here.
+
+JOE KERNEN: Excellent. Excellent. How many? I gotta look these futures though. How many questions do you have from our viewers, do you think, Becky? Do--I mean, everybody—
+
+BECKY QUICK: A lot. And I—
+
+JOE KERNEN: --everybody should get in.
+
+BECKY QUICK: --and I have to say, the questions are really good this year. People have gone through. It's not just like, "What's your favorite stock? Tell me which stock to buy." Like, 58,000 variations of that same question. Lot of other things that are happening here too. But yeah, questions are good, so a lot going on—
+
+JOE KERNEN: Excellent. All right. Let's-- the-- the markets are crazy, Becky. Three-- what-- was that on-- 350 on Friday when it was all said and done, and-- strongly higher again this morning. Almost 200. And--also-- well, we'll take a quick look. Here's a check on the markets. U.S. equity futures-- at this hour are, as you can see, 193 points indicated on the Dow. The NASDAQ up another 25. The NASDAQ had been diverging a little bit last week, until Friday. 127 points-- for the NASDAQ on Friday-- which was almost 2%. That's a big move that we saw. And-- continuing buying going on in-- across the board-- in this country, and actually in Asia and Europe overnight. Some strong market action, and some interesting moves in the ten-year note as well. But there's-- you can see the NIKKEI was up more than-- a percentage point, which added 22,000. That gives us 260 points. Hang Seng-- up-- sharply as well. Check out Europe, green across the board in-- in Europe when I watched, or at least looked-- this morning. Not quite the gains that we're seeing here, or in Asia. But we'll see what happens as we move forward. It's only 6:01. And then-- treasury yields moderating on the ten-year. Which, that is-- you know, it-- I guess it's a double-edged sword. As we get closer to 3%, sometimes you see a little pressure on the stock market. I guess if we don't immediately go there, and if we trade below 290, and I don't know if it went below where it is now, let's say it goes down-- maybe that becomes-- you know, maybe that lights a fire under the stock market when-- just by not going to 3%. We'll see. Anyway, we now know-- Becky, that there was-- quite a bit of margin-- selling, I guess, going on-- in that route, which explains how quickly it moved, andhow far it moved. But we'll get back after you, and you can answer to Warren--
+
+BECKY QUICK: You're talking about the lead story, or one of the lead stories in the Wall Street Journal today about the margin selling that—
+
+JOE KERNEN: Yeah. I don't know if Buffett buys
+
+BECKY QUICK: --$642.8 billion.
+
+JOE KERNEN: --I assume he probably doesn't-- buy-- you know. Maybe he does. When-- huh—
+
+BECKY QUICK: Never. And in fact, he wrote a big chunk about that in the annual letter. The-- he wrote a big part about that in his annual letter to shareholders this year is the dangers of margin investing and-- and using leverage, right, Warren?
+
+WARREN BUFFETT: Yeah. Uh-huh.
+
+JOE KERNEN: Yep. Yeah.
+
+BECKY QUICK: Right. So we will talk about that.
+
+JOE KERNEN: That-- would be a yes. Okay, good.hey, Warren, my man, Creighton, did you—
+
+WARREN BUFFETT: Hi.
+
+JOE KERNEN: --did you watch—
+
+WARREN BUFFETT: Joe, how are you?
+
+JOE KERNEN: I'm great. Did you see-- that was so awesome. That game the other day. It was-- I'm not a big Villanova fan. Not for nothing. But just because Xavier-- I'm not. I really am not. And-their good players absolutely drive me nuts. That DiVincenzo, he is-- he sticks a dagger into Xavier so often. But how great that they-- I thought they shoulda won in regulation, and then you saw how it went to-- I don't know if you saw the game, but wow, they really came on strong. They got the initial tip in overtime, right, and then they won. And then they beat Villanova. It was awesome.
+
+WARREN BUFFETT: Joe, we're having our basketball bracket contest for Berkshire employees here in a couple of weeks, and with the same prizes as last year. But if either Creighton or Nebraska ends up winning the tournament, we're going to double the prize. So instead of being $1 million—
+
+BECKY QUICK: Really?
+
+WARREN BUFFETT: --it's gonna be $2 million—
+
+JOE KERNEN: This is breaking news. This is-- what I was looking for—
+
+BECKY QUICK: Wow.
+
+JOE KERNEN: But you know—
+
+WARREN BUFFETT: This is breaking news.
+
+JOE KERNEN: Yeah, Creighton almost-- Creighton just barely-- lost to Xavier, and then they beat Villanova. So any-- I mean, I wouldn't-- how big is that coach? 'Cause I-- he looks big, but then I saw him with his players—
+
+WARREN BUFFETT: He is. He's big. He's big.
+
+JOE KERNEN: --he's got-- he's, like, 11 feet tall—
+
+WARREN BUFFETT: He—
+
+JOE KERNEN: I think. He's like Hagrid, that dude—
+
+WARREN BUFFETT: Well, he's got a big son, too.
+
+JOE KERNEN: He does too. He's also awesome— All right, we better get-- we-- you know, Becky, we got three hours, though, right? We got three hours. So-- we can—
+
+BECKY QUICK: We do. We have plenty of time. Just the three of us for the next three hours. We're good—
+
+JOE KERNEN: --okay. And that was breaking news. Doubling—
+
+BECKY QUICK: It-- was. And I'm sure this was going to come at some point. Doubling the prize, the bounty.
+
+WARREN BUFFETT: If Creighton or Nebraska wins the tournament—
+
+BECKY QUICK: And-- by the way, is Joe allowed to play this year?
+
+WARREN BUFFETT: You know, I will include him. I'll book him personally. The company is going to award the prize for whoever goes the furthest. And if you get through the Sweet 16, you get $1 million a year for life. Which, if Creighton or Nebraska won, would be $2 million a year for life.
+
+BECKY QUICK: I want a finder's fee, Joe, if you win.
+
+JOE KERNEN: I want-- so he'll do--we can do our own little bet, Warren? Can we do somethin' w-- like, right, here we go again-- I'm like a broken record. Can we do somethin' with NetJets? I mean, can we do -- something like-- private jet travel for life—
+
+BEKY QUICK: You win $1 million for life, you can buy your own NetJet.
+
+JOE KERNEN: Oh, that's true--
+
+WARREN BUFFETT: Is it- your brick against my NetJets? Is that what-- you're suggesting--
+
+JOE KERNEN: That's-- right. It's my brick. My brick. All right, we're done. Go, go, go. I'm-- get start--
+
+WARREN BUFFETT: Well, we'll negotiate.
+
+JOE KERNEN: All right.
+
+BECKY QUICK: All right, let's get right to the news with our newsmaker of the morning. Berkshire Hathaway's chairman and CEO Warren Buffett is with us. And-- Warren, you're here, or we're here, I should say, we're here in Omaha because you just put out your annual letter to shareholders, and you've sat down with us for-- seven or eight years at this point, and let us come out and have viewers-- read your letter, have questions about that, and then get the chance to talk to you about it. And this is the 53rd letter to shareholders that you've written—
+
+WARREN BUFFETT: I think it's the 53rd, yeah. Uh-huh.
+
+BECKY QUICK: All right, so the 53rd annual letter. And this one was a little different. You actually broke with some of the formatting that you've been doing for years now, where you lay out and go through each of the companies and tell us how they're doing. Why--did you decide-- to shake things up after 53 years—
+
+WARREN BUFFETT: Well, I'm 87. Maybe I'm in my second childhood. In a different way. I just felt we'd sorta worn out that format, and there was quite a bit of information that I would put in the letter that was repeated in the 10-K. So we just append the entire 10-K, and-- you're right, it's-- probably 60% or 65% as long as-- previous letters.
+
+BECKY QUICK: Yeah-- which is-- look, as somebody who doesn't like change on any level, I'm amazed to see you doing this. I-- yeah, like, throwing it right out the window and going with it. But let's talk about some of the big news items that come right at the top of the letter. The first is that there's a $65.3 billion increase in net worth for the company in 2017. $29 billion of that comes from the tax changes, from the U.S. government making those tax changes. Why don't we dig into that. Explain what that means. How significant is that?
+
+WARREN BUFFETT: Well, there were two primary items, but they both reduced a deferred tax liability. We had about $100 billion of unrealized gain in equities. Now, when they're sold, you pay tax on that. And--previously when the tax was 35%, we would've had a $35 billion reserve for taxes against that as a liability. That would drop to about $21 billion. So $14 billion, roughly-- was a reduction in the amount of tax that, when we sell those securities, we will pay. Wasn't cash now, but it reduced a liability. And when you reduce a liability, net worth goes up. And the other important point related to the same thing, deferred income taxes, when we buy some kind of fixed asset, locomotive or whatever it may be, we're entitled-- in previous years to 50% depreciation in the first year, and let's say it's gonna last ten years. That may last longer, to make it easy. Well, you would normally, on a book basis, depreciate it ten-- $1 million a year on a $10 million asset over ten years. For tax purposes, you've got to have what they call bonus depreciation and take 50% of it the first year, $5 . So you're gonna get the same amount of depreciation over time. But you got the tax deduction earlier, and that became a deferred tax. And we have a lotta that. We've got it in the railroad, we've got it multiple places. The amount that was saved with the utility companies goes to the customers. So that was about $6 billion. And we gave-- we set that up as a liability, 'cause that will go to the customers. But the amount that related to the normal-- you know, the locomotives or whatever it may be-- we got a reduction because that depreciation we'll take later on, which-- for book purposes, we've already taken for tax purposes, will come and be taxed at 21% instead of 35%. Those are the two big items.
+
+BECKY QUICK: You-- were not a proponent of pushing through this tax reform, but you have talked pretty extensively about it--what it's going to mean for American business. It is a huge tailwind for American business—
+
+WARREN BUFFETT: It's a huge tailwind. And it's particularly a tailwind if you've got-- particularly for companies that have had lots of depreciation and taken bonus depreciation up front. So it's a big item-- there. Not as many companies have lots of appreciation and marketable securities, but it's a big item for those that do.
+
+BECKY QUICK: What-- will it mean for American business overall, and-- as a-- posit of that, what will it mean for the economy over the next year and over the next several years?
+
+WARREN BUFFETT: Well, it-- certainly means corporations will pay quite a bit less in tax than they otherwise would. And-- because the ongoing rate is 21% instead of 35%. So forget about these changes that apply to the past. When we make money in 2018-- domestically, and subject to a lotta little things here and there, but basically we'll be paying at 21% instead of 35%. So that's a lotta money. And-- you know,we haven't really gotten cash yet from this, but we will save cash as we go along.
+
+BECKY QUICK: Joe?
+
+JOE KERNEN: In-- just thinking about some of your comments in the past, Warren, I don't think you thought American business was overtaxed. You've made that point many, many times. Or maybe you were saying that if they were taxed less, it wouldn't necessarily make it better for them. They're doin' just fine the way they were with the old tax rate. You said that many, many times-- on the show. And I know you think people like you and Bill Gates and others of the wealthy should pay more. So I think you have a stated-- sort of objective that the government needs more money to do what it wants to do. In this case, what you just said, is that a positive for the country, that Berkshire now is going to have more control about where that capital is allocated, rather than the government having control of where that capital is allocated-- is that a net positive for the country or a net negative for the country, in your view?
+
+WARREN BUFFETT: Well, it depends whether they'd instead of allocating it to us, they'd allocate it to the people who-- on very low incomes, or as-- if they were going to give a tax cut, the question is who they gave it to. And you know, and there are all kinds of provisions there, but--
+
+JOE KERNEN: Well-- no, I just mean-- but-
+
+WARREN BUFFETT: --but basically—
+
+JOE KERNEN: --we're not talking about we're talking about Berkshire Hathaway now gets that money instead of the government. Do you think that's a net positive that it's kept in the private sector, or a net negative-- because if you think it's-- a net negative, you're free to write that check and say, "I--don't like this tax law. Take the money from Berkshire and give it to the low-income people," or whatever. You could do that. Or-- do you think it's better that—
+
+WARREN BUFFETT: Well, I-- we--Joe, we have 1 million shareholders. I think I'd get shoo-- sued by about 999,000 if I start making voluntary payments from--
+
+JOE KERNEN: If that wasn't the case-- if that wasn't the case, would you do it? Would you give it-- if the shareholders would go along with you- I just think it's really good for Berkshire, and I wonder if you can just agree with me on that.
+
+WARREN BUFFETT: No, it's really good for Berkshire. There's no question about it. That's the point—
+
+JOE KERNEN: What about for society in general? Don't you think you can do great things with the-- incremental addition that-- that you-- with-- wouldn't you rather have it than have the-- you know, maybe people that don't use it as effectively—
+
+WARREN BUFFETT: Everybody would rather have it. The question is whether-- but, you know, whether-- whether—
+
+JOE KERNEN: Okay. I'm-- all right , I-
+
+WARREN BUFFETT: --who you give it to.
+
+JOE KERNEN: --you're-- I've never been able to get you—
+
+WARREN BUFFETT: I-- would so—
+
+JOE KERNEN: I can't get you on these things. I—
+
+WARREN BUFFETT: Well--
+
+JOE KERNEN: --but I think, if I read between the lines, I think it's-- I think you like this. I think it's good. And I think that it's not a net negative for society that-- that the private sector gets to compete globally better. Whatever you-- however you wanna look at it, it's a net positive. And-- you know, if you don't like it, I think you oughta just-- 'cause I can-- just sign that check and send it off. It'd be, what'd you say, $29 billion?
+
+WARREN BUFFETT: Unlike some people, I don't believe in giving away other people's money.
+
+BECKY QUICK: I think that's probably an area where you two could agree.
+
+JOE KERNEN: I-- think there's times where you've recommended giving away other people's money, although it would include you. Anyway, okay, that's all. That-- I just wanted to-- now I'm goin'—
+
+WARREN BUFFETT: Okay.
+
+JOE KERNEN: --I'm goin' back to the brackets. Let me just see here. (LAUGHTER)
+
+WARREN BUFFETT: Well, if you were in the money, Joe, you're gonna pay a big tax on this. I mean—
+
+JOE KERNEN: Okay
+
+WARREN BUFFETT: You'll--wish they cut personal rates a lot more, believe me, unless you incorporate your—
+
+JOE KERNEN: ask Becky. Talk to Becky. Talk—
+
+WARREN BUFFETT: --your brackets.
+
+JOE KERNEN: -we both know about this, don't we Becky?
+
+BECKY QUICK: We do.
+
+JOE KERNEN: I mean, b-- between the agencies and the-- and—
+
+BECKY QUICK: State and local taxes, the state and local taxes goin' up—
+
+JOE KERNEN: --and the state and local taxes. Right.
+
+BECKY QUICK: --it's gonna hit a lotta people.
+
+JOE KERNEN: I think my taxes are similar to yours, Buffett— I think I'm paying more than you, 'cause you take no income. I do. I think I'm probably paying more than you. (LAUGH) I know how you work things.
+
+WARREN BUFFETT: Yeah. I-- think you probably pay a higher rate, Joe.
+
+JOE KERNEN: Yeah, there's no—
+
+WARREN BUFFETT: I don't think you're paying more in dollars, probably, but you're paying a higher rate—
+
+JOE KERNEN: But I don't mind. I don't mind. I'm fine. I'm good. I live in the greatest country in the world—
+
+WARREN BUFFETT: I don't mind either.
+
+JOE KERNEN: I'm not complaining.
+
+WARREN BUFFETT: I agree with you on that. No, I do not think we're undertax-- or overtaxed.
+
+JOE KERNEN: Excellent.
+
+BECKY QUICK: Warren, let's talk about another big change that you mentioned in the letter too. And this is about accounting change that's gonna come. And--it's going to make your results a little-- tougher-- for individuals to really realize what's happening on--- a actual basis with the company. So how the companies are performing. What-- is that accounting change? And it's accounting. It sounds boring. But I think it's important.
+
+WARREN BUFFETT: Well, it is important. I mean, we will report-- well, we would of reported, I don't know how much more, maybe $15 billion or something like that more income last year than we did under the rules that have just been adopted. Because they are going-- the accounting profession requires that we now run gains or losses, unrealized, just as our stocks go up and down, we run those through the income account. So here we're running a normal business like the railroad, and then you're interested in how that does on an operating basis. But we have $170 billion of stocks, and they might go up $10 billion in a quarter, and down-- or down $10 billion. We formerly always reflect that in the balance sheet. Now it has to go through the income account. So you're going to see a bottom-line net income figure which really has no relevance to operating results. And-- you know, people will look at the report and they look at the bottom and it says, "Net income." It-'ll be a totally deceptive figure. And--
+
+BECKY QUICK: You said—
+
+WARREN BUFFETT: --and we're warning people about that.
+
+BECKY QUICK: Right. You've said that you and Charlie are gonna make-- take pains to make sure you explain to people exactly what this means. Have you talked to Ajit and Greg-- Ajit Jain and Greg Abel, about making sure, if they were in charge of things, that they would continue to do the same?
+
+WARREN BUFFETT: Oh, they would understand that in one second. But people are used to seeing an item that says, "Net income," and have that mean something. The answer is, it doesn't mean anything at Berkshire—
+
+BECKY QUICK: Is that-- a Berkshire-specific situation, though, because you have $170 billion in stocks?
+
+WARREN BUFFETT: Yeah, it makes us-- it makes us like securities firms. A Goldman Sachs would have to report that way in the past, but they're in the trading business of stocks and bonds going up. But-- we've got an unusual amount of marketable shares. But other insurance companies are gonna have to do exactly the same thing. So you'll see, you know, you name it-- Chubb or whatever it is, that they're going to report-- unrealized gains or losses as net income, or against net income, each quarter.
+
+BECKY QUICK: Obviously that'll fluctuate with market-- with the markets going up or the markets going down. That'll have a huge impact on things. What you also said in your letter that's so interesting is that you've got $116 billion in cash, at least you did at the end of the year, that you'd love to put to work. But when you look around, you have a hard time finding values. You said basically, prices were decent but far from spectacular. Business is at an all-time high.
+
+WARREN BUFFETT: That's true.
+
+BECKY QUICK: Does that mean that-- market overall is overvalued, based on what you-- what you think is fair—
+
+WARREN BUFFETT: Not necessarily. I mean, it--in fact, I-- the market-- the stock market relative to the long-term bond market-- people have free choices, pretty much, if they're going to be in marketable securities. They can own reasonably long-term bonds, they can own equities, or they can keep it in short-term cash equivalents. And--- if-you had to choose between buying long-term bonds or equities-- I would choose equities in a minute now.
+
+BECKY QUICK: You would choose equities in a minute? They are—
+
+WARREN BUFFETT: That doesn't mean I think the stock market is gonna go up or anything else. But if- I were going to own a 30-year government bond or own equity for 30 years, I think equities will considerably outperform that 30-year bond over the 30 years. I don't know what they're gonna do in any day or week or month, but I think that-- I've thought it for a long time, and- we can talk more about that later. But--
+
+BECKY QUICK: Well, overall, is Berkshire a net buyer or a net seller of stocks right now?
+
+WARREN BUFFETT: In-- so far this year we've been-- a net buyer, although we sold-- a chunk of Phillips to get below 10%. So the-- that was a three and a fraction billion dollars—
+
+BECKY QUICK: I think it was three and-- three-- $3.3 billion.
+
+WARREN BUFFETT: Yeah. Yeah. So we've bought more than that on—
+
+BECKY QUICK: Really? So even with that purchase,
+
+WARREN BUFFETT: Right.
+
+BECKY QUICK: --sale, you've still been a net buyer.
+
+WARREN BUFFETT: Correct—
+
+BECKY QUICK: Is that because of the huge-- spikes in volatility and the big declines we've seen in the market—
+
+WARREN BUFFETT: No, it's just because we found stocks that we like. We- if we buy something, we don't have the faintest idea whether it's gonna go up next week or next month or the next minute. But if I like it, I--we buy it. And we've got $170 billion of stocks. I mean, we like-- there's plenty of stocks we like. We have not found businesses that-- because you have to pay more, the stocks are selling more if you buy in the public market by some margin. And-- we just haven't seen anything to buy there.
+
+BECKY QUICK: All right, let's-- ask a couple of questions from viewers. One is T-60. It comes from Chris Rogers. He says, "With $116 billion and growing, how confident are you in the future opportunities to deploy such a large amount of capital that would fit the Berkshire mold? And at what point would you consider a dividend?"
+
+WARREN BUFFETT: Well, we would-- if-- I'm fairly confident that-- that we'll find ways to deploy money. I mean, we are deploying money right now. But--we'll get a chance as we go along, based on history. It's gone a long period now we've been in a bull market. And-- the best chance to deploy is when things are going down, obviously. But if we don't, we'd probably be more likely-- it would depend on the price of the stock entirely, but we-- the inclination might be more toward repurchase than dividends. Because dividends have the implied promise that you keep paying them forever and not decrease them and so on, whereas repurchase is assuming the price of the stock is such that continuing stockholders' benefit from the repurchase, we would probably lean toward repurchase.
+
+BECKY QUICK: Would you I mean, you've been very clear about what price you would buy back shares.
+
+WARREN BUFFETT: Right.
+
+BECKY QUICK: Would-- you change the equation?
+
+WARREN BUFFETT: We might-- you might have to change it a little bit. If you had to change it too much, it wouldn't make any sense. So then we'd have to look at something else—
+
+BECKY QUICK: What's the equation right now? It's—
+
+WARREN BUFFETT: 120% of book.
+
+BECKY QUICK: Of book value. That's when you buy back shares on the marketplace
+
+WARREN BUFFETT: We know that we're doing the continuing shareholders a favor if we buy it at that price. And then that gets increasingly more questionable as you move along from there. And-- obviously I leave some margin of safety when I do the 120%. And-- if we were going to spend a lotta money to buy in stock at some time in the future, and it was 125% or 127% or something like that, we'd probably go that direction.
+
+BECKY QUICK: Rather than a dividend. Although there-- there-- I'll ask this question from Alan Buckey. It's—number T-23. A lotta people came into this very question, "Why not come up with a one-time dividend? Would you pay a one-time special dividend?" And Alan himself asks, "You don't like to invest in companies that pay-- or you like to invest in companies that pay dividends, and buy back their stock. But Berkshire does not do either. Why is that?"
+
+WARREN BUFFETT: Yeah, well, we'd rather have a company whose stock was undervalued spend all their money buying a stock. But the trouble is if you establish the dividend, you're not going to eliminate the dividend to repurchase shares. So they're-- a company that's paying a dividend, take Apple or you name it, I mean, they're not gonna cut their dividend-- to repurchase shares. And-- they're probably not gonna cut their dividend under any circumstances unless their business changed in a dramatic way. So-- we would do what made the most sense for shareholders. But, you know, I have--I pointed out years ago, you can-- you can sell a little piece of Berkshire every year and still end up owning more of it than-- you had before. So if you wanna create-- the people who wanna create-- turn a little bit of what Berkshire earns each year into the equivalent of a dividend, into cash, can do it. And they don't force that policy on the other people. And we had a vote prompted by shareholder I never heard of a few years ago Some shareholder put on our ballot, he said, "Let's pay a dividend, and you know, let's get this Buffett out of-- keeping the money from us and pay a dividend." We had the vote, and the shareholders, 47 to one among the B shareholders, the smaller shareholders, 47 to one, they said, "Don't pay us a dividend." So-- that-- that was a pretty and we didn't campaign on it or anything else. The votes just came in.
+
+BECKY QUICK: Because they figured you'd do a better job of-- what-- by the way—
+
+WARREN BUFFETT: Well, we .
+
+BECKY QUICK: --did that include you voting your shares?
+
+WARREN BUFFETT: I probably voted my shares. But I'm not counting the A shares
+
+BECKY QUICK: Okay, just the B shares.
+
+WARREN BUFFETT: But-- Berkshire, in effect, for 53 years, has been a savings account. I mean, we-- Charlie-- put his money in, I put my money in. Berkshire-- my partners put their money in. We-- all my partners put it in. And it's a way of saving money over time. And the money gets left in, and we invest it. And to the extent that it's worth more than 120 cents on the dollar after we save it, every dollar we save is worth more than if they got it out in cash. Forgetting all about tax factors, we would've had the same dividend policy if we'd been taxed-- if the individuals had been tax-free the whole time.
+
+BECKY QUICK: All right, Warren, we're gonna continue this conversation, but we are gonna slide in-- a quick break. When we come back, we'll talk more about some of the individual stocks that Berkshire owns-- that Warren didn't comment about in that annual letter. First, though, some big news out of China over the weekend as the Communist Party looks to abolish term limits for its president. Details are straight ahead, and Squawk Box will be right back.
+
+JOE KERNEN: Good morning. U.S. equity futures sharply higher this morning. We'll see whether we made it to up 200. Yeah, we're up 190. 182 right now on the Dow, after a 350-point gain on Friday. The S&P indicated up 12, and the NASDAQ also indicated higher after a 120-plus point gain also that we saw on Friday. On this week's agenda, today look for January new home sales. Tomorrow we get durable goods. The S&P Case-Shiller Home Price Index and Consumer Confidence, and Fed chair Jay Powell will deliver his first monetary policy testimony before a House panel at 10:00 a.m. Eastern. Then on Wednesday, the second estimate on the fourth quarter GDP is out, along with Chicago PMI as well as pending home sales. Oh boy. I just saw some – I'm trying to do two things at once here. Some GE news out, we'll get to in a second. Thursday we get personal income and spending. The ISM, Manufacturing Index and Auto Sales. Fed chair Powell will testify before the Senate Banking Committee. And that's followed by consumer sentiment on Friday. As for earnings, about 30 companies, stragglers in the S&P – not really. They have different fiscal years, et cetera. Retailers and the like, including Macy's, Toll Brothers, Lowe's, TJX, SalesForce, Kohl's, Gap and J.C. Penney. All right, here's some news just out from GE. The company's adding three new directors, including former Danaher CEO Lawrence Culp, American Airlines former CEO Thomas Horton, this is the one where I said, "Oh boy," and former Financial Accounting Standards Board chairman Leslie Seidman. Might be Sideman. However it's pronounced, Becky, get back out to Becky, and maybe we have someone who can comment on this. I know you must've had like a book of GE questions for Warren Buffett today, Becky.
+
+BECKY QUICK: There have been plenty of GE questions that have come in.
+
+JOE KERNEN: For you, yeah. From viewers, and from you, and from us. But what do you think of that, Beck? So a former person that ran the account--
+
+BECKY QUICK: Well—
+
+JOE KERNEN: Yeah. Is that – they need someone maybe to come in—
+
+BECKY QUICK: Probably not a bad idea, at this point.
+
+JOE KERNEN: Exactly. The FASB, a person that ran the FASB to come in and maybe they can sift through, you know, the power systems and the pension issues that are, you know, who knows how those are finally—
+
+BECKY QUICK: And how some of these things were being—
+
+JOE KERNEN: Yeah. You know, my question –
+
+BECKY QUICK: Being booked and accounted –
+
+BECKY QUICK: Warren's here.
+
+JOE KERNEN: Yeah, Warren loved the CEO. Gave a huge – the former CEO. And remember that big sort of at a time when GE really needed Buffett or Berkshire, in terms of saying, you know that big investment, that helped GE a lot, Warren. Looking – Becky, you can ask all these questions. But I wonder if looking back on it, Warren, you feel like you were duped, to some extent, by Jeff Immelt?
+
+WARREN BUFFETT: No, I don't feel that way. My job is to make up my own mind on things. And we're talking, that investment was made at the very end of September, or the first days of October of 2008. And GE had been funded with extraordinary amounts of commercial paper, and the commercial paper market ended. And they really had a problem, and there was no question in my mind that it would be temporary if the government got its act together, and the economic engine got back on the tracks, which I was sure it would. And so we did buy a $3 billion worth—
+
+JOE KERNEN: No, I know.
+
+WARREN BUFFETT: Piece of preferred with some warrants. And –
+
+BECKY QUICK: But it came with a 10% –
+
+WARREN BUFFETT: It came with a 10% coupon –
+
+BECKY QUICK: Coupon on it, yeah.
+
+WARREN BUFFETT: We made some money on it. We didn't make as much money on that as we made on our Goldman investment.
+
+JOE KERNEN: But Warren, looking back, I mean, there was a time where I think Immelt had your full confidence. Looking back on it, do you think that that was misplaced? Have you revised your overall viewpoint of how he led GE over the last – over his tenure? Have you looked at that and revisited that and think, "Wow, this wasn't what it appeared to be," or no?
+
+WARREN BUFFETT: Well, I keep looking at GE. I won't comment on, you know, Jack Welch is a very, very good friend of mine and Jeff's a friend of mine. And clearly there were mistakes made, and they made mistakes in long-term care. We made mistakes in long-term care. They weren't on the same – to the same degree, but that turned out to be a huge one. And I will read their 10-K when it comes out. I'll read it very, very carefully. It'll probably take me all day to do it, but I'll do it. And no. Insurance cost them a lot of money, and it's cost other people a lot of money. You can make big mistakes in insurance.
+
+JOE KERNEN: And it did –
+
+WARREN BUFFETT: Like I say, we made a –
+
+JOE KERNEN: Yeah, sorry.
+
+WARREN BUFFETT: Go ahead.
+
+JOE KERNEN: I'm just seeing some more stuff here. I'm just wondering what – Becky, are you seeing – we're trying to get through all the stuff that GE said. And I don't know whether to go with this yet.
+
+BECKY QUICK: No, I don't.
+
+JOE KERNEN: From Mark Grant. Did you see this? I don't know what this means, that maybe there's going to be—
+
+BECKY QUICK: I have not gotten that yet.
+
+JOE KERNEN: A look back at the past—
+
+BECKY QUICK: Oh, here it is.
+
+JOE KERNEN: I think you do. But there's going to be a —
+
+BECKY QUICK: Well, look. We already knew this. We already knew this, that GE was going to restate earnings for 2016 and 2017—
+
+JOE KERNEN: For both years, yeah.
+
+BECKY QUICK: For both years. That they – Warren, this is news, I think that was out yesterday –
+
+JOE KERNEN: We don't know the extent of it, though. Yeah.
+
+BECKY QUICK: We don't know the extent of it yet, but they are going to be restating earnings, in large part because of how they were booking some of the issues at power. How they were booking revenue at power, and some of the things that were coming through. What would your comment be, not knowing everything that's gone out at this point?
+
+WARREN BUFFETT: There's a lot of flexibility when you're booking that, either construction in progress or potential service contracts, everything. I'll be very interested in what they have to say on that. You know, I would say the accounting at GE has not been a model at all, in recent years. But you can make mistakes in something like insurance reserving, big time. And long-term care has probably been the biggest single element of mis-reserving in insurance throughout the industry. And they were in it big time, but I was staggered by the amount of it.
+
+BECKY QUICK: By the amount of this most recent issue where they had to call up the reserves—
+
+WARREN BUFFETT: Yeah. That was huge.
+
+BECKY QUICK: To the tune of billions of dollars.
+
+WARREN BUFFETT: Yeah. Yeah, and the question gets to be, I mean, it was the Kansas department supervising them. And that doesn't happen overnight. So it'll be interesting to see just exactly what the correspondence was between the Kansas department and the company and all of that sort of thing.
+
+JOE KERNEN: Yeah. Do you remember when—
+
+WARREN BUFFETT: But GE is a wonderful—
+
+JOE KERNEN: Oh yeah? How wonderful? To the tune of buying how much percentage of the common stock right now? How wonderful are you feeling about it, Warren?
+
+WARREN BUFFETT: No, I mean, we haven't bought any stock. But—
+
+JOE KERNEN: If it's wonderful, are you going to?
+
+WARREN BUFFETT: In fact, we sold our stock. We had a small amount of stock that came from the warrants of the company, the preferred –
+
+JOE KERNEN: Right. From the –
+
+WARREN BUFFETT: And we sold it. I know we sold it at $29, whatever that was awhile back. It was a relatively small investment for us. But we did sell it.
+
+JOE KERNEN: It's on sale. It's on sale today.
+
+BECKY QUICK: But we did get questions from – yeah. We did get – $14.58 is the latest tick. We did get questions from viewers, I believe one came from the Rational Walk, that ask very specifically, "had the company approached you, would you be interested in buying parts of this?" There's another question that came in saying, "Would you be interested in buying parts of either General Electric or Siemens, particularly if it was something that would help you in your health care initiative? It's a star investor, vacuous star investor with liquid assets, earning less than projected inflation. Why not buy a cash generator industrial like GE or Siemens's health care unit? This could strengthen the health care partnership with JP Morgan and Amazon, as early diagnosis provides long-term savings to fixed health care." What do you say to something like that?
+
+WARREN BUFFETT: Yeah, we wouldn't buy a health care business to try it in with the health care initiative.
+
+BECKY QUICK: Would you buy it just simply because of prices on this?
+
+WARREN BUFFETT: If we like the business and the price was right, we could write a check for cash. And that would apply to GE. They've got a few big businesses. I don't think they want to sell them, but they have some smaller units that they're interested in selling. But we're always in the market for a big business that we can understand and that we like, and we think that we've got the management for and so on.
+
+BECKY QUICK: Do you understand GE?
+
+WARREN BUFFETT: I don't understand the whole place, no. But I think I'd be capable of understanding, given the businesses or managers that we have at Berkshire would be capable of understanding those.
+
+JOE KERNEN: Hey, Beck?
+
+WARREN BUFFETT: So, you know, they have not approached about any big business.
+
+JOE KERNEN: Just –
+
+WARREN BUFFETT: They've got some small businesses – go ahead, Joe. I'm sorry.
+
+JOE KERNEN: Sorry, Warren. And I'm going to let you go. But just for the record, GE is, I don't know, they're – do you see this, Becky? They're worried about how we're reporting it. So the accounting rules – this is not – the restatement of earnings is not due to the S.E.C. investigation. It's due to new accounting rules. Every, you know, I guess after the tax cut, every company is required to do it. So they're worried that –
+
+BECKY QUICK: Well, this is – these are the changes. Let me ask. I've been very confused by this, and maybe we can hash through some of this. Those accounting changes, those accounting changes that we were just talking about with Warren at the top of the program, accounting changes the will affect what you are doing going forward, is that a reason to restate 2016 and 2017 earnings?
+
+WARREN BUFFETT: Well, that just from what you've said this morning – I don't know anything about it. Obviously, they miscalculated their insurance reserves in a big, big way. That doesn't usually –
+
+BECKY QUICK: I think this is – that's not related to restatement of earnings.
+
+WARREN BUFFETT: No, that doesn't usually count as a restatement.
+
+BECKY QUICK: That is not what we're talking about.
+
+WARREN BUFFETT: Right.
+
+BECKY QUICK: That is not restatement of earnings on any of these issues—
+
+WARREN BUFFETT: No. No.
+
+BECKY QUICK: These are things that GE has already said on this, that we're talking about from that front.
+
+WARREN BUFFETT: Yes, if in process business or amount capitalized as possible earnings in the future and – were put on the books for in terms of service contracts or something like that, anytime you get extended pieces of business, as you get an aircraft or engines and that sort of thing, there's a lot of flexibility in when you record both costs and revenue. And my guess is the S.E.C. is looking at that. I don't know a thing about it in that respect. But my guess is that they're looking at that. And I have seen companies use much different – and I'm not referring to General Electric at all – I've seen them use much different approaches to contracts that extend over years, and how they treat the first few units, which obviously have a higher cost because you're just getting into it. There's a lot of flexibility. And whether you have a conservative or an aggressive management can determine the earnings for at least a few years.
+
+BECKY QUICK: Right. Right. All right, we have much more with Warren that we're going to continue to talk about. We want to talk about Wells Fargo, too. It's an issue that a lot of our viewers wrote in about as well. We'll get to that in just a moment. Also, a big weekend for Black Panther at the box office. The movie just did something that only three other movies have done, ever. We have the details right after this.
+
+JOE KERNEN: Black Panther joining an elite group at the box office. It brought in $108 million in North America over the weekend, making it just the fourth film to top $100 million in its second week in theatres. The others were Star Wars: The Force Awakens, Jurassic World and The Avengers. Now after 12 days in theaters, the movie raked in roughly $704 million globally, and according to comScore, and it hasn't yet debuted in China and Japan, believe it or not. Those are two of the Hollywood, obviously, industry's biggest markets. Coming up, we'll get back out to Becky quick in Omaha, where Warren Buffett is answering questions from our viewers. As we head to break, here's a quick check on what's happening in the European markets right now.
+
+BECKY QUICK: Welcome back to "Squawk Box," everybody. We are live in Omaha, Nebraska with Berkshire Hathaway's chairman and CEO Warren Buffett this morning. He's been answering questions that viewers have sent in. And Warren, one that we got lots of questions about was Wells Fargo.
+
+WARREN BUFFETT: That's understandable.
+
+BECKY QUICK: Yeah. There was a question that came in from Value Mojo who says, "What are your current thoughts on Wells Fargo? Do you think the market reaction was justified after the Fed's announcements of the asset's growth plan? What's the impact on Wells's normalized earnings power? And do you still have confidence in CEO Tim Sloan?"
+
+WARREN BUFFETT: Yeah, I have confidence in Tim Sloan. But Wells did – it goes way back, but they came up with some terrible incentives. And incentives work in both directions if you got the right incentives. And you do the same thing with your family, and all kinds of thing. And they had some incentives – they had an incentives system which incentivized bad behavior. And the bad behavior became somewhat contagious, apparently, in some offices more than others, where people put in phony accounts and all that sort of thing. I mean, once people saw their superiors doing it, I'm sure it picked up. But that was a bad problem, but that happens. But what they didn't do was they didn't correct it when they were getting word that effectively these terrible practices were taking place. So it gets back to the fact that, you know, the same thing that happened in Salomon, you know, 28 years ago, is that management didn't react when they found out that something had gone very much awry. And then it just compounds like crazy.
+
+BECKY QUICK: The company took action. That's why the former CEO John Stumpf lost his job. But then chairman – former Fed Reserve chairman Janet Yellen weighed in just as she was leaving her office and said, "We cannot tolerate pervasive and persistent misconduct at any bank. And the consumers harmed by Wells Fargo expect that robust and comprehensive reforms will be put in place to make certain that abuses do not occur again." That is a huge rebuke, one that I can't recall seeing something like this from the Fed Reserve in recent memory. And that brings up questions about current management, too. What do you think the Fed's doing? And I'll bring this up, too, Charlie Munger, your partner, just recently said he thinks regulators, it's time for them to let up on Wells Fargo. What do you think?
+
+WARREN BUFFETT: Well, I don't know all the facts on it. I do know that in 1991, I became the CEO of a company that similarly insulted the Federal Reserve. And if the Federal Reserve is mad at you because you've flouted them in one way or another, you know, you're in a big, big, big doghouse. And digging your way out of it takes time. And you find other things. I think I said last time, you know, there's never just one cockroach in the kitchen. I mean, and you find other things out. I was always terrified of that at Salomon, because I didn't know what had happened prior to my stepping into the job. So you know, you obey your government. And if you don't, you can have plenty of consequences. And Wells Fargo is suffering through those. But they will get through it, and they're not the consequences of what Tim Sloan did. He's been working like crazy and trying clean things up. But he's had a lot to clean up.
+
+BECKY QUICK: Do you think you've seen the last of the cockroaches?
+
+WARREN BUFFETT: I think so. But that's what you never know. I mean, if you've got 260,000 or 270,000 employees, and there was bad activity someplace, you try to find out. But that – and I actually have been in that situation, well, you know, had 8,000 employees. And when I was – I woke up every morning terrified while I was in there that I would pick up the paper and find out that somebody else had done something. And you just – you can't be sure. Although I would – my guess is, and it's just a guess, is that they have scrubbed and scrubbed, and that they have found out the things that were done wrong, and the Fed and any other supervisor is going to make them pay, which they have, for past sins. And they don't just do it in one day and wave at you and say, "Congratulations."
+
+BECKY QUICK: Back in 2009 at the annual meeting, you were asked if you had one stock that you'd put all your money in, you said it would be Wells Fargo at that point. What stock would it be today, if you had one stock you had to put all your money in?
+
+WARREN BUFFETT: Well, I've got all my money in Berkshire. 99% plus. Yeah, 99.8% or something like that, aside from treasuries. So that's the one I feel the best about. Not that I feel the best about it having the greatest upside potential, because it doesn't. But in terms of anything bad happening to it, I feel better about Berkshire.
+
+BECKY QUICK: Outside of Berkshire, is there another stock, if you had to pick one?
+
+WARREN BUFFETT: Well, if you look at our holdings, you would assume that we like them in the order in which they rank by dollar value of holdings. But if you look at them in terms of recent purchases, you know, over the last year, we've bought more Apple than anything else.
+
+BECKY QUICK: Can I take it and run with that as a headline? Apple's your favorite stock?
+
+WARREN BUFFETT: I don't think – no because I haven't told you what I might have been buying in the last week. Or month.
+
+BECKY QUICK: But Apple ranks up there?
+
+WARREN BUFFETT: Well, Apple, you know, it was – but it was selling at $105 or something like that when we first bought it.
+
+BECKY QUICK: Okay, great. Warren, we are going to continue to press you on some of these issues in just a moment.
+
+WARREN BUFFETT: I can tell.
+
+BECKY QUICK: When we come back, we have more with Mr. Buffett. In the meantime, we will also give you a rundown of today's top stories. All of this coming up including big changes to the board of General Electric. Stick around, "Squawk Box" will be right back.
+
+JOE KERNEN: Good morning and welcome back to "Squawk Box" here on CNBC live from the NASDAQ MarketSite in Times Square. I'm Joe Kernen. It's just me. Becky is in Omaha this morning. It is for a good reason, obviously, speaking with Warren Buffett. But I've got no one to talk to. I've got Stec, our guy on the set here, Becky. But we are in close contact. We are in close contact at least.
+
+BECKY QUICK: We are, we have been talking through the commercial breaks.
+
+JOE KERNEN: Well, I needed to.
+
+BECKY QUICK: A lot to get off your chest.
+
+JOE KERNEN: Well, anyway. This is unbelievable. I mean I'm glad – you know, people need people. They just do.
+
+BECKY QUICK: Joe's worst nightmare.
+
+JOE KERNEN: U.S. equity futures at this hour – I'm going to hurry up and get back to you because it is very lonely. Anyway, here's what's making headlines. You can see the futures are up 175. The NASDAQ is strong. Making headlines this hour, and there are some pretty amazing things happening. Chip maker Qualcomm has urged rival Broadcom to engage in direct talks on a price for a takeover deal. Qualcomm continues to maintain that Broadcom's prior offer materially undervalues the company. And economists are looking for a rebound in new home sales for January, when those figures are reported at 10:00 Eastern time. Consensus forecasts call for a 4% jump partially reversing December's 9.3% slide. And General Electric is making some moves with its board, shrinking the board and adding three new directors. And now there will be 12. The three are former – one of them, former Financial Accountings Standards Board chairman Leslie Seidman, former American Airlines CEO Thomas Horton and former Danaher CEO Lawrence Culp. And as previously announced, the overall size of GE's board will be reduced to 12 from 18. So if you're adding three and still going down six, that leaves a who's-who list, really, of directors that won't stand for reelection. And I look at some of these names, Steven Mollenkopf, think he's pretty well known, Shelly Lazarus, Jim Rohr, Mary Schapiro, Marijn Dekkers, Susan Hockfield, Peter Henry, and Andrea Jung. And I think Jack Brennan will be staying as the lead director, or the, yeah, lead director for awhile to transition, to facilitate the transition to a new lead director until 2019. But then he won't stand for reelection either. So let's get back to Becky and Warren Buffett in Omaha. And there have been some questions, Becky, and you can talk to Warren about it, about where was the board, and I guess this is sort of an answer to those questions at this point. I mean, that's a pretty big reshuffling of the board. I guess maybe Flannery would want a different board, obviously. But seems like a pretty big—
+
+BECKY QUICK: So Flannery has talked about this when he came in about some changes. But I don't think we realized quite how extensive those changes would be.
+
+JOE KERNEN: Right. And you know, Rohr from PNC, and Mollenkopf, is he Qualcomm or where – no, he's not Qualcomm, but I know the – I got to figure this out, but – Shelly Lazarus—
+
+BECKY QUICK: The well-known names.
+
+JOE KERNEN: Mary Schapiro. These are really a who's-who list, right? So, I'd like to hear Warren's thoughts on that, too. Yeah.
+
+BECKY QUICK: That's right. Warren, what do you think? I mean, obviously you've watched GE for a long time. You were a shareholder for quite a number of years, from 2008 through when you sold those shares that were at $27 at that point. Big changes there. Restating earnings for a couple of years, and talking about some different accounting standards that have been put into place, but it does sound like they are changing the way they account for some long term contracts.
+
+WARREN BUFFETT: It-- sounds that way. I mean, I haven't read anything-- just been sitting here, but it sounds like they are changing--when you build a ship or something like that over five years-- not that they're building ships, but you do have ways of accounting for sorta the in process activity. And companies can be quite aggressive in that. They can be quite conservative at that. And-- I had-- I don't know anything specific about General Electric.
+
+BECKY QUICK: You would understand John Flannery coming in and wanting to—
+
+WARREN BUFFETT: Clean house, yeah.
+
+BECKY QUICK: Well, yeah, make sure that he's doing things his way going through the entire process.
+
+WARREN BUFFETT: Sure. Yeah, if-- I were brought in to run GE which they never would do, and they'd be wise not to, but there'd be a lot to get your mind around. I mean, you know, from the old insurance contracts to these long term contracts and service contracts, and there's just a lot on your plate. And-- so the fact that you don't have it all in place the first day, the first week or the first month I don't blame anybody for that. There's-- things to learn with something that complicated and widespread.
+
+BECKY QUICK: Okay-- one thing that we got a lotta questions that people wrote in about are- variations on forms of corporate social responsibility. I'll start with one of the questions-- that came in. This is from Tominori Isakawa who wrote two topical questions. Does Berkshire investor or own gun manufacturers and then number two, actuarially does gun ownership have an effect on property and casualty premiums? And-- these are-- there were a lotta questions in this vein that came in just given the headlines that have been out there-- about what's been happening with school shootings. But broader than that, just corporate social responsibility overall and some of the things Larry Fink's talked about.
+
+WARREN BUFFETT: Yeah, we don't own any gun manufacturers but I have not issued any edict, for example, to the two managers that-- run money besides me at Berkshire that they can't own stock in gun manufacturers. They can own stock in man-- gun manufacturers. They can own stock in liquor manufacturers. We do own stock in Diageo and have for a long time, which-- liquor manufacturer. And so-- we have-- but to my knowledge we don't--I know we don't own any happen to own any-- gun manufacturers. And-- the second point was—
+
+BECKY QUICK: The second point was-- does-- from an actuarial perspective does gun ownership have an effect on propertyand casualty premiums.
+
+WARREN BUFFETT: No, it really doesn't. It really doesn't. No-- there might be some very weird personal policy that you might conceivably-- but in terms of standard business, no. The-- that-- I don't know of any-- I don't know of any time it's come up in the years I've been in the insurance business.
+
+BECKY QUICK: There-- is a movement from Larry Fink-- at Blackrock and from others who are kind of stepping into this saying that they would like to have more of an impact on the companies that they are investing in, that they would like to have maybe a little more say in what's happening. It's an arena that can get pretty fraught-- with potential missteps, though. Because by taking a step you're potentially alienating half-- up to half of your customers. Sowhere do you come down?
+
+WARREN BUFFETT: Yeah, it-- it's complicated. I mean, did I-- but I've been cheering for what was going on at Wells Fargo if I'd known about it years ago. But Wells Fargo-- we do lots of business with them. They-- made a big mistake and some others that flowed out of the big mistake. But-- Berkshire's made mistakes and, you know, I got involved in Solomon when they made a mistake. I-- you will not find any large company that doesn't have some problems of one sort or another. I mean-- the best-- the best defense is a hotline. And-- we have found out more things that have been wrong at Berkshire through the hotline—
+
+BECKY QUICK: But I--think this is a little different than finding out cases of fraud or wrongdoing or somebody doing things that are wrong. This is a case of investing companies, of banking companies potentially getting in and saying, "We don't agree with a particular group," be it the NRA, be it-- we want to take a stand on immigration, something along those lines. You do see more and more CEOs who are kind of wading into the political arena and making their views known. You are somebody who's not shied away from talking about who you vote for and who you support.
+
+WARREN BUFFETT: Yeah. No, in terms of politics-- you know, I have not put my politics in a blind trust. On the other hand, I don't speak for Berkshire in doing that. Berkshire, to my knowledge-- Berkshire the parent company never had any contributions to politicians. And I don't believe that imposing my views on 370,000 employees and a million shareholders-- I mean, they d-- I'm not their nanny on that. And if I worked for Hillary but I don't know who our managers voted for and-- so I think you have to be pretty careful-- if you're saying, you know, "We're not gonna fly on this airline because of that, or we're not gonna use this railroad because of that in terms of social." Because -- you'll find something. I mean, I-- admire enormously Walmart and Costco. They sell cigarettes. We-- actually distribute between the manufacturer through our Mclane company to Walmart and 7-11s and all kinds. I think that-- I think it's a mistake to get-- start getting personal views andtrying to impose 'em on an organization.
+
+BECKY QUICK: Yet, we have seen-- a lot of that just over the last couple of weeks since the last school shooting.
+
+WARREN BUFFETT: Yeah.
+
+BECKY QUICK: And there have been some companies—
+
+WARREN BUFFETT: Well, I've got views on gun laws, but I don't think they're Berkshire's views.
+
+BECKY QUICK: And so you don't think it's something that corporate boards should be talking about?
+
+WARREN BUFFETT: I think you should be pretty careful before-- a company takes a big political opinion and something that society has decided that they say, "Well, we're going to-- we're going to have a different view." Now-- I also think people individually should very much express their views. I mean, I think what the kids are doing-- there is very admirable. But-- I don't think that Berkshire should say, "We're not going to do business with people that hold guns." I think it'd be ridiculous.
+
+BECKY QUICK: Okay, let's talk about some of the holdings that-- we mentioned before. At the end of the last block we were talking about Apple which is the stock according to the filings that we've seen that you've been buying most frequently and most heavily. There are a lotta questions that have come in on Apple and-- people wanna know why you're doubling or tripling down on this stock at this point?
+
+WARREN BUFFETT: Well, they might wanna know but I'm not gonna tell 'em. I mean, they can look at our actions and we have to report those every three months. But we're not in the investment advisory business.
+
+BECKY QUICK: Why do you like it—
+
+WARREN BUFFETT: It's propriety-- the views-- you know, those are proprietary, in effect, to Berkshire. They belong to the Berkshire shareholders.
+
+BECKY QUICK: Just in terms of one question that came in, there was someone who was asking about you've long touted the stocks that you bought into by drinking some-- drinking Coca-Cola or eating at Dairy Queen or doing all of these different things to talk about the stocks and the companies that Berkshire owns. But you still have your flip phone. Wanted to know if you were ever going to get a smart phone, an Apple phone.
+
+WARREN BUFFETT: Yeah, well, Tim Cook's ac-- asked me that Well, the answer is just I'm out of touch. But-- I tell Tim that as long as I haven't gotten one, the market's not saturated. I mean, the day I buy one, there's probably nobody left after that.
+
+BECKY QUICK: Wanna talk through a couple of the other stocks that you hold too. One question that came in-- from Kraft Heinz was a question about the announcement that Kraft Heinz just put out. This came from Ivan the K. He says, "Is this a sign that Mr. Buffett is scaling back his direct participation in the business?" He was referring to the headline, "Kraft Heinz reports retirement of Warren Buffett from board."
+
+WARREN BUFFETT: No, that's-- I wasn't on any outside board till the Kraft-- well, till the Heinz deal came along first, and then the 3G, our partners, asked if I would go on for a while and I said, "Fine." But it takes-- there's five meetings a year. It's about a day and a half for a meeting. I mean, you go in the previous afternoon and-- they-- so, it-- it's really a day and a half. So if you have five meetings, that's seven and a half days a year. We have two other people on the board from Berkshire. And the truth is I'll talk to the 3G fellows the same way. And so it doesn't change anything about it. It just saves me seven and a half days a year, and I don't wanna be on any outside boards. I mean, it just-- it's time consuming and-- - I haven't got that much time.
+
+BECKY QUICK: But it doesn't indicate any—
+
+WARREN BUFFETT: Zero.
+
+BECKY QUICK: --of-- a declining interest in the business at all.
+
+WARREN BUFFETT: Oh, no, no, we-- we're not gonna change a share. We've got Greg Abel and-and Tracy Britt Cool on the board. We could've put somebody additional ourselves, but Alexander Van Damme is going on there. I know him. He's got a huge investment in the company. I love the fact-- he's much-- gonna be a much better director than I am he likes to travel.
+
+BECKY QUICK: Okay, great. We're gonna continue this conversation with Warren. But, Joe, right now we'll send it back to you in the studio-- as we head to a break.
+
+JOE KERNEN: Warren, always-- you know, sometimes-- I feel likewe're drifting and then he pull-- he pulls me back in. And that answer on the-- on your questions, Warren, was so apt and so appropriate. We all have personal views, and we should act on those in every way that we can to try to-- to get what we want in society the way that we think it should be based on our personal views. But isn't that the operative word, "personal views?" I can just play devil's advocate. And I can think of some things that certain individuals would want companies to take a stand on that are diametrically opposed to what other people want. And-- you can think of 'em, too. The-- hot button issue in society, whether it's abortion or LGBT issues, and, you know, the left always feels like they're-- they're so sure that they've got all the answers and that they're right that they can't believe anyone would disagree on how they feel about virtue and things. But if you had the right come in with some of-- what they-- what the left would feel are insane ideas and you had-- and you were pressuring corporations to take a stand with you, it just doesn't work that way. But that-- that's not gonna stop the-- that's not gonna stop the thought police in the media. The media goes crazy and tries to shame-- corporations into-- but your answer was so right on. And-- you didn't pull any punches, either. I mean, would you tell Larry Fink, if you had a conversation with him-- would you say, "Larry, what are you thinking?" I mean, would you say that to him? It's like, "I love your views but--"
+
+WARREN BUFFETT: I would tell him what I thought. But it's the-- it's the extremes on both sides-- whenever people get going on those kinda questions, I always say, "Let's talk about something noncontroversial like religion."
+
+JOE KERNEN: I mean, exactly.
+
+WARREN BUFFETT: It just—
+
+JOE KERNEN: I mean, salt-- you know-- red meat-- God almighty, any of that stuff. If you-- there's just-- everybody's got it. That's why they're called personal views. You know, so-- I don't know. Anyway-- but I digress, and we love hearing from you. But-- Warren, like I said-- great answer. Thank you and then Becky, that was-- that was a good discussion. We'll have-- much more from Warren and Becky after the break. Let's get-- a check on the markets-- right now. As you can see sharply higher up 190 points. Up 13 on the S& P. NASDAQ up 30. The ten-year note changing hands now below 2.9%. Maybe that has something to do-- 2.85, in fact. Maybe that's why the markets are strong. They like it when rates stay low. And here's oil-- which is back to 63.5. You're watching Squawk Box. More Warren Buffett, all the way till 9:00 today. Stay with us.
+
+JOE KERNEN: Welcome back to Squawk Box. A few headlines before we head back to Omaha and Warren Buffett and Becky. Samsung unveiling its new Galaxy S9 smart phone yesterday at the mobile world congress in Barcelona. It's the first phone to use QUALCOMM's-- QUALCOMM's new Snapdragon 845 chip. The phone is pretty expensive, priced at $720 for the S9 and $840 for the larger-- S9 Plus. Both will be available on March 16. We gotta talk to Warren. Maybe-- that's the smart phone that-- you know, we just assume he'd buy. And I guess he'd probably buy an Apple, though-- since he owns all that stock. We'll ask him, anyway. Fiat Chrysler's planning to eliminate-- diesel models-- from its vehicle lineup by 2022. Financial Times reports that the move follows a drop in demand in the wake of Volkswagen's emissions cheating scandal. Fiat Chrysler doesn't-- sell diesel cars in the U.S., but they're popular in Europe and Asia. Prices at the pump edging lower. The average price of regular unleaded fell six cents in the past two weeks-- to $2.59-- a gallon. That's the first decline since December-- but gas prices are still about 25 cents higher-- than a year ago. Are we goin' back to Becky or we goin' to break? I think we're goin' back to Becky. Becky, I-- you know, when I text people and-- when I send it and it goes in blue and I get things back in green, it's like I don't even-- is that, like, not an Apple phone or somethin'? I don't-- I like the blue. You know, I don't know. Why do-- do some people really have Galaxy phones or Samsung or-- do you know what I'm talk-- you have no idea what I--
+
+BECKY QUICK: I think so. Yeah, I do know what you're talkin' about, but I don't know what the answer is. I guess there's a change, whether you're in the iPhone ecosystem or not. Is that part of the reason.
+
+JOE KERNEN: I think less of people when they're not-- in the iPhone ecosystem.
+
+BECKY QUICK: That's because you are all about status and-- status symbols, right.
+
+JOE KERNEN: I'm just very tech savvy. I'm very tech savvy. But if-- I like blue a lot better-- it's like green and white. What---- hey, where-- what century are you living in? What is this green thing? Get a 10. Get an X. Get a 10-- Warren. Come on.
+
+BECKY QUICK: You-- if you were buying a smart phone what-- which one would you buy?
+
+WARREN BUFFETT: Oh, I'd definitely buy an Apple.
+
+JOE KERNEN: See?
+
+WARREN BUFFETT: Incidentally--
+
+JOE KERNEN: See?
+
+WARREN BUFFETT: Samsung, although they didn't-- they made the money in semiconductors to a very great-- but they could be the second highest earning company in the-- you know, in-- in the world. I mean, they earned about-- I think they earned about-- well, you get into one, so $50 trillion or something like that. But-it's a lot. Is it-- what is it? I don't know, 108. But-- they probably earned somewhere around $45 million or something. I haven't looked at it recently. And there aren't too many companies around that earn $45 million.
+
+BECKY QUICK: Right. That aren't in commodities--
+
+WARREN BUFFETT: They—but they did not make as much-- remotely as much money, it didn't look-- doesn't look like it in phones. It was semiconductor business ran wild last year.
+
+BECKY QUICK: Just shows you a little bit about how-- Mr. Buffett is always reading-- the financial statements of just about every company out there.
+
+WARREN BUFFETT: I like to read.
+
+BECKY QUICK: It's what you do for your fun time, right?
+
+WARREN BUFFETT: Yeah-- yeah, that is my fun time.
+
+BECKY QUICK: That is your fun time, right. Warren, I wanna talk to you about something you wrote in the annual letter this year, and that's talking about leverage and how dangerous that can be. And I bring it up because it happens that one of the stories on the front page of The Wall Street Journal today is all about margins, margin bets, fueling the selloff. Part of the reason we've seen so much volatility is that-- $642.8 billion had been borrowed by retail and institutional investors against their portfolio. That can lead to all kinds of-- machinations in the stock market, send some real impact to people when prices finally go down.
+
+WARREN BUFFETT: Yeah. Well, it-- it's interesting. After the '29 crash when they had ten percent margins, they actually-- gave the Federal Reserve the power to set margin requirements and everything. And then of course-- and I think the Fed-- does have that power. But-- the whole thing has been-- they moved by derivatives and index, futures and that sort of thing. So people can gamble in stocks and people like to gamble. I mean-- a lotta people like to gamble. But you can't-- four times in the 53 years I've been at Berkshire, the stock has gone down anywhere from 40% to 60%.
+
+BECKY QUICK: Berkshire shares?
+
+WARREN BUFFETT: Berkshire shares.
+
+BECKY QUICK: Yeah.
+
+WARREN BUFFETT: Just-- and some not-- well, very fast in October of 1987. And-- people had a perfectly decent investment. If they borrow against it, they lose it. I-- it is crazy in my view to borrow money on securities. You-- you do not know to borrow more. You don't know whether the stock exchange will be open tomorrow morning. I mean, they-- we have closed the stock exchange, one time during World War I. We closed it for months. We closed it after 9/11 for a few days. It-- when-- it's-- I put in the annual report-- it's insane to risk what you have and need for something you don't really need. And---- you know, borrowing money is a way of trying to get rich a little faster, but there are plenty of good ways to get rich slowly. And-- you can-- you can have a lotta fun while you're getting rich as well. My partner, Charlie, says that there's only three ways that a smart person can go broke. He says, "Liquor, lays and leverage." Now the truth is the first two he just added because they started with L. It's leverage, and-- when somebody tells you how they came back and made a second fortune, I'm not impressed 'cause why the hell would they lose their first fortune? I mean, you know, there's no reason. There's just no reason to borrow money except you're in a hurry to get rich and you're risking going broke and all the effects it can have on your family. I'm-- I do not believe in borrowing money on security.
+
+BECKY QUICK: There was a question that someone had written in-- just asking-- about how you do that just in terms of-- let's see if I can find it -- just in terms of getting yourself to not do it. Because you have at times in the past have had more ideas than you had money.
+
+WARREN BUFFETT: Always. Come on—
+
+BECKY QUICK: How did you have the self-discipline?
+
+WARREN BUFFETT: --well, first 30 years, yeah.
+
+BECKY QUICK: How did you have the self-discipline to not go ahead and get levered up in those situations?
+
+WARREN BUFFETT: I wasn't unhappy when I had $10,000 when I got outta school. I was having a lotta fun. I was looking for things to buy. And the fact that after I spent $10,000 I ran outta money meant that I just kept looking for things that were better than the ones I already had. But-- I was-- if you think that-- if you have $100,000 that means that you're an unhappy person and a million dollars is gonna make you happy, it is not gonna happen. You know, I mean-- then you'll look around and you'll see people with two million. And it-- it just-- it--doesn't work that way. -- you will not be way happier if you double your net worth. You get-- you'll get-- kind of a euphoric surge or something like that, but-- to risk, you know, starting all over again, you know, and losing everything and you've got children and-- it's just-- it's madness.
+
+BECKY QUICK: Warren, we're gonna continue this conversation. We'll have a lotta questions from viewers that we'll go through rapid fire when we come back, as well. In fact, when we come back, from-- from Omaha, we'll have your questions that you've been sending in through the morning, plus your morning corporate stories including changes to the board of General Electric. We have the details straight ahead. Right now, though, as we head to a break take a look at some of the names of-- folks who are gonna be joining us tomorrow right here on Squawk Box. Stick around. We will be right back.
+
+JOE KERNEN: Good morning and welcome back to Squawk Box here on CNBC, live from the NASDAQ market site in Times Square. Among the stories-- front and center, General Electric shuffling its board of directors is one word for it. The company's adding three new directors-- including-- former financial accounting standards board-- chairman, Leslie Seidman or Seidman. We're-- I'm gonna know.I'm gonna know eventually when we actually do something and figure it out. Seidman-- let's call it Seidman. Former American Airlines CEO, Thomas Horton-- former Danaher CEO, Lawrence Culp and as previously announced the overall size of GE's board will be reduced to 12 from 18 which means there are quite a few departures-- or at least directors who won't stand for reelection. There's the list. Many-- are-- you're familiar with. Remember on-- Andrea-- Young and-- Shelly Lazarus, Jim Rohr, Mary Shapiro, Steve Molinkopf-- Susan Hockfield, Peter Henry-- many, many-- well known names. Lead director-- Jack Brennan will stay on to facilitate the transition, but he won't stand for reelection in 2019. Elsewhere, Daimler and its China partner, BAIC, plan to invest nearly-- two billion to modernize a factory in China-- which will build Mercedes Benz and high end electric cars. And that move-- comes after the chairman of China's Geely Auto disclosed Friday he bought a ten percent stake in Daimler, worth nine billion. Makes him Daimler's largest shareholder. Geely is a parent company of Volvo. And in other-- global news, the ruling communist party-- in China has proposed eliminating-- the two-term limit for president-- Xi Jinping-- for all of 'em, I guess. But this mainly applies to President-- Xi, and he will remain leader of China indefinitely. The proposal also covers-- the office of the vice president. Let's get back-- to Omaha and Warren Buffett-- and Becky is there. And I-- I don't-- did-- did I say any th-- did-- should Android users feel like I-- I really-- I was just kidding around about-- I happen to use-- the iPhone. I mean, they're people, too. They're-- I don't want them upset at me.
+
+BECKY QUICK: You're getting angry responses on Twitter?
+
+JOE KERNEN: Yeah. Myopic and Android that's fine. Hey, but I did have a question about Warren for Samsung, to give them a plug. But then I thought, "I wonder if Warren actually has a flat screen." Do you still have one of those boxy TVs? You have a color TV, probably. Right, Warren? But have you actually got a flat screen?
+
+WARREN BUFFETT: I've got an 85-incher. I like to watch sports on television.
+
+JOE KERNEN: See? I knew.
+
+WARREN BUFFETT: And it's interesting. And I sit very close to it. It's interesting how in the theater you get a bad result if you sit in the front row, but you can sit very close to this screen of mine and I love it.
+
+JOE KERNEN: Is it a Samsung, Warren? Can you disclose that?
+
+WARREN BUFFETT: Yeah, it is a Samsung, yeah.
+
+JOE KERNEN: Mine, too.
+
+WARREN BUFFETT: It's a Samsung.
+
+JOE KERNEN: I like it. So you watch Creighton. You watch Creighton from, like, this far away.
+
+WARREN BUFFETT: Absolutely, absolutely.
+
+JOE KERNEN: All right.
+
+WARREN BUFFETT: And I watched the Super Bowl, and I watch everything.
+
+JOE KERNEN: Olympics?
+
+WARREN BUFFETT: Just think of, you know, yeah – and think of what that is compared to 40 or 50 years ago. I mean, the experience is just incredible.
+
+JOE KERNEN: It's unbelievable. High def. It's fantastic.
+
+WARREN BUFFETT: Yeah.
+
+JOE KERNEN: And all right, and you can tell it to – you can verbally tell it to, you know, switch to something else. Switch to "Squawk Box," for example, which is apparently one of the most common verbal instructions – or switch from Squawk Box when I'm – no, I'm kidding. Anyway, go on.
+
+BECKY QUICK: All right.
+
+WARREN BUFFETT: I watch you on an 85-inch screen, Joe.
+
+JOE KERNEN: Oh, my God. I know we don't pay our makeup people enough, I know.
+
+BECKY QUICK: No, we don't. Wow. All right, Warren, we want to take this part of the show and get some questions from some of the viewers who have been writing in and sending things in, too. A lot of these are people who read your annual letter and have additional questions about Berkshire, too. First one comes from Piyush Pant, who says, "both you and Charlie have the vast majority of your net worth in Berkshire stock which means that you share the pain if things go south. Can you clarify how much of their net worth Ajit and Greg Abel have in Berkshire and are there plans to increase?" Now, they disclose their holdings as directors.
+
+WARREN BUFFETT: Yeah.
+
+BECKY QUICK: In terms of Berkshire, but that doesn't really tell about their net worth.
+
+WARREN BUFFETT: Yeah, well, I've never asked them about their net worth. That's their business. But Ajit obviously has a very substantial investment. He's bought every share of that in the open market, and he came into my office in 1986 on a Saturday and I don't think he had very much net worth at that time. And he's just bought Berkshire as he's gone along. And Greg has been with MidAmerican Energy, now Berkshire Energy for well over 20 years and his net worth is virtually 100% in Berkshire. I don't know that it's 100% because I don't know what he has outside, but I'm sure it's a very, very high percentage of his net worth is in Berkshire Hathaway Energy. And it pays no dividend, incidentally, and Berkshire itself owns 90% of it, so our interests are very aligned.
+
+BECKY QUICK: And by the way, you don't hand out stock options like a lot of companies do.
+
+WARREN BUFFETT: No.
+
+BECKY QUICK: These are sums that they've kind of built up themselves over the years.
+
+WARREN BUFFETT: Ajit has bought every share of that, come on, you know, in the open market and he buys it just like anybody else. If it goes down, he suffers. I mean, we do not have one way things. We don't grant the directors restricted shares or anything of the sort. We want our directors to stand in the shoes of the shareholders. We don't have directors and officers insurance liability. I think maybe one other company on the New York Stock Exchange does it. If we do something really dumb and they lose – a company loses a lot of money, they lose money and it's real money to them. It isn't just something that was given to them.
+
+BECKY QUICK: You didn't know how much either of them owned before, did you? Before they were—
+
+WARREN BUFFETT: Well, I knew how much Greg owned of Berkshire Hathaway Energy. I had no idea what his holdings were of Berkshire, and I didn't know, I mean, I knew Ajit owned it, but I had no idea what the amount was.
+
+BECKY QUICK: Okay. Here's another question that comes in. This one's from The Rational Walk. It says, "Berkshire has become a large player in the real estate brokerage, a field that's still plagued by high commissions. I recently sold a home using Redfin and saved at least two percent in commissions relative to traditional brokers. Is this a threat to HomeServices?"
+
+WARREN BUFFETT: Yeah. I don't think it's much but, you know, I could misjudge that. But it's obviously the Internet's going to try and take away any business that existed in a more traditional form in the past. Buying a home is the biggest deal that most people make in their lives. Sometimes they're moving from another city and they want somebody that explains the schools to them, and then, you know, just how the whole city – where they really want a helping hand in coming in. And it's a very personal transaction. It's a scary transaction sometimes to people. A lot of paperwork involved and all that. They really want somebody they trust, and I have a feeling that it will be very much a person to person operation ten or 20 years from now. But the people who are backing an Internet operation think otherwise, and certainly, Amazon has proved that a lot of businesses that you thought had to be done face-to-face can be done very well from thousands of miles away.
+
+BECKY QUICK: Right. This question comes in from Jeff Vaughn. He says, "Warren, when you talk your about your thought process and discussion that you and the investment team had about taking a large position in BYD, which segment of the business was most attractive and why?" And that comes up because BYD made its way into the top 15 holdings of Berkshire again this time around.
+
+WARREN BUFFETT: Right. Well, I've said in the past it really wasn't me or the investment team. Charlie called me one day and says, "We've got to buy BYD. This guy that runs it is better than Thomas Edison." And I said, "That isn't good enough." And then he called a little later and said, "He's a combination of Edison and Bill Gates." And I said, "Well, you're warming up but it still isn't good enough." Anyway, Charlie wanted to do it. Now, it's worked out so well that I'm actually starting to remember that it was my idea. As it's coming back to me. I think I persuaded Charlie. But unfortunately I'm on the record that it's his deal. But BYD, Charlie's in love with the company, and it's done very well. And the fellow that runs it, you know who's autos and batteries, but he's got big, big ideas and he's very good at executing. So, but I leave it to Charlie.
+
+BECKY QUICK: There's another question that came in from David Rolfe and he's asking about Precision Castparts. He says, "What's the percentage gain in intrinsic value of PCC since the closing of the aacquisition? Can you state it if it's even positive?" You've described the $37 billion PCC acquisition as a singular bet on Mark Donegan. Are you pleased with his performance so far?
+
+WARREN BUFFETT: Yeah, I am. But it has not earned as much as was in the projections. But that's a very long term business, and the contracts they get can run out in to the mid 2020s. And Mark, I just saw him about two days ago. And he is an extraordinary business operator. I mean, he just loves figuring how to make things and he hits it off terrifically well with our fellow who runs his car. Because they've got that kind of mind, and they're very, very good at it. And Mark never stops working, and he built a sensational company and he will continue that with us.
+
+BECKY QUICK: Okay. And finally, Market Folly writes in about the relationship with Todd and Ted, the investment gurus in house. He says, "Has Buffett ever disagreed with any of Todd or Ted's investments, and why?"
+
+WARREN BUFFETT: Yeah, well, they make their own decisions, 100% and they each manage $12 billion or $13 billion now.
+
+BECKY QUICK: It started as what, about $5 billion each?
+
+WARREN BUFFETT: Pardon me?
+
+BECKY QUICK: They started out with each of them having five to six –
+
+WARREN BUFFETT: Well, they started actually, I think when Todd came about a year ahead of Ted. And I think maybe it was $2 billion, but it has increased at various points and then they've earned a lot of money for Berkshire, which builds up for them, too. There's certainly – they've done things I wouldn't have done. But I've done things they wouldn't do, too. I mean, I want them to figure out their own. The choices – they are good at managing money, and they've got the advantage of managing smaller sums than I'm running. But they've got the disadvantage of running quite a bit larger sums than most people run. I mean, it gets more difficult with size. But they not only have done a good job of managing the money and trusted them. But they've contributed to Berkshire in just dozens of ways. They were sensational hires.
+
+BECKY QUICK: Do you talk about the investments with them ahead a time?
+
+WARREN BUFFETT: No, not ahead a time. And there's a number of them I haven't talked with them at all. I couldn't even – I couldn't name three quarters of their portfolio. I couldn't tell you the amounts. I don't remember that well. But I've gotten ideas from them. But they take on other tasks. I mean, Todd is on the health care situation. He's there on Saturday. I was there on Saturday. He's there all day talking to people around the country in terms of looking for the right CEO and that sort of thing. They are enormous contributors to Berkshire.
+
+BECKY QUICK: We are going to talk more about the health care proposal between Berkshire Hathaway, JPMorgan and Amazon coming up in just a little bit. In fact, Warren, this'll be the first time that we've gotten to talk to you about it since this announcement came up. But we'll do that just a little bit later this morning. In the meantime, Joe, we'll send it back to you.
+
+JOE KERNEN: And you might prepare Warren to answer some of the most pressing social issues facing us, Becky. Like, can you – do you know whether he's a Taco Bell or a Chipotle guy? Have you ever asked him?
+
+BECKY QUICK: I'd have a guess. I don't know. Have you been to Taco Bell or Chipotle?
+
+WARREN BUFFETT: Neither one.
+
+BECKY QUICK: Neither?
+
+WARREN BUFFETT: Neither one, no. I go to Kentucky Fried. I go to McDonald's. I go the Burger King. I occasionally go to Wendy's.
+
+JOE KERNEN: You're skirting the question, though.
+
+WARREN BUFFETT: And there's various local ones.
+
+JOE KERNEN: Skirting the question. Taco Bell—
+
+WARREN BUFFETT: Me? No, I—
+
+JOE KERNEN: Will the Taco Bell guy be good at Chipotle or will he ruin the natural foo-foo, you know, all the na – you know, I mean, Taco Bell—
+
+BECKY QUICK: Knowing his inclinations for whether he's – I don't think he's a taco guy.
+
+WARREN BUFFETT: When they start serving hamburgers I'll give you an opinion.
+
+BECKY QUICK: Yeah, I don't think he's a taco guy.
+
+JOE KERNEN: All right, all right. I was just – these are the pressing, you know, these are what's on my mind. As I said, I wanted to prepare you for some of these social, societal questions. The big questions.
+
+WARREN BUFFETT: I'm for whichever one serves Coca-Cola.
+
+JOE KERNEN: That might not be Taco Bell because it used to be Pepsi, I think. Anyway. Coming up, more Warren Buffett. Plus a big weekend for Black Panther at the box office. Details straight ahead. "Squawk Box" coming right back.
+
+JOE KERNEN: Welcome back to "Squawk Box." The futures have moderated somewhat recently down – now up 161 on the Dow. Almost 200 earlier as far as upward momentum. The Nasdaq though, meanwhile, has actually added to the earlier gains. It was up 120-plus on Friday. And earlier in the premarket session was up about 25, 26, 27. Now up 33. Black Panther joining an elite group at the box office. The movie brought in $108 million in North America over the weekend. And that's just the fourth film to top $100 million in its second week in theaters. The others were Star Wars: The Force Awakens, Jurassic World, and The Avengers. So after 12 days now in theaters the movie has raked in roughly $704 million globally. I don't know how much in popcorn sales. Because sometimes that's as expensive. I went to the movies Saturday night. I think it cost more, popcorn and a large drink cost more than a ticket. Quite a bit more. According to comScore, though, it hasn't yet debuted in China and Japan. Those are two of Hollywood's biggest markets. And let's get back now to Becky, in Omaha. I wish we could – what if we just, you know how when NBC sometimes we go to commercial on the Olympics, or golf or something, and we stay with – we show the commercial, but we stay with the programming? What if we did that with you and Warren? Would that be—
+
+BECKY QUICK: So you could see what was happening in between the commercial breaks? That would be good.
+
+JOE KERNEN: Yeah, that might be some of the best – the conversations and stuff. That might be some of the best. So what'd you guys talk about?
+
+BECKY QUICK: Well, I'm actually just looking at this. Well, no, I was just showing him. I was laughing. You know, I've been watching the wires to see what he says makes the wires. And literally, Joe, this honestly just hit the wires at 7:44:48 a.m. Buffet says, "Has not gone to Taco Bell, Chipotle. Prefers McDonald's, KFC, Burger King, Wendy's." I'm not joking. That literally hit the wires.
+
+JOE KERNEN: I'm getting –
+
+BECKY QUICK: So I think you can say anything.
+
+JOE KERNEN: Yeah, 85-inch screen – literally within milliseconds Drudge had "Buffet touts stock – or, tax plan." They had that and I thought it was going to be the least of it. That got on Drudge almost immediately, too. So let me check Huffington Post—
+
+BECKY QUICK: But it's not nearly as important as this comment that just made the wire.
+
+WARREN BUFFETT: You too could live to 87.
+
+JOE KERNEN: Yeah, exactly. That'll come out.
+
+BECKY QUICK: Warren, one thing that you said earlier, you were talking about Samsung. You mentioned you owned the Samsung 85-inch television screen. But you know an awful lot about the company. You don't own the shares, do you?
+
+WARREN BUFFETT: I don't own them, and Berkshire doesn't own them now. But Berkshire has owned Samsung. It doesn't get reported in our 13F. I think 13Fs just apply to domestics. So it actually hasn't shown up.
+
+BECKY QUICK: Really?
+
+WARREN BUFFETT: But I think I'm right on that. I'm 99% sure. And so we bought some when Samsung was at about a million yuan – you got to divide that by something over 1,000 – we bought a reasonable amount. We did sell it when it went up. It's higher than this now. It went up to 1.8 million, or something. I think it's around 2 million, 2.3 million or 2.4 million. The yuan went in our favor a little bit too. So we did a little bit better in dollars, but –
+
+BECKY QUICK: I mean, I don't think of you as – in the past you have bought some South Korean stocks, I think. That was a while ago. Why were you looking at Samsung at this point?
+
+WARREN BUFFETT: It was very, very cheap. They had a lot of cash. They hadn't done much on buying in their stock. But they had talked about it. But it was just very cheap. It's a big, strong, good company.
+
+BECKY QUICK: Yeah, I remember you buying a South Korean retailer, was it, years ago?
+
+WARREN BUFFETT: Yeah.
+
+BECKY QUICK: Maybe it was Costco or something?
+
+WARREN BUFFETT: There was a time when I bought a whole bunch of little ones personally.
+
+BECKY QUICK: Right. Right about the time when we traveled.
+
+WARREN BUFFETT: Yeah. Exactly. And we – the Korean market was very cheap. I mean, ridiculously cheap after the 1998 – when they had all kinds of troubles. And there were a lot of bargains in Korea.
+
+BECKY QUICK: When you say a reasonable amount, I mean, for me, that's a different number for my holdings than it would be for you.
+
+WARREN BUFFETT: Yeah.
+
+BECKY QUICK: Are we talking north of a billion dollars?
+
+WARREN BUFFETT: Well we probably made in the hundreds of millions, someplace.
+
+BECKY QUICK: You made that much on the transaction.
+
+WARREN BUFFETT: Yeah. That's my memory. It was kind of in $500 million, or $400 million, I don't remember exactly.
+
+BECKY QUICK: Let's talk about some of the other purchases that were revealed. Purchases and sales that were revealed in some of these most recent filings and 13Fs. You sold more of your IBM stake and bought more Apple, according to the latest filings that we had seen.
+
+WARREN BUFFETT: That's true.
+
+BECKY QUICK: And a question came in from Brandon Carroll that said, first of all, why did you—
+
+WARREN BUFFETT: Well I was wrong on – at least I felt I was wrong on IBM. Now, I may have been wrong when I sold it, too. But I certainly was wrong when I bought it. And I've felt that Apple has an extraordinary consumer franchise. Apple's a different kind of business than IBM. They're both tech, obviously, in a major way. And they even have a joint venture, you know, on some things. But I think I understand consumer behavior perhaps better than I do the tech business. It wouldn't take much to beat it. And I liked it, I like Tim Cook very much. I like their policies. I see how strong that ecosystem is. It's to an extraordinary degree. I mean, I look at my grandchildren, my great grandchildren and everybody in the office, I mean, their families. I talk to the people at the Furniture Mart when the ten hadn't arrived, nobody goes over to, you know, buy an Android. I mean, you are very, very, very locked in at least psychologically and mentally, to the product you're using. I mean, you got all kinds of stuff up on there. It's a very sticky product.
+
+BECKY QUICK: That was sort of the same thing you said about IBM when you were first buying it. That corporations that had bought into it, they were kind of stuck with it.
+
+WARREN BUFFETT: Yeah.
+
+BECKY QUICK: That it would be what they were using because it was too hard to get off of a system like that.
+
+WARREN BUFFETT: Yeah.
+
+BECKY QUICK: And, by the way, IBM recently just finally showed an increase in revenue for the first time in, like, 27 quarters.
+
+WARREN BUFFETT: Well, but it was – the foreign exchange went with them, and it was the introduction of a new piece of hardware. I mean, it actually – they weren't up except for those two factors. But the cloud came along. And one of the most extraordinary things I've ever seen in business is when an unrelated type company – a retailer, you can call Amazon of that type, goes into another big industry and sees the future in it, gets into it, and then they gave – and Jeff Bezos would say this, he said it on the Charlie Rose show, some time ago – he got this amazing runway. I mean, the other players – here are all these 200 IQ people, you know, in that business, and they gave him year, after year, after year. It wasn't a secret of what he was doing. And he was, in an important way, revolutionizing the industry, and the other people sat on their hands, basically.
+
+BECKY QUICK: Wow. All right. We have more questions that we're going to ask you, related to some of these things. But right now we're going to send it back to Joe. Joe?
+
+JOE KERNEN: Hold on. Hold on. I just thought of something, Becky. Hey, Warren?
+
+WARREN BUFFETT: Yep.
+
+JOE KERNEN: I don't understand why Creighton's in the Big East. I don't know. Number one, because it's so far West. But let's just – so it is. Why don't – I'm inviting you. I'll get the tickets. You can come with my family. Why don't you come back for the Big East tournament? Not the March Madness. But at Madison Square Garden. It's coming up the week of March 7th to 10th. You want to come back for that and we'll take in a couple of games?
+
+WARREN BUFFETT: That's tempting. Because I like watching Creighton basketball. But I am cutting back on the travel, Joe. I'll watch it on my 85-inch. And you were talking about popcorn earlier.
+
+JOE KERNEN: Now you're cutting back.
+
+WARREN BUFFETT: I make my own popcorn.
+
+JOE KERNEN: I invite you somewhere and you're cutting – I invite you somewhere and you're cutting back on your travel. The minute I invite you—
+
+WARREN BUFFETT: Joe—
+
+JOE KERNEN: Well I'll get good seats. StubHub.
+
+WARREN BUFFETT: I will – I'll tell you what I'll do. I'm making you an invitation. If Creighton gets to the finals in March Madness, I'll take you. How's that?
+
+JOE KERNEN: That's pretty good.
+
+WARREN BUFFETT: That's a firm offer.
+
+JOE KERNEN: Because I'm not convince they won't this year.
+
+WARREN BUFFETT: And I'll have good tickets.
+
+JOE KERNEN: I'm not convinced they – I don't know who is good—
+
+WARREN BUFFETT: No. No.
+
+JOE KERNEN: I mean, there's a lot of – everybody's great. That's the thing. Amazing. All right. Okay. So forget it. Nevermind.
+
+WARREN BUFFETT: I'll have good tickets. But you got to be for the Bluejays, though. I mean, if we go, you cheer for the Bluejays. That's the deal.
+
+JOE KERNEN: Not if it's against Xavier. I can't do that. Not if it's—
+
+WARREN BUFFETT: Well, no. But that will be the exception.
+
+JOE KERNEN: All right, well we'll see. I just thought because this is going to be – that's unbelievable. Madison Square Garden. That conference, I mean, if you can win in that conference, you can win anywhere. Right? It's like the Southeastern conference.
+
+WARREN BUFFETT: Who would've thought it, yeah. You're right.
+
+JOE KERNEN: Yeah, I know. All right, Buffett, forget it. Don't come back. I don't care. Coming up, this morning's corporate headlines. Plus, much more from Warren Buffett, including – he's not traveling as much. What if you said that, Becky? When he tells you to come out to Omaha? I mean get on one of your NetJets, Warren. Anyway, we'll get his take on health care in a moment.
+
+BECKY QUICK: Good morning, everyone. Welcome back to a special edition of Squawk Box, live from Omaha, Nebraska. We are here with Berkshire Hathaway chairman and CEO Warren Buffett who's gonna be answering your questions for one more hour. Go ahead and keep sending us your questions on Twitter, on Facebook with the hashtag #AskWarren. It is Monday, February 26th, 2018 and the third hour of Squawk Box begins right now.
+
+JOE KERNEN: Good morning and welcome back to Squawk Box here on CNBC, live from the NASDAQ market site in Times Square. I'm Joe Kernen along with Becky Quick. The futures right now-- they were inching up again last we checked. Now back to 180. Up 180 on the Dow up just under 13 on the S&P, the NASDAQ strong, up 37. Treasury yields have moderated. I saw 285 on the ten year-- last time we checked. See 285 even right now. In corporate news, General Electric making big changes to its boards. The company adding three directors, including former Financial Accounting Standards Board chairman-- Leslie Seidman, former American Airlines CEO Thomas Horton, former Danaher CEO Lawrence Culp, as previously announced. The overall size of GE's board will be reduced to 12 from 18. There is a list of some of the directors who are not-- standing for reelection, which includes Steve Mollenkopf, Shelly Lazarus-- Jim Rohr-- and Mary-- Schapiro. And lead director Jack Brennan-- will also not stand. He will stay on-- to facilitate the transition, but will not stand-- for-- reelection in 2019. Right now, let's get back-- to Becky Quick-- and Warren Buffett. Time is goin' pretty fast. It's already 8:00-- back here, Beck.
+
+BECKY QUICK: I know. It-- always flies. Joe, thank you. Our news maker of the morning is Berkshire Hathaway's chairman and CEO, Warren Buffett. And Warren, we have not gotten the chance to speak with you since you made an announcement along with Jamie Dimon and Jeff Bezos about how the three of you are creating a new company to try and tackle the ever-- increasing level of health care costs in America. tell us a little bit about this plan, how this came together. How did-- how did the three of you set this up?
+
+WARREN BUFFETT: It's a good question. It--- I think that-- certainly Todd and I-- Todd Combs in our—
+
+BECKY QUICK: Todd Combs.
+
+WARREN BUFFETT: --office-- discussed it quite a bit. Todd is on the board of JP Morgan. And I think he-- talked to Jamie about it. And-- he participated probably more in the discussion than I did. But I love the idea of tackling what I regard as the major problem of our economy. I think that you had health care costs go from 5% of GDP in 1960. They were $170 per person annually. And now they're over $10,000. And they're closing in on 18% of GDP, which is as much as the federal government raises in a year. So it's-- and it-- it gives every indication of going up, and up, and up. Now--you want the best health care, but you find that in other industrial countries that were at about our 5% level many years ago, they've gone up into the 11% range or thereabout. So we have got a huge, competitive disadvantage in American businesses far more important than any tax change in-- in terms of our health care costs. And-- $3.3 trillion a year now. That's-- every dollar has a constituency. So when you try to add-- and it's a very complicated system. But I do think we have the right three partners. And-- the job now is to get the right CEO and that's an enormously important job and we can't afford to make a mistake. And-- that is our first and most important order of business. And-- then we go forth.
+
+BECKY QUICK: You-- all have-- -- not put out a lotta details about-- how this is going to work, but there's been an awful lotta conjecture-- and-- people tryin' to figure things out. In fact, on the day that you announced this, there was a huge hit to plenty of health care stocks across the board, from insurers-- to the pharmacy benefit managers. And-- this is not the first time that a group of people has tried to tackle health care costs. But this is the first time that the market has had an instantaneous reaction to something like this, probably in no small amount because of the stature of the three of you combined doing this. what's your goal?
+
+WARREN BUFFETT: Well, the goal is to deliver better care in reality and also in terms of how the people feel about the care that they're receiving 'cause that's important too. And— to find ways to take cost outta the system, while not impairing the quality of what people receive. And that's enormously complicated. There're so many intersecting-- companies and people, it's not gonna be easy. But we-- you know, we're determined, we've got the money, we'll stick with it. You mentioned actually forming a company. We haven't necessarily-- we don't necessarily have to form a company. We may form a company, and probably will. But-- -- it's just a joint effort now. And-- we will need somebody to head an organization. And that could be a partnership formed and different things. But-- and our goal is really not just for the three companies. Our-- our goal is something that other people can pick up on. And that when-- end this-- stop this really just constant increase, 'cause there are only 100 cents in the dollar. And if you've got 18 cents, which we're approaching, going to health care, you've only got 82 cents left.
+
+BECKY QUICK: Uh-huh. You mentioned that there-- it's a very complicated system. I know you're not an expert on it, but you've spent a lot of time digging through it and so have the other people who are working with this-- Todd, Jamie-- and Jeff and lots of other people involved underneath. What's your early read on some of these things because-- if you look for margins, there are lots of middlemen and lots of margins?
+
+WARREN BUFFETT: Yeah, no, I think we've-- been inundated from people that would like to run this or like to help. Just inundated. And-- I-- should emphasize help. And-- also companies who would like to join, you know, and all of that. But we're not remotely there. But-- it--would be very easy I think to go in and shave off 3% or 4% just by negotiating power, certain things. We're looking for something much bigger than that. That-- can be part of it. But-- we are hoping to figure out a way that the constant increases of percentage of GDP can be at least halted. And hopefully, that we could find a way where perhaps better care could be delivered, even at somewhat lesser cost.
+
+BECKY QUICK: You think the private sector can do it better than the government?
+
+WARREN BUFFETT: Yeah, I think. Usually, that's the case. And I think that's probably the case in health care.
+
+BECKY QUICK: I mean-- I realize again this is early on, but people look at pharmacy benefits managers. They'll look at Express Scripts and say that their margins are 9% on $100 billion in drugs that go through their system every year. Is that, like, an easy way to clip or are we talking--about working even beyond?
+
+WARREN BUFFETT: Oh, it-- it'd be beyond that. Way beyond that. And-- I can't tell you what. They-- interact in ways that it's gonna take a terrific CEO a lot of commitment, probably some important mistakes, lots of time. You know, I'm not interested in lots of time. At 87, I wanna keep it moving. But it-- ithis is not easy. If it was easy, it've been done. iit's very, very difficult. It-- it isn't-- it-- like I say, it isn't difficult to shave a little bit off here. But it'll pop up someplace else it has to be looked at by somebody who really has a grasp of it from every angle. Hospitals, physicians, patients. I mean-- they're-- and the question is whether we can come up with something better. And I'm hopeful, but don't expect any miracles out of this soon. We-- we've got the perfect partnership. And-- with Jeff and Jamie, I mean, w-- we can make things happen. Our companies are big, yet we can-- we can still make things happen. We're not that-- you know, we don't have the bureaucratic problems or the constituency problems that some others might have. And we like each other and we trust each other. And so that's gonna work very, very well. And it's a lotta muscle but it takes-- it-- is gonna take a terrific CEO, and that's our most important job by far, is finding that person. Like I say, we've been inundated with-- prospects. And we'll-- we wanna come up with the right person and I hope we do it fairly soon. But we're not gonna compromise.
+
+BECKY QUICK: Is this a plan we should-- expect our-- should-- would you expect to see this-- in place a year from now?
+
+WARREN BUFFETT: I would expect to see a CEO in place a year from now. But there will be a lot to do, Becky, I mean, you know? And, I mean, you talk about something that has $3.3 trillion in revenues presently going to people and most people that are on the reception end of the $3.3 trillion are-- are happy with things. I may have said billion, but-- the $3.3 trillion are happy with things. And although they'll all say things could be better but-- done better but not in their particular segment.
+
+BECKY QUICK: You mean the actors involved in receiving—
+
+WARREN BUFFETT: Oh, sure.
+
+BECKY QUICK: --the checks that are coming in
+
+WARREN BUFFETT: It's a huge, huge, huge industry. Yeah. And-- they're good people. And we've done well with medicine here, although we don't have more doctors per capita or more beds per capita or more nurses per capita than these countries that are spending 11% or so. So-- but—it we should have-- a top notch CEO certainly well within a year. And we will give that person a lot of latitude and a lotta support. And-- he or she will need it.
+
+BECKY QUICK: You know, in the past when we've talked about ways to try and bend the cost curve as a nation when we've had this discussion, people always say, "Be careful what you cut back on because you could hurt the innovation process. You could hurt what we are doing to come up with the best health care procedures and pills and-- discoveries in the health care front." Do you worry about that?
+
+WARREN BUFFETT: Yeah. I m-- mean-- but I think you've got three organizations and I think we will have a CEO that's terribly conscious of that. And-- there's no question, I mean, that our drug companies and-- I mean, they've worked miracles-- you know? I take a few pills, you know? And they did-- they seem to help. So-- I think I receive very good health care. So-- there's a lot good about our system. But the system, by its very nature, is not cost conscious. I mean, if you were-- a young, medical person and let's just say you're working on prostate cancer, which I had, the rewards to you psychologically and with your peers, everything, are going to come if you do something that develops something better for prostate cancer, which they should. But they weren't gonna come to you if you w-- d-- reduce the cost of treating it. There-- just isn't the same motivation as-- -- the outstanding medical minds are functioning, in many cases, much more on the results, which they should be. But the cost really doesn't make much difference. It's very seldom that you read about some breakthrough on cost by anybody in this huge profession. So it's got a different set of incentives. And-- to some degree. And we've gotta figure out a way to keep the good parts-- you know, without-- but also to get at what I've called-- really, truly is a tapeworm on the-- economic system. I mean, it is eating up, instead of $170 per person in 1960, when we actually thought we were doing pretty well in this arena, to-- over $10,000 per person. Just think of that, $10,000 per person. You know, family a four, on balance $40,000 of GDP going to-- just one aspect of their lives.
+
+BECKY QUICK: Let me ask a question from Marc Gilbert,who writes in that, "You've made a lot of money from some very successful profit making companies. Why is your new health venture with Amazon and JP Morgan designed to be free from profit making incentives and constraints? Is profit seeking not a good incentive?"
+
+WARREN BUFFETT: Yeah. It-- certainly can be a good incentive. I mean, it's a wonderful incentive. And there may be many places that it happens in this. And-- we didn't-- if you read the-- what we said carefully, I mean, it-- we are free from that as a demand, but that doesn't mean that it can't happen. What I'd love to see, of course, is costs come down and the employees, in terms of-- 'cause there're very-- you know, significant parts of the cost-- you know-- I-- personally, at Berkshire, I'd like to see them get the first reduction if we-- if— we find something better. That isn't to say that Berkshire shouldn't get somethin' too, but-- it's really a huge, huge cost to the American public. And it gets down to the worker. I mean, it's-- the company may write the check, but they often get participation and copays and all-- kinds of things. So-- this goes beyond just trying to improve the bottom line of-- the three companies involved on it.
+
+BECKY QUICK: Well, companies-- like Berkshire Hathaway and JP Morgan and Amazon, make up-- I--think they cover about half of all American households. About half of American households get insurance through companies like this. So it could make a big impact—
+
+WARREN BUFFETT: Yeah, it-- it-- it's—
+
+BECKY QUICK: --if people are following from that.
+
+WARREN BUFFETT: It's sort of the way it's developed in this country. And-- and partly, the tax law leads to that because the companies get a deduction and the employee doesn't recognize income on that particular benefit. I mean, if we could-- if the company bought all your food, you know, you would get charged on the implicit value of the food that you were getting. But they-- the tax law has an impact in terms of how-- how the whole system is arranged. Lots of things have an impact. That's why it's gonna be so difficult to, you know, really make fundamental change. But we're committed to it.
+
+BECKY QUICK: One of the recent additions that Berkshire made to its holdings, to its stock holdings, was the addition of Teva. And there was a question that came in from-- Marco, a guy named Trader Marco, who says, "What are your expectations on return on investment for investment in Teva? Do you have any hopes, plans or strategies to help introduce Teva in the mix of the Amazon, JP Morgan, Berkshire Group's aspirations for a more efficient and cheaper health care plan for all—
+
+WARREN BUFFETT: Well, that would be the last thing on my mind. But the-- Teva's not a stock I bought. It's one of the other two. And-- and—
+
+BECKY QUICK: Todd or Ted?
+
+WARREN BUFFETT: --I've never-- never talked with them about it.
+
+BECKY QUICK: So you have no idea why you bought it?
+
+WARREN BUFFETT: No.
+
+BECKY QUICK: Why Berkshire bought it?
+
+WARREN BUFFETT: No, no. No. And-- they'll sell it without telling me. I mean—
+
+BECKY QUICK: All right. Warren, we're gonna leave it there-- right now. But we will have much more from Warren Buffett coming up after this quick break. Plus, Samsung unveiling the latest version of its flagship smartphone. We've got the details straight ahead. Stay tuned. You are watching Squawk Box right here on CNBC.
+
+JOE KERNEN: Welcome back-- to Squawk Box. Let's check out the futures right now. This is-- after a 350 point gain in the Dow on Friday. And the-- Dow is now back-- closed Friday at $25,309 and we're indicated up another 170 points-- today. So closing in on-- $25,500-- again. I don't know where that puts us in terms of-- from the highs. But-- you know, if there was a 10%, 12% correction, we've certainly gotten back more than half of that. And the S&P is now up 11 and the NASDAQ indicated up-- 35. Samsung unveiling its new Galaxy S9 smartphone yesterday at the Mobile World Congress in Barcelona. The new flagship phone looks similar to last year's S8. It has new camera features that boost low light photography and action shots. The phone's priced at $720 for the S9 and $840 for the larger-- S9 Plus. Both will be available-- on March 16th. And-- Warren Buffett might be in the-- might be in the market for-- a smart phone-- 'cause we really don't know whether he's gonna take the plunge or not from his-- got one of them big, Gordon Gekko-- phones that he had on the beach. Like-- like, the size of a mailbox or like a toaster. Coming up-- we're gonna get back to Becky Quick-- in Omaha, where Warren Buffett is answering questions from Squawk Box viewers as we head to break. Take a look at-- Treasury yields. Squawk Box will be right back.
+
+BECKY QUICK: Welcome back to Squawk Box where we are live from Omaha, Nebraska with a special edition. Our news maker this morning is Warren Buffett, who is Berkshire Hathaway's chairman and CEO. He just put out his annual letter to shareholders this weekend. It's his 53rd annual letter to shareholders. And he's giving you a chance to ask questions too. We've been asking for questions and Warren, I have a couple I'd like to get to-- from people who have been watching and reading in. Eric LaFont writes in, "Warren, at last year's annual meeting, you said you missed out on buying Amazon. The stock was $935 last May. Today, it's $1,500. Are you completely surprised by the market's valuation of Amazon?"
+
+WARREN BUFFETT: No, I'm not completely surprised. I'm amazed at the managerial talent of Jeff Bezos. But I've been-- a constant fan, really, almost since he started. And the-- and the more I see him-- the more impressed, you know, I've been with what he's accomplished. But-- I've blown it in terms of-- making any money on it.
+
+BECKY QUICK: So you're not investing right now? We shouldn't--
+
+WARREN BUFFETT: No. But--I would never bet against it.
+
+BECKY QUICK: Yeah. Yeah. All right, Andre writes in a second question. He- says-- "BNSF, the Burlington Northern, was acquired when the railroad industry had consolidated down to four players and was showing signs of pricing power. Has Berkshire looked at acquiring 100% of an airline, given similar dynamics of consolidation, high barriers, pricing power and low valuations relative to book?"
+
+WARREN BUFFETT: Yeah, the airline business is different. You know, people can go in and form-- ultra low cost ones. I mean, Frontier is out there, waiting to-- go public, perhaps. And-- so you've got-- you're not gonna have these huge, huge trunk carriers necessarily more of those. But--you can always compete. But you can't build a new railroad from Omaha to Chicago tomorrow or something of the sort. But you can add a flight-- if you're one of the airlines already there or you can perhaps come in and get in the gate and then fly. So it's-- it's a way different-- set of economics between the two industries. On the other hand, I wouldn't rule out owning an entire airline. But it's a different business. A very different business.
+
+BECKY QUICK: Right now, you have four major airlines?
+
+WARREN BUFFETT: We own—
+
+BECKY QUICK: United, Delta—
+
+WARREN BUFFETT: --somewhere between six and a fraction and nine and a fraction percent of four. We won't-- of four. And we won't go over 10%-- 'cause we just generally don't like to go over 10%. But-- we do own those four. And I wouldn't rule out as-- even we d-- haven't done it, but even buying s-- stock in some other one or, you know, changing that position at some point—
+
+BECKY QUICK: But it's United, Delta, American and Southwest?
+
+WARREN BUFFETT: Right.
+
+BECKY QUICK: Those are the four big ones?
+
+WARREN BUFFETT: Yeah, the big ones.
+
+BECKY QUICK: And you still like the airlines as much as when you first bought it—
+
+WARREN BUFFETT: It's-- a business that's-- always subject to somebody doing something very dumb competitively. And—-- they've done it a lot in the past. There was more chance of them doing it when there were seven of 'em than the big ones, than-- than four. I mean, the industry was suicidally competitive for decades. I mean, they net lost money-- and-- while they were growing like crazy in units. And I was on the board of U.S. Air so I saw how it all happened. And it can turn into fierce competitive battles that'll wipe out earnings. Or it can be a business that's more decent, but still subject to lots of competition. And-- it's really hard to know, you know, for sure how it will develop. It's-- not risk free in their competition at all. In-- in the railroad business, all the tracks have been pretty much laid and all of that. So that settled into a business. Now, it's regulated and means that your earnings, you know, can only-- you're a common carrier. And-- many places, you compete with another railroad, and other places, you don't. And there're different rules that apply even in terms of pricing in those cases. But it's a perfectly decent business. It will lose volume in coal over time. And that's an important product. But it'll probably gain in other areas. So it's-- it's two different animals.
+
+BECKY QUICK: There's another question. It's T41, guys, it's Derek Borrs who writes in. And he says, "Of the equities that Berkshire Hathaway currently holds, which ONE" one, in all caps, "do you wish you could purchase more of if the SEC allowed it?" I think he's referring to cases like American Express or Wells Fargo, where you're not allowed to buy more.
+
+WARREN BUFFETT: Yeah. I- can't answer that. I'm not gonna tell you what we would buy.
+
+BECKY QUICK: Derek, congratulations.
+
+WARREN BUFFETT: Yeah, no, it—
+
+BECKY QUICK: You managed to get one that-- that he won't answer, so well done on that. All right, folks, we're gonna take-- a quick break. When we come back, we have much more with Warren Buffett. We'll talk about market valuations right now and what he thinks about the huge swings that we've seen in volatility recently. That and much more. Right now though as we head to a break, take a look at the U.S. equity futures. They've been up all morning long. Right now, Dow futures indicated up by about 158 points above fair value. The S&Ps would open up by 11 here and the NASDAQ up by about 35. Squawk Box'll be right back.
+
+JOE KERNEN: Good morning and welcome back to Squawk Box-- here on CNBC live from the NASDAQ market site in Times Square. Couple of stocks to watch today, Dean Foods is down sharply. Company reporting earnings $0.25 a share. That was a penny share of estimates. Revenue also was below estimates. The company announced plans to consolidate its manufacturing capacity in a move-- that it says will cut costs. And shares of HP Inc. are higher this morning. The company has upgraded from neutral to overweight at JP Morgan Chase based on valuation. The stock has jumped 3.5%-- just on Friday after-- following-- the company's quarterly report. All right, now let's get back-- to Becky Quick and Warren Buffett in Omaha. Becky?
+
+BECKY QUICK: Joe, thank you. As we-- you know, our special guest this morning is the chairman and CEO of Berkshire Hathaway, Warren Buffett. And Warren, we've talked about a lot of things this morning. We got briefly your thoughts on the markets. But there's been a lot that's happened in the markets since the last time we sat down with you. Volatility is back in a big way. And that has the average retail investor kind of questioning what to do at this point. It's-- scared a lotta people. What-- what do you think's happening right now just in terms of the return of volatility? Is it something to be worried about? What's causing it?
+
+WARREN BUFFETT: Well, if you own stocks like you'd own a farm or an apartment house, you don't get a quote on those every day or every week – you look at the business. And the value of American business depends on how much it delivers in cash to its holders over between now and judgment day. And I don't think it changes in 10% in a two month period if you're looking at it as a business. Now, you've got – anything can happen in markets. I mean, anything can happen in markets. And that's why I say don't ever borrow money against securities. Markets don't have to open tomorrow. I mean, you can have extraordinary events. So I think to some extent, you can get some of the instruments that people don't understand very well that have a lot of fire power in them.
+
+BECKY QUICK: Like the volatility index and things that are tied to that.
+
+WARREN BUFFETT: They can trigger and – yeah. The idea of people taking a position and they're gambling. They're not investing. Nobody's investing when they buy, you know, some super charged index on, you know, how the VIX does or something like that. They don't need it in their – it's an unnecessary instrument. Now, you know, they will create instruments that the public will buy. And you can just count on that. Wall Street's been doing that for – since they met under the buttonwood tree in 1792 or whatever it was on the exchange. But if you're investing, if I'm going to buy a half interest in a McDonald's stand and you're going to run it, or a McDonald's franchise, you're going to run it, I look to the business to determine whether I've made a good investment. And I'm concerned about, you know, whether we have new competition, how we do over the years. But it's the business I look at. When you're just looking at the price of something, you're not investing. I mean, if you buy something, Bitcoin for example, or some cryptocurrency, you're not looking to the asset itself to produce anything. If you buy an apartment house, you're looking at how the apartment house does. You buy a farm, you look how the farm does. If you buy a whole business, you're looking at how the business does. If you buy a part of a business, why shouldn't you look at how the business is going to do. People get charmed by lots of action and the fact that things are liquid and all of that. And it does have repercussions back into the market. When you get something like, you know, ETN arrangement on the, you know, super charged on the VIX, I mean, where you can lose 90% of your money in one day, I mean, that really doesn't belong with the word, "Investment." I mean, it's just a gambling form of activity.
+
+BECKY QUICK: Although you've said yourself, you talked about this in the annual letter over the weekend, and just even at the top of the show, where when you look around for a business that you want to buy, you can't find any attractive levels. However, when you're looking at equities, you do see that is a good place. That Berkshire has been a net purchaser of equities this year in 2018. And that's because you like the deals that you're getting in the market.
+
+WARREN BUFFETT: You can buy small pieces of businesses for less than you can buy whole pieces of businesses.
+
+BECKY QUICK: For the premium you'd have to pay if you were buying the whole thing.
+
+WARREN BUFFETT: Yeah. So you get a bargain as an investor, compared to what I can get in terms of buying the whole business. And people – if they just think of stocks as pieces of business, they'd be so much better off than thinking of those little things that move around in price. And I think with Berkshire, we have an unusual number of people, the shareholders, who just look at Berkshire as a business – they look at it as a savings account. They put some money in 20 or 30 or 40 years ago, we retain it and reinvest for them. But we're their savings account. And that's the way I look at my own stock. That's the way Charlie looks at his stock.
+
+BECKY QUICK: And part of the reason that you've been so bullish on equities for many years at this point is the interest rate environment. You've looked at interest rates and said, "Interest rates are gravity on stock prices. And when interest rates are so low, stock prices inevitably are going to climb." There's been this really weird thing that's been happening in the markets. Where all of a sudden, good news that we got from a good jobs report made people start to worry that interest rates were going to climb and that the Fed was going to raise rates more than anticipated. People got really nervous around that. You can still see it every time we get up on the ten year back towards 3%. It gives investors, or at least traders I should say, some concerns about what's happening. How do you kind of gauge all of that?
+
+WARREN BUFFETT: Becky, a bond, if you buy a 30-year government bond, it has a whole bunch of coupons attached. In the old days it does, now it's all electronic. But it has a whole bunch of coupons. And the coupon says 3%, or whatever it may say. And you know that's what you're going to get between now and 30 years from now. And then they're going to give you the money back. What is a stock? A stock is the same sort of thing. It has a bunch of coupons. It's just they haven't printed the numbers on them yet. And it's your job as an investor to print those numbers on it. If those numbers say 10% and most American businesses earn over 10% on tangible equity. If they say 10%, that bond is worth a hell of a lot more money than a bond that says 3% on it. But if that government bond goes to 10%, it changes the value of this equity bond that, in effect, you're buying. You are buying – when you buy an interest in General Motors or Berkshire Hathaway or anything, you are buying something that, over time, is going to return cash to you. Maybe a long time in terms of Berkshire, but it'll be bigger numbers. And those are the coupons. And it's up to – your job as an investor to decide what you think those coupons will be because that's what you're buying. And you're buying the discounted value. And the higher the yardstick goes, and the yardstick is government bonds, the less attractive these other bonds look. That's just fundamental economics. So in 1982 or '83, when the long government bond got to 15%, a company that was earning 15% on equity was worth no more than book value under those circumstances because you could buy a 30-year strip of bonds and guarantee yourself for 15% a year. And a business that earned 12%, it was a sub-par business then. But a business that earns 12% when the government bond is 3% is one hell of a business now. And that's why they sell for very fancy prices.
+
+BECKY QUICK: So 3% is a long way from 15% that you were just talking about.
+
+WARREN BUFFETT: Absolutely. But I watched it go from 3-15% though, too.
+
+BECKY QUICK: Right. Is there an inflection point on that way because people think, "Oh my gosh, we've gone from 2.4% to 2.9% and that is a big difference."
+
+WARREN BUFFETT: It isn't much. That's not much.
+
+BECKY QUICK: Historically speaking, that's still the way we should be measuring these things –
+
+WARREN BUFFETT: Absolutely.
+
+BECKY QUICK: Not on the absolute movement or the percentage gain movement over time?
+
+WARREN BUFFETT: 2.4-2.9% is nothing if you're comparing it with businesses that earn 12% on equity and reinvest. And the S&P, you can just look at the figures for decades, has earned on tangible equity, it's earned a lot more than that. And it translates into more, higher prices than it should.
+
+BECKY QUICK: Is there a tipping point along the way, or is it a gradual decline in terms of these things?
+
+WARREN BUFFETT: Nobody knows. Yeah. But it is gravity. I mean, if you told me interest rates were going to be 15% next year on bonds, you know, there's a lot of equities I wouldn't want to own now. And I would buy a lot of governments at 15%, and I kind of wish I had in 1982, but I didn't.
+
+BECKY QUICK: If I told you that the long bond was going to trade at 4.5-5% next year, what would you –
+
+WARREN BUFFETT: It makes a difference. But it's been idiotic to own long bonds during the last, you know, I talk about this in the report in terms of our – it's just been idiotic. And big, public pension funds and all that, they sat there and they owned bonds. Now, they may have bought them on a 4% or 5% basis. But if they go to a 3% basis, they're selling way above par. The way people think about it is that they do some very silly things.
+
+BECKY QUICK: I mean, you lay this out in the annual report, but a lot of investors are told – retail investors are told, that they should have a certain percent of their portfolio in bonds. Maybe they're told 60/40, maybe they're told 70/30 stocks to bonds. That's something that you should do and that's the safe way of doing. What are they missing?
+
+WARREN BUFFETT: Well, some people should not own stocks at all because they just get too upset with price fluctuations. If you're going to do dumb things because a stock goes down, you shouldn't own a stock at all. No, I mean—
+
+BECKY QUICK: What are dumb things? Selling a stock because it goes down?
+
+WARREN BUFFETT: Yeah, selling a stock because it goes down. I mean, you know, if you buy your house at $20,000 and somebody comes along the next day and says, "I'll pay you $15,000," you don't sell it because the quote's $15,000. You look at the house or whatever it may be. But some people are not actually emotionally or psychologically fit to own stocks. But I think more of them would be if you get educated on what you're really buying, which is part of a business. And the longer you hold stocks, the less risky they become, whereas the longer the maturity of a bond, the more risky it becomes.
+
+BECKY QUICK: Do you feel like that's a message that is getting through to people? It's one that you repeat again and again. And I always feel like, I was watching a lot of the Olympics. And I felt like what they do in the Olympics is so easy. These guys sailing through the air and doing massive spins on the ice and turns. And then I read your annual letter and I think, "Oh, it's really easy to invest." And then I walk away and realize it's not that easy.
+
+WARREN BUFFETT: It's not easy psychologically for many people. But I've been teaching since I was 21. I taught my first class on investments, and I had a class last week with 11 schools, 220 students. And some of them get it and some of them don't. Now, people would rather gamble. I mean, the idea that you can double your money in six months, that's just going to – it's why people go to the races, why they go to Vegas. You know, whatever it may be. They even know the odds are against them. And they still do it. I mean, it's a strong instinct to want to get rich fast. And I don't know how to do it.
+
+BECKY QUICK: Joe has a question that he'd like to ask too. Joe?
+
+JOE KERNEN: Buffett, you haven't tweeted since April of 2016, man. Is that true?
+
+WARREN BUFFETT: I didn't really tweet that. I've got a friend that's tweeted about seven times for me.
+
+JOE KERNEN: You've got no follow, you follow nobody, you know, let me – here, let me—Warren.
+
+WARREN BUFFETT: No—
+
+JOE KERNEN: Warren, you are coming on "Squawk Box" this morning for three hours. It would kill you to say, "I'm going to be on 'Squawk Box' for three hours" and tweet that out as a favor to Becky and me? I mean—
+
+WARREN BUFFETT: Make me an offer. I have never actually tweeted myself. And I don't really know how to do it. You know, and I don't know how to look up somebody else's tweets. But I'd still—
+
+JOE KERNEN: Will you look at—will you look into it maybe –
+
+WARREN BUFFETT: I'd still feel I've led I've led a satisfactory life.
+
+JOE KERNEN: You know what? I'm going to tell you something, Warren. Becky, over the weekend, I was trying to figure out, I mean I get so irritated, that I don't need it, you know? Not from people sending, but now, from looking at what other people are tweeting –
+
+BECKY QUICK: Twitter?
+
+JOE KERNEN: And retweeting, I get irritated. And I'm trying to figure out a way to still get the info that sometimes I get, but just without me being actually part of it. Have you got a way I can do it? But then I'd still be following these annoying people. I don't know—
+
+BECKY QUICK: Lobotomy?
+
+WARREN BUFFETT: Joe, if we go to the final game, if we go to the finals of the NCAA and we're there together in these great seats I'm going to deliver for you because Creighton's in it—
+
+JOE KERNEN: I'm going to hope for Creighton.
+
+WARREN BUFFETT: I will have you tweet for me during the game.
+
+BECKY QUICK: Oh, be careful what you offer, Warren.
+
+WARREN BUFFETT: I mean, you could—
+
+BECKY QUICK: Joe, how would you like the keys to the castle with that?
+
+WARREN BUFFETT: You'll be the designated tweeter—
+
+JOE KERNEN: God, there's a lot—
+
+WARREN BUFFETT: But I've never read a tweet. I mean—
+
+JOE KERNEN: You know what? I'm taking Creighton and Xavier right to the – now I'm really going to be rooting, you know, but—
+
+WARREN BUFFETT: I love it.
+
+JOE KERNEN: Becky –
+
+WARREN BUFFETT: I love it.
+
+JOE KERNEN: I unblocked someone today that appealed to me through email. And I've never done – I had to figure out how to do it.
+
+BECKY QUICK: Wow.
+
+JOE KERNEN: But it's on a probationary basis, at the board of discretion or at the discretion of the board. But I've never done that before.
+
+BECKY QUICK: The discretion of the board.
+
+JOE KERNEN: Yeah, but someone got back in. So, you get to do things like that if you come on, Warren.
+
+BECKY QUICK: Warren, what—
+
+WARREN BUFFETT: I'd rather read 10Ks.
+
+BECKY QUICK: Right, but you don't realize how dangerous that offer is you just made because Joe and I have joked around about getting a hold of somebody's Twitter account or their information when they leave it logged onto a screen that we sit down at. The things that you can tweet out. Or the things that you can say to people.
+
+JOE KERNEN: So dangerous. So dangerous.
+
+BECKY QUICK: When you're masquerading as someone else.
+
+WARREN BUFFETT: Well, people have pretended to be me on both Facebook and Twitter, I mean—
+
+BECKY QUICK: Have you guys gone after the people who—
+
+WARREN BUFFETT: We did it for a while. There's just so many of them it's kind of hopeless.
+
+BECKY QUICK: Every time you stamp one out, eight more pop up?
+
+WARREN BUFFETT: Yeah, exactly. Exactly.
+
+BECKY QUICK: All right. We will have much more from Warren Buffett still to come this morning. Right now though, as we head to a break, take a look at shares of the four airlines in which Berkshire Hathaway has a stake. We were just talking about all of this and why Mr. Buffett likes these stocks. After talking about some of these things, some of those stocks have popped. Delta's up by almost 1.2%. Buffett told us he wouldn't rule out owning an airline outright, although he says that's not in the cards at this point. We will be right back.
+
+JOE KERNEN: Welcome back to "Squawk Box." Let's check out the futures. Look like-- about 180 right now, 177 in terms of the Dow Jones trading higher pre-market. The-- S&P indicated up about 14. The NASDAQ indicated up about 37. Last time-- we looked at the ten year, it was actually below 2.85 now. It was at-- 2.84. So that-- has seemed like it's-- sort of-- been positive for the move that we're seeing in equities. Right now, let's get back-- to Becky Quick-- and Warren Buffett-- in Omaha. Still thinkin' about that-- that twit-- tweet offer-- Becky. That's big. That is big. In terms, like I-
+
+WARREN BUFFETT: It's big. It's big--
+
+JOE KERNEN: How many tweets would I be--
+
+BECKY QUICK: Remember when we almost took over David's? We almost-- remember--
+
+JOE KERNEN: David Faber.
+
+BECKY QUICK: --you and I walked up and David Faber had been left on. And we almost--
+
+JOE KERNEN: I got so scared.
+
+BECKY QUICK: --took over his account. We stopped--
+
+JOE KERNEN: No, I got--
+
+BECKY QUICK: --ourselves?
+
+JOE KERNEN: --so scared, thinking about the things that I could send out, that-- that-- you know, that-- and then I'd get fired, probably. He-- first, he'd look like he w-- you know, and then I got so nervous about it, I logged it out. I didn't want-- I didn't even want it there 'cause it's so dangerous-- with the--
+
+BECKY QUICK: Faber doesn't even know--
+
+JOE KERNEN: --the thought police--
+
+BECKY QUICK: --we almost did that.
+
+JOE KERNEN: The thought police that are on Twitter are, like-- you can retweet something inadvertently. And if it comes from some, like, crazy or something, then it-- suddenly, you're-- you know, you're tarnished with it. The whole thing is dangerous-- the whole thing makes me nervous, Becky. It just does, you know what I mean? It j-- it's just better to not do it, you know? And you definitely-- Warren--
+
+BECKY QUICK: Agree.
+
+JOE KERNEN: --don't ever TWI. You don't ever tweet while intoxicated. That is immediately grounds--
+
+BECKY QUICK: Oh, he doesn't drink.
+
+JOE KERNEN: TWI.
+
+BECKY QUICK: He doesn't drink.
+
+JOE KERNEN: You can get a TWI. Don't do that.
+
+BECKY QUICK: Right, right. Okay. Well, let's-- make a little bit of a turn here and get into another discussion with Warren Buffett.
+
+WARREN BUFFETT: Yeah, let's talk while intoxicated, yeah.
+
+BECKY QUICK: Right. We get ourselves in enough trouble with things just with the coffee and the Coke-- Coca Cola, I should say. Warren, let's talk a little bit about trade policies-- and-- what's happened in Washington. There-- there's some news out today-- that Peter Navarro is going to be elevated as a special counselor to President Trump. And people have made-- a lot of this because Peter Navarro is somebody who-- has-- some--pretty strong ideas-- about-- free trade and where he thinks the problems are with free trade. He's made the argument that-- having a trade deficit is a bad thing, inherently. Do you agree with that?
+
+WARREN BUFFETT: Well, I-- -- actually wrote an article about it some years ago. Unfortunately, I think having very large trade deficits as a percentage your GDP manage-- means you're transferring wealth abroad to other countries or claims on wealth, you know? And-- I thought we were-- that was excessive a dozen years ago or so. I don't like the idea of running huge trade deficits as a percentage of GDP at all. You can say you're fooling foreigners 'cause you're just handing 'em little pieces of paper and they're working hard, making underwear and shoes and everything to ship to you. And why not give them little pieces of paper which are gonna get inflated away at some point? But I don't like large trade deficits. On the other hand-- trade has benefited us and the world enormously over time. And it doesn't mean that there can't be abuses in it in terms of dumping and things of that sort. But a world that-- that has more trade in it, relative to the total world economy ten or 20 years from now, will be a better world than one with lesser trade.
+
+BECKY QUICK: Where do you think we stand-- in terms of how we've approached these trade deals? Because a lot of the things that people-- thought would happen as soon as President Trump took office, haven't come to fruition. We haven't gotten out of NAFTA yet. We haven't done some of the more restrictive things in terms of labeling-- the Chinese-- manipulators or-- some of the heavy duty things that were kind of threatened at the start.do you worry-- about closing borders? What would it mean for Berkshire if that happened?
+
+WARREN BUFFETT: Well, I don't-- I don't think closing borders is a good idea. And I don't think in--
+
+BECKY QUICK: Not that we've talked about doing that, but if we were to get outta NAFTA, let's look at some of the--
+
+WARREN BUFFETT: I--think over time, we want more trade-- and the closer it is to balanced trade, the better. I mean, maybe ideal, e-- everybody would have the total trade balance, but it isn't gonna work that way, obviously. But-- we can take small imbalances, fine over time. And I- think on balance, you wanna encourage trade. Our--we will live better off. If we-- if we start saying we're gonna grow our own bananas in the United States-- we've said that with sugar. I mean, with sugar, we've subsidized it like crazy in this country. Been-- you know, and the truth is, we're-- we aren't the best natural place to grow sugar. And you get artificialities in your economy if you start-- if you start ruling out this and ruling in that. But it's-- we oughta be generally pro-trade, but we should avoid gettin'-- doing something really stupid, -- which is that as a guiding principle.
+
+BECKY QUICK: There's been-- an issue that the Commerce Department has made recommendations in terms of what to do on both aluminum and steel with some of these dumping provisions. The White House has some time now to make up its mind on going down this. Do you have any thoughts on that? Does that play into any of the businesses-- that you're involved in?
+
+WARREN BUFFETT: Well-- I would say we have not been enormously affected by trade. Obviously, you know, 50 years ago the-- we didn't own it then, but the-- company made underwear, you know, that-- -- it was using more domestic workers percentage wise than it-- it does-now-
+
+BECKY QUICK: Berkshire Hathaway, the original--
+
+WARREN BUFFETT: Yeah, of course. Yeah, we d-- yeah-- Fruit of the Loom. It used to be called Union Underwear. I mean, they're-- we originally were in textiles. And-- and our competition was partly in the United States, but then it became outside the company as well. In shoes, we got decimated-- with the company we bought because of-- the fact that-- that we had the best workers in the world and all that. But-- shoes came in cheaper from abroad. The United States used to make a very high percentage of its own shoes. It makes probably w-- none now. So it-- can have huge affect on industry. But overall, we wanna work toward having more trade. And we also wanna figure out a good way of taking care of the people that are-- that lose their jobs and are 55 and can't really be retrained for other things because of the effects of having free trade. We-- the benefits of free trade get spread throughout the population and-- the roadkill are real in terms of the people in given industries. And we should take care of those people because-- we're sacrificing their lives for the g-- or economic lives, for the greater good. And there oughta be policies that take care of them.
+
+BECKY QUICK: Last week on Squawk Box-- we had a guest host join us-- for a couple of hours, Chris Hughes, who is one of the founders of Facebook. He was there. He happened to be Mark Zuckerberg's-- roommate in college--
+
+WARREN BUFFETT: He made a good decision.
+
+BECKY QUICK: He did. He spent about three years working for Facebook and, in turn, made about half a billion dollars when the company went public. He joined us because of a new initiative that he's been working on to try and deal with the problem that you just-described. His thought is to have a program where it-- it's not a universal basic income, where everybody gets $1,000 no matter what, it's anybody who is working, he thinks, should be making about $500-- on a monthly basis. Just to make sure that they're not falling below the poverty line as long as they are working. What are your thoughts on this, 'cause you've talked about the earned income tax?
+
+WARREN BUFFETT: Yeah, I like the earned income tax credit. For one thing, we've got it. So we've got some experience with it. And-- I think we're spending about $60 billion a year on it. So it's-- and it's something, incidentally, that seems pretty bipartisan. I think Paul Ryan is in favor of it. And-- there're some-- be some improvements made. I mean-- I think now you get it once a year and, you know, in effect, you take payday laws-- seeing it coming. And it'd be better if it was, in my view, done, you know, on a regular basis throughout the year so you don't have this lump sum problem. And--I think it should be-- it-- to the person-- a minimum wage-- affects market economics. And it affects it big time if you really do it extreme enough. What counts to the worker is how much money they put in their pocket. And-- an earned income tax credit, I think, is the best way of both guaranteeing that people have a reasonable amount in their pocket even if they're working at jobs where the market doesn't pay them-- wouldn't pay that much. And it also keeps the dignity of work there. And it also encourages people to improve their skills because as you move up, you keep more of the money. So I much prefer the earned income tax credit. And I think the American people generally would endorse it more. I think it has more-- it encourages more things the American people kind of value.
+
+BECKY QUICK: Okay. We're gonna take-- a very quick break. When we return, we have more of your questions for Warren Buffett. We'll get to that-- just when we come back after this very quick break. As we head to that break, take a quick look at the U.S. equity futures. You know, see, they've been up all morning long. Dow future's up by 165 points, the NASDAQ up by 35, the S&P up by 13. Squawk Box, right back.
+
+BECKY QUICK: Welcome back to Squawk Box. Right now it's time for some parting shots with our news maker of the morning, Berkshire Hathaway's chairman and CEO, Warren Buffett. Warren, a couple of quick questions that have come in-- from viewers as well. Russel Pruner writes in-- he was wondering what Mr. Buffett thinks about, "How residential real estate will perform in 2018, especially the luxury markets in the northeast impacted by high property taxes and the loss of the SALT deductions," the state and local-- property taxes deductions.
+
+WARREN BUFFETT: Yeah, I don't really know. They-- we'll find out. And-- I like the business over time. I like homeownership. I mean, I'm-- bought my house 60 years ago and-- you know, it-- it's been an important part of the family's happiness. So I--- but-- I haven't got the faintest idea on--
+
+BECKY QUICK: All right. Harry John writes in. He says, "Considering that both Warren and Charlie were already both strong minded and confident in their own abilities when they met, how did they instantly click with each other? And what was it that allowed them to trust each other to be lifelong business partners?"
+
+WARREN BUFFETT: Yeah, it's an interesting question because we had dinner together in 1959 and we never knew each other. He grew up - less than a block away from where I now live. He worked at my grandfather's grocery store like I did, but we did not know each other till he was 35 and I was 29. And we went to dinner. And in five minutes-- Charlie was rolling at the floor laughing at his own jokes, and I do the same thing. So-- we knew we were sort of made for each other. And we've never had an argument in this whole time. We are strong minded. We disagree on a few things. We agree on most things. And we have a great time together. It--
+
+BECKY QUICK: Can respect each other--
+
+WARREN BUFFETT: Absolutely--
+
+BECKY QUICK: --and disagree.
+
+WARREN BUFFETT: Totally.
+
+BECKY QUICK: Hey, Joe, I think you had a question too?
+
+JOE KERNEN: You know, we don't have time, but l-- working-- I--watch how-- Warren operates. He never really-- promises things that are likely to happen. And-- Creighton probably won't make the finals. What about that deal works if they make the elite eight, Buffett? Let's say they make the elite eight, can we watch that game? Or what about-- are you (UNINTEL)--
+
+WARREN BUFFETT: We'll watch that game
+
+JOE KERNEN: Okay. Elite eight.
+
+WARREN BUFFETT: You got-- you got a deal.
+
+JOE KERNEN: Okay. They make the elite eight. I--
+
+WARREN BUFFETT: Elite eight. I'll buy the popcorn. I'll buy the popcorn.
+
+JOE KERNEN: Excellent.
+
+WARREN BUFFETT: I'll even buy the tickets. But I was gonna--
+
+JOE KERNEN: Yeah, I'll get the tickets. Don't worry. I just wanna tweet on your account. Anyway, thank you, Warren. Thank you, Becky.
+
+WARREN BUFFETT: And incidentally--
+
+JOE KERNEN: And it's great--
+
+WARREN BUFFETT: --Nebraska has a good
+
+BECKY QUICK: Yeah, Warren, thank you--
+
+JOE KERNEN: Oh, it's Nebraska too.
+
+BECKY QUICK: --so much for your time today.
+
+WARREN BUFFETT: Okay. Thanks.
+
+JOE KERNEN: All right, great. Thank--
+
+WARREN BUFFETT: Nebraska has a good team.
+
+JOE KERNEN: All right either one then I will take that. Becky thank you.
+
+About CNBC:
+
+With CNBC in the U.S., CNBC in Asia Pacific, CNBC in Europe, Middle East and Africa, and CNBC World, CNBC is the recognized world leader in business news and provides real-time financial market coverage and business information to more than 409 million homes worldwide, including more than 91 million households in the United States and Canada. CNBC also provides daily business updates to 400 million households across China. The network's 15 live hours a day of business programming in North America (weekdays from 4:00 a.m. - 7:00 p.m. ET) is produced at CNBC's global headquarters in Englewood Cliffs, N.J., and includes reports from CNBC News bureaus worldwide. CNBC at night features a mix of new reality programming, CNBC's highly successful series produced exclusively for CNBC and a number of distinctive in-house documentaries.
+
+CNBC also has a vast portfolio of digital products which deliver real-time financial market news and information across a variety of platforms including: CNBC.com; CNBC PRO, the premium, integrated desktop/mobile service that provides live access to CNBC programming, exclusive video content and global market data and analysis; a suite of CNBC mobile products including the CNBC Apps for iOS, Android and Windows devices; and additional products such as the CNBC App for the Apple Watch and Apple TV.
+
+Members of the media can receive more information about CNBC and its programming on the NBCUniversal Media Village Web site at http://www.nbcumv.com/programming/cnbc.
+
+For more information about NBCUniversal, please visit http://www.NBCUniversal.com.
+
+Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.

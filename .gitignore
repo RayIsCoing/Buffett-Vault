@@ -1,0 +1,9 @@
+# Obsidian local config
+.obsidian/
+.DS_Store
+
+# PDFs are redundant — text already extracted to .txt
+Attachments/**/*.pdf
+
+# Claude Code local settings
+.claude/
