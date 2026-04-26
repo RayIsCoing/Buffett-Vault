@@ -60,7 +60,14 @@ Every analysis must include:
 5. Bear Case — strongest honest argument AGAINST buying
 6. Net Verdict — one of five ratings + clear reasoning
 7. What Would Change My View — what would flip the verdict
+
+---
+📚 Sources consulted:
+- [specific file name] — [what was found / "no relevant mentions"]
+- ...
 ```
+
+⚠️ **If the "Sources consulted" section is missing, the analysis is invalid.** Go back and search the vault. Before your first search, Read `INDEX.md` to get the topic-to-file mapping.
 
 ---
 
