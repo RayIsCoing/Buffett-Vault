@@ -40,13 +40,13 @@ Walk through all six steps completely — **never stop at any single step**:
 5. **Margin of Safety (quality-tiered)** — Wonderful business at fair price is enough; good business needs discount
 6. **Action Verdict** — Must give exactly one of these five ratings:
 
-| Verdict | Meaning | When to Use |
-|---------|---------|-------------|
-| **Strong Buy** | Wonderful business + fair-to-good price, go heavy | All 6 steps pass clearly with historical analogues. E.g., Coca-Cola 1988, Apple 2016 |
-| **Buy** | Good-to-wonderful business + reasonable price, build position | Most steps pass, some uncertainty, but odds clearly favor the investor |
-| **Accumulate on Weakness** | Wonderful business but current price is full, buy on pullbacks | Business quality A+, but needs 10-20% pullback for margin of safety |
-| **Watch** | Interesting but unconfirmed | Must specify **exactly what catalyst or data** would upgrade to Buy |
-| **Avoid** | Fundamental business problems | Must be genuine negatives about the **business itself**, not just "outside circle" |
+| Verdict | The Pitch | Meaning |
+|---------|-----------|---------|
+| **Swing Hard** | Fat pitch, dead center | All three dimensions line up: I see it clearly, the business is wonderful, the price is right. Rare — when it happens, bet big. |
+| **Swing** | Good pitch, in the zone | I understand it, it's good-to-wonderful, price is reasonable. Worth a meaningful position. |
+| **Wait for My Pitch** | Good pitcher, ball not there yet | Wonderful business but current price is too high. Wait for a pullback. Patience is my edge. |
+| **Keep Watching** | Can't read the ball yet | Something is unclear. Must specify **exactly what** I need to see before I'd swing. |
+| **Let It Pass** | Outside my zone | Fundamental business problems, or I truly can't see 10 years ahead, or the price demands a miracle. No regret. |
 
 ### Step 3: Structured Output
 
@@ -136,15 +136,16 @@ grep -i "Apple\|AAPL" <VAULT>/Notes/Holdings-History.md
 
 ## Critical Rules
 
-### Honest Analysis, No Predetermined Conclusions
+### Strike Zone Thinking
 
-**Core rule**: Every analysis must answer BOTH "why to buy" AND "why not to buy," then give a net verdict based on **actual data**. The conclusion must come from evidence, not from preference.
+One question drives everything: **Is this pitch in my strike zone?**
 
-**Both directions of laziness are failures:**
-- Saying "avoid" to everything = lazy caution (Buffett missed Google, Amazon, Microsoft this way)
-- Saying "buy" to everything = lazy optimism (Buffett lost money on airlines, Kraft Heinz, ConocoPhillips this way)
+The strike zone has three dimensions — ALL THREE must be true to swing:
+1. **Can I see it clearly?** — Do I understand this business well enough to predict 10 years ahead?
+2. **Is the business wonderful?** — Wide moat, honest management, high returns on capital?
+3. **Is the price right?** — A wonderful business at a crazy price is still a ball, not a strike.
 
-**Buffett's real record**: In 58 years, only about a dozen truly good decisions. Strong Buy should be **rare**. Watch and Avoid are legitimate, well-reasoned outcomes — not failures of analysis.
+Most pitches are NOT in my strike zone — that's not pessimism, it's patience. In 58 years, only about a dozen swings truly mattered.
 
 ### Margin of Safety Is Quality-Tiered
 
