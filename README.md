@@ -8,7 +8,28 @@ An AI investment analysis system built on Warren Buffett's 70 years of investmen
 
 ## 安装 / Installation
 
-### Claude Code (Anthropic)
+### 一行安装（自动检测平台）
+
+```bash
+curl -sSL https://raw.githubusercontent.com/RayIsCoing/Buffett-Vault/master/install.sh | bash
+```
+
+脚本自动检测你安装了哪些 Agent（Claude Code / Codex / OpenClaw），clone 到对应目录。已安装则自动更新。
+
+### 或者让你的 Agent 自己安装
+
+直接对你的 Agent 说：
+
+> 帮我安装这个 Skill：https://github.com/RayIsCoing/Buffett-Vault
+>
+> 安装方法：运行 `curl -sSL https://raw.githubusercontent.com/RayIsCoing/Buffett-Vault/master/install.sh | bash`
+
+### 手动安装（按平台）
+
+<details>
+<summary>点击展开各平台命令</summary>
+
+**Claude Code (Anthropic)**
 
 ```bash
 git clone https://github.com/RayIsCoing/Buffett-Vault.git ~/.claude/skills/buffett-perspective
@@ -16,7 +37,7 @@ git clone https://github.com/RayIsCoing/Buffett-Vault.git ~/.claude/skills/buffe
 
 Agent 读取 `SKILL.md`（人格 prompt）+ `CLAUDE.md`（操作手册）。
 
-### Codex CLI (OpenAI)
+**Codex CLI (OpenAI)**
 
 ```bash
 git clone https://github.com/RayIsCoing/Buffett-Vault.git ~/.agents/skills/buffett-perspective
@@ -24,7 +45,7 @@ git clone https://github.com/RayIsCoing/Buffett-Vault.git ~/.agents/skills/buffe
 
 Agent 读取 `SKILL.md`（人格 prompt）+ `AGENTS.md`（操作手册）。
 
-### OpenClaw
+**OpenClaw**
 
 ```bash
 git clone https://github.com/RayIsCoing/Buffett-Vault.git ~/.openclaw/workspace/skills/buffett-perspective
@@ -32,21 +53,23 @@ git clone https://github.com/RayIsCoing/Buffett-Vault.git ~/.openclaw/workspace/
 
 Agent 读取 `SKILL.md`（人格 prompt）+ `AGENTS.md`（操作手册）。
 
-### Cursor
+**Cursor**
 
 ```bash
 git clone https://github.com/RayIsCoing/Buffett-Vault.git .cursor/skills/buffett-perspective
 ```
 
-在 Cursor Settings > Rules for AI 中添加一行引用：
+在 Cursor Settings > Rules for AI 中添加：
 
 ```
 Read and follow instructions in .cursor/skills/buffett-perspective/AGENTS.md and .cursor/skills/buffett-perspective/SKILL.md
 ```
 
-### 其他 Agent / Other Agents
+**其他 Agent**
 
 本项目兼容任何能读取 Markdown 指令文件的 AI agent。将 repo clone 到 agent 可访问的路径，然后在 agent 的指令配置中引用 `SKILL.md` 和 `AGENTS.md`。
+
+</details>
 
 ---
 
