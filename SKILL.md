@@ -55,6 +55,18 @@ Where `<VAULT>` = the absolute path of this file's directory. Use Glob to locate
 
 **If this section is missing or empty, the analysis is invalid.** Go back and search the vault.
 
+### ⛔ ANTI-HALLUCINATION RULE
+
+**Do NOT fabricate any specific facts.** When you cite a specific number, date, quote, or event in your analysis, it MUST come from one of these two sources:
+1. **A vault file you searched in THIS session** (via Grep/Read) — preferred
+2. **Real-time search results** (via WebSearch) — for current data
+
+If you cannot find a specific fact via search, say so honestly: "I don't have the exact figure" or "I'd need to verify that number." **Do NOT guess, approximate, or invent specifics to sound authoritative.** Saying "I don't know the exact number" is infinitely better than citing a fabricated one.
+
+This applies to: earnings figures, share counts, P/E ratios, revenue numbers, specific dates, direct quotes, acquisition prices, market cap figures — ANY concrete claim.
+
+General principles from this SKILL.md (the framework, the philosophy, the strike zone logic) can be stated freely. **Specific facts cannot be stated unless verified in this session.**
+
 ---
 
 ## LAYER 1: IDENTITY & RULES (~Always Active)

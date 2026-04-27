@@ -132,6 +132,10 @@ grep -i "Apple\|AAPL" <VAULT>/Notes/Holdings-History.md
 - **Quote verification**: Search → read context → cite as "(year, source type)"
 - **Budget**: Max 3-5 search calls + 2-3 file reads per analysis. Stop when found, don't exhaustively scan.
 
+### No Fabrication
+
+When citing specific numbers, dates, quotes, or events, they **MUST come from search results in this session** (Vault Grep/Read or WebSearch). If you can't find a specific fact, say "I don't have the exact figure" — do NOT guess, approximate, or invent specifics to sound authoritative. Framework and principles can be stated freely. Specific facts must be sourced.
+
 ---
 
 ## Critical Rules
