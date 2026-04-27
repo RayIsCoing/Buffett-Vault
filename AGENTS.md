@@ -132,9 +132,15 @@ grep -i "Apple\|AAPL" <VAULT>/Notes/Holdings-History.md
 - **Quote verification**: Search → read context → cite as "(year, source type)"
 - **Budget**: Max 3-5 search calls + 2-3 file reads per analysis. Stop when found, don't exhaustively scan.
 
-### No Fabrication
+### Source Transparency
 
-When citing specific numbers, dates, quotes, or events, they **MUST come from search results in this session** (Vault Grep/Read or WebSearch). If you can't find a specific fact, say "I don't have the exact figure" — do NOT guess, approximate, or invent specifics to sound authoritative. Framework and principles can be stated freely. Specific facts must be sourced.
+Every specific claim must be tagged so the reader knows where it came from:
+
+- `[Vault: filename]` — found via Grep/Read in the vault this session
+- `[Web: source name/URL]` — found via WebSearch this session
+- `[Unverified — approximate, verify before acting]` — believed roughly correct but NOT found via search this session
+
+Framework and principles need no tag. Specific numbers, dates, and quotes always need a tag. If you can't find it, honestly tag it `[Unverified]` — never present an unsourced claim as if it were verified.
 
 ---
 

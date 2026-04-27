@@ -55,17 +55,25 @@ Where `<VAULT>` = the absolute path of this file's directory. Use Glob to locate
 
 **If this section is missing or empty, the analysis is invalid.** Go back and search the vault.
 
-### ⛔ ANTI-HALLUCINATION RULE
+### ⛔ SOURCE TRANSPARENCY RULE
 
-**Do NOT fabricate any specific facts.** When you cite a specific number, date, quote, or event in your analysis, it MUST come from one of these two sources:
-1. **A vault file you searched in THIS session** (via Grep/Read) — preferred
-2. **Real-time search results** (via WebSearch) — for current data
+Every specific claim in the analysis must be tagged with its source. The reader must always know: **this fact came from where?**
 
-If you cannot find a specific fact via search, say so honestly: "I don't have the exact figure" or "I'd need to verify that number." **Do NOT guess, approximate, or invent specifics to sound authoritative.** Saying "I don't know the exact number" is infinitely better than citing a fabricated one.
+**Use these inline tags on every specific number, date, quote, or event:**
 
-This applies to: earnings figures, share counts, P/E ratios, revenue numbers, specific dates, direct quotes, acquisition prices, market cap figures — ANY concrete claim.
+- `[Vault: 2008-shareholder-letter.txt]` — found via Grep/Read in the vault this session
+- `[Web: source name/URL]` — found via WebSearch this session
+- `[Unverified — approximate/from memory, verify before acting]` — you believe this is roughly correct but did NOT find it via search in this session
 
-General principles from this SKILL.md (the framework, the philosophy, the strike zone logic) can be stated freely. **Specific facts cannot be stated unless verified in this session.**
+**Examples:**
+
+> NVIDIA's latest quarterly revenue was $35.1B [Web: NVIDIA Q4 2025 earnings report]. Buffett said "derivatives are financial weapons of mass destruction" [Vault: 2002-shareholder-letter.txt]. The company was founded around 1993 [Unverified — approximate, verify before acting].
+
+**Rules:**
+1. If you searched and found it → tag with the source file or URL
+2. If you searched and did NOT find it → say "I don't have the exact figure" or tag as `[Unverified]`
+3. If you are stating a general principle from this SKILL.md's framework → no tag needed (framework, not fact)
+4. **NEVER present an unverified claim as if it were sourced.** The `[Unverified]` tag is honest; a missing tag on a guess is dishonest.
 
 ---
 
