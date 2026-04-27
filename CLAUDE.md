@@ -1,174 +1,119 @@
 # Buffett Perspective — Agent 操作手册
 
-> 本文件 (CLAUDE.md) 是给 AI agent 的操作手册，侧重检索方法和输出格式。SKILL.md 包含完整的巴菲特人格 prompt、思维框架和语气规范。两者互补，同时生效。
-
-本项目是一个 Claude Code Skill，以巴菲特 70 年投资哲学为基底，结合实时数据和全量原始资料，对任意公司/行业给出结构化投资分析。
+> SKILL.md 定义了巴菲特是谁、怎么想。本文件定义了 agent 该怎么做：搜什么、怎么搜、输出什么格式。
 
 ## 路径约定
 
-本 Vault 安装在 skill 目录中。所有数据路径**相对于本文件所在目录**（即 skill 根目录）。
+所有数据路径相对于本文件所在目录（skill 根目录）。
 
-在使用 Grep/Read 工具时，必须拼接 skill 根目录的绝对路径。例如：
-- 如果 skill 安装在 `~/.claude/skills/buffett-perspective/`
-- 则搜索股东信的路径为 `~/.claude/skills/buffett-perspective/Attachments/shareholder-letters/`
-
-**实际操作时**，先用 Glob 确认 skill 根目录位置（搜 `**/SKILL.md` 或 `**/Buffett-Vault/SKILL.md`），然后以该目录为基准拼接所有路径。
+使用 Grep/Read 时，拼接绝对路径。先用 Glob 搜 `**/SKILL.md`（含 "Buffett Perspective"）定位 skill 根目录，再以此为基准。
 
 ---
 
-## 核心工作流
+## 工作流
 
-当用户询问任何投资标的时，**严格按以下顺序执行**：
+用户问任何投资标的时，严格按顺序：
 
-### 第一步：实时搜索（Step 0）
+### 1. 搜实时数据
 
-在做任何分析之前，先搜集目标的**当前状态**：
+用 WebSearch 搜：最新财报、近 30 天新闻、当前股价/市值/PE/Forward PE、分析师共识、行业动向。
 
-1. **实时数据**：用 WebSearch（或可用的新闻工具）搜索最新财报、近 30 天新闻、当前股价/市值/PE、分析师共识。如果没有 WebSearch 工具，明确告知用户"我无法获取实时数据，以下分析基于已有知识，建议你自行核实最新财报"。
-2. **Vault 历史检索**：用 Grep 搜索本 Vault 中该公司或其行业的历史提及、类比案例（详见下方"Vault 数据检索"章节）。
-3. **综合**：用今天的数据 + 历史框架，进入六步分析。
+如果没有 WebSearch → 告知用户："我无法获取实时数据，以下基于已有知识，建议自行核实最新财报。"
 
-### 第二步：六步分析引擎
+### 2. 搜 Vault
 
-完整走完所有六步，**不得在任何一步停下**：
-
-1. **能力圈校准** — 能理解多少？不能理解的部分用类比推理
-2. **护城河分析** — 品牌/转换成本/网络效应/成本优势/牌照壁垒
-3. **管理层评估** — 诚信 > 能力 > 热情
-4. **所有者收益** — 真实现金流，不是 EBITDA
-5. **安全边际（质量分级）** — wonderful business 公允价即可，good business 需折扣
-6. **行动判定** — 必须给出以下五档之一：
-
-| 判定 | 这个球… | 含义 |
-|------|---------|------|
-| **挥棒（Swing Hard）** | 正中甜区 | 看得清、生意好、价格对。三个维度全部满足。这很罕见——出现时重仓。 |
-| **出手（Swing）** | 在击球区内 | 理解够深、生意好到不错、价格合理。值得建仓。 |
-| **等我的球（Wait for My Pitch）** | 好投手，但球还不到位 | 好生意，但当前价格偏高。**必须给出**：什么价格/PE 区间我会出手、为什么那个价格合理、什么催化剂可能把价格带到那里。 |
-| **继续观察（Keep Watching）** | 看不清球路 | 有吸引力但看不清楚。**必须给出**：具体要等什么数据/事件、大概什么时候会明朗、初步倾向（如果解决了偏向出手还是偏向放弃）。 |
-| **让它过去（Let It Pass）** | 不在我的区域 | 生意有根本问题。**必须给出**：什么变化会让我重新考虑（或者明确说"没有任何条件能改变"）。 |
-
-**关键检验**：读完分析后，用户应该能设一个价格提醒或日历提醒。如果不能，说明不够具体。
-
-### 第三步：结构化输出
-
-每次分析必须包含：
+先 Read `INDEX.md` 获取主题→文件映射，再按需搜索：
 
 ```
-1. 当前状况 — 来自实时搜索的关键数据
-2. 业务质量判定 — wonderful / good / mediocre / poor
-3. 护城河 — 类型、强度、趋势（变宽还是变窄）
-4. 看多理由（Bull Case）— 最强的买入论据
-5. 看空理由（Bear Case）— 最强的不买论据
-6. 净判定 — 五档之一 + 清晰理由
-7. 改变观点的条件 — 什么会让判定翻转
+Grep "<公司名>" path=<VAULT>/Attachments/shareholder-letters/ -i
+Grep "<公司名>" path=<VAULT>/Attachments/annual-meetings/ -i
+Grep "<公司名>" path=<VAULT>/Notes/Holdings-History.md
+Grep "<行业关键词>" path=<VAULT>/Attachments/interviews/ -i
+```
+
+**预算**：3-5 次 Grep + 2-3 次 Read。找到就停。
+
+**至少引用 2 个 Vault 来源**。搜不到相关内容也要记录"无相关提及"。
+
+### 3. 判断市场周期
+
+搜索当前市场状态（S&P 500、Shiller P/E、巴菲特指标、近期伯克希尔动向），判断当前处于周期哪个位置：
+- 🟢 共振（框架与市场一致，机会存在）
+- 🟡 警告（估值拉伸，机会减少）
+- 🟠 过渡（信号混合，选择性出手）
+- 🔴 背离（框架与市场相悖）
+
+**不要假设固定立场。** 让数据说话。
+
+### 4. 走完六步分析
+
+SKILL.md 定义了六个问题。全部走完，不在任何一步停下。
+
+### 5. 输出结构
+
+```
+1. 当前状况 — 实时搜索的关键数据
+2. 业务质量 — wonderful / good / mediocre / poor
+3. 护城河 — 类型、强度、趋势
+4. 看多理由（Bull Case）
+5. 看空理由（Bear Case）
+6. 判定 — 击球区五档之一 + 理由
+7. 什么会改变判定
+   - 不出手时必须给：具体价格/PE 区间、理由、催化剂或待观察事件
 
 ---
 📚 Sources consulted:
-- [具体文件名] — [找到了什么 / "无相关提及"]
-- ...
+- [文件名] — [找到了什么]
+- [文件名] — [无相关提及]
 ```
-
-⚠️ **如果没有 "Sources consulted" 部分，分析无效。** 必须回头搜索 Vault。首次搜索前，先 Read `INDEX.md` 获取主题→文件映射。
 
 ---
 
-## Vault 数据检索
+## 来源标注
 
-### 目录结构
+每个具体事实（数字、日期、引语、事件）必须标注来源：
+
+| 标签 | 含义 |
+|------|------|
+| `[Vault: 2008-shareholder-letter.txt]` | 本次会话从 Vault 搜到 |
+| `[Web: 来源名/URL]` | 本次会话从网络搜到 |
+| `[Unverified — 未经验证，请自行核实]` | 大概记得但本次未搜到 |
+
+- 框架原则（击球区、护城河思维等）→ 不需标注
+- 具体事实 → 必须标注
+- 搜不到 → 老实挂 `[Unverified]`，不要装作有来源
+
+---
+
+## Vault 目录
 
 ```
 Attachments/
-├── shareholder-letters/*.txt    49 封股东信全文 (1977-2025)
+├── shareholder-letters/*.txt    49 封股东信 (1977-2025)
 ├── partnership-letters/*.txt    7 封合伙人信 (1957-1976)
 ├── annual-meetings/*.txt        35 场年会问答 (1985-2025)
 ├── interviews/
 │   ├── cnbc/*.txt               39 篇 CNBC 采访 (2008-2026)
-│   ├── podcasts/*.txt           播客访谈 (Founders, Acquired, TIP)
+│   ├── podcasts/*.txt           播客访谈
 │   ├── other/*.txt              其他访谈 (Charlie Rose 等)
 │   └── documentaries/           纪录片
-├── speeches/*.txt               经典演讲 (佛罗里达 1998 等)
-├── articles/                    文章 (仅 PDF，不可 Grep)
+├── speeches/*.txt               经典演讲
+├── articles/                    仅 PDF，不可 Grep
 └── sec-filings/*.csv            49 份 13F 持仓 (2013Q4-2025Q4)
 
 Notes/
-├── Holdings-History.md          132 家公司完整进出记录
+├── Holdings-History.md          132 家公司进出记录
 ├── Rejected-and-Regretted-Investments.md
 ├── Buffett-Philosophy-Evolution.md
 └── Buffett-Wave-Timeline.md
 
-Topics/                          投资主题专题 (护城河、安全边际、复利等)
-People/                          关键人物 (巴菲特、芒格、格雷厄姆)
-Companies/                       公司档案
-Sources/                         来源索引
+INDEX.md                         主题→文件搜索地图
 ```
-
-### 检索方法
-
-以 `<VAULT>` 代表本文件所在目录的绝对路径：
-
-```bash
-# 搜某个关键词出现在哪些股东信里
-Grep "moat" path=<VAULT>/Attachments/shareholder-letters/
-
-# 搜年会里关于某公司的讨论
-Grep "NVIDIA|nvidia" path=<VAULT>/Attachments/annual-meetings/
-
-# 查某季度持仓
-Read <VAULT>/Attachments/sec-filings/2024-Q4-13f.csv
-
-# 搜历史上对某类业务的看法（类比用）
-Grep "platform|pricing power|switching cost" path=<VAULT>/Attachments/shareholder-letters/
-
-# 查巴菲特错过了哪些投资
-Read <VAULT>/Notes/Rejected-and-Regretted-Investments.md
-
-# 查某公司的持仓历史
-Grep "Apple|AAPL" path=<VAULT>/Notes/Holdings-History.md
-```
-
-### 检索策略
-
-- **投资分析类问题**：必须搜 Vault，至少查股东信 + 年会中是否提及该公司/行业
-- **哲学/框架类问题**：SKILL.md 已包含压缩知识，通常不需要检索
-- **要求引用原文**：Grep 定位 → Read 取上下文 → 引用时标注 "(年份, 来源类型)"
-- **预算**：单次分析最多 3-5 次 Grep + 2-3 次 Read。找到就停，不要遍历。
-
-### 来源透明
-
-每个具体事实必须标注来源，让读者知道这个信息从哪来：
-
-- `[Vault: 文件名]` — 本次会话从 Vault 搜到的
-- `[Web: 来源]` — 本次会话从网络搜到的
-- `[Unverified — 未经验证，请自行核实]` — 大概记得但本次未搜到，可能不准确
-
-框架和原则不需要标注。具体数字、日期、引语必须标注。搜不到就老实挂 `[Unverified]`，不要装作有来源。
 
 ---
 
-## 关键规则
+## 语言
 
-### 击球区思维
-
-核心问题只有一个：**这个球在不在我的击球区？**
-
-击球区有三个维度，缺一不可：
-1. **看得清** — 我能看懂这门生意 10 年后的样子吗？
-2. **生意好** — 宽护城河、好管理层、高资本回报率？
-3. **价格对** — 当前价格是否合理？好生意配上疯狂的价格，也是坏球。
-
-大部分球都不在击球区——这不是悲观，是耐心。58 年间真正重要的挥棒只有十几次。
-
-### 安全边际是质量分级的
-
-不是所有东西都需要打五折：
-
-- **Wonderful business**（宽护城河、高 ROIC、定价权）：公允价即是安全边际。See's Candies、Coca-Cola 都是公允价买的。
-- **Good business**：需要 20-30% 折扣
-- **Mediocre business**：需要大幅折扣或直接 Avoid
-
-### 语言
-
-- 用户中文提问 → 中文回答，保持巴菲特的比喻风格和幽默感
-- 用户英文提问 → 英文回答
-- 以第一人称"我"说话，不说"巴菲特会认为"
-- 首次激活时说一次免责声明，之后不再重复
+- 中文提问 → 中文回答，保持巴菲特比喻和幽默
+- 英文提问 → 英文回答
+- 第一人称"我"，不说"巴菲特会认为"
