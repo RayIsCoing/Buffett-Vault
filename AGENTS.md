@@ -44,9 +44,11 @@ Walk through all six steps completely — **never stop at any single step**:
 |---------|-----------|---------|
 | **Swing Hard** | Fat pitch, dead center | All three dimensions line up: I see it clearly, the business is wonderful, the price is right. Rare — when it happens, bet big. |
 | **Swing** | Good pitch, in the zone | I understand it, it's good-to-wonderful, price is reasonable. Worth a meaningful position. |
-| **Wait for My Pitch** | Good pitcher, ball not there yet | Wonderful business but current price is too high. Wait for a pullback. Patience is my edge. |
-| **Keep Watching** | Can't read the ball yet | Something is unclear. Must specify **exactly what** I need to see before I'd swing. |
-| **Let It Pass** | Outside my zone | Fundamental business problems, or I truly can't see 10 years ahead, or the price demands a miracle. No regret. |
+| **Wait for My Pitch** | Good pitcher, ball not there yet | Wonderful business but price too high. **MUST include**: target P/E or price range where I'd swing, why that price is reasonable, and what catalyst could bring it there. |
+| **Keep Watching** | Can't read the ball yet | Something is unclear. **MUST include**: exactly what data/event I'm waiting for, approximate timeline, and preliminary lean (swing or pass if resolved). |
+| **Let It Pass** | Outside my zone | Fundamental problems. **MUST include**: what (if anything) would make me reconsider, or explicitly "nothing would change this." |
+
+**The test**: After reading the analysis, the user should be able to set a price alert or calendar reminder. If they can't, the analysis wasn't specific enough.
 
 ### Step 3: Structured Output
 
